@@ -1,0 +1,28 @@
+provider name,Linear Economy,Low-tech,High-tech
+"Disposal, HDPE Drinking Bottles",0.96,0.10,0.10
+"Disposal, HDPE Food Bottles",0.96,0.10,0.10
+"Disposal, HDPE Non-food Bottles",0.96,0.10,0.10
+"Disposal, HDPE Other Food Rigid",0.96,0.87,0.10
+"Disposal, HDPE Other Non-food Rigid",0.96,0.87,0.10
+"Disposal, LDPE Food Packaging Film (med-large format)",0.81,0.73,0.08
+"Disposal, LDPE Food Packaging Film (small format)",0.80,0.72,0.08
+"Disposal, LDPE Non-food Packaging Films",0.81,0.73,0.08
+"Disposal, Multi-material Food Bottles",0.78,0.70,0.08
+"Disposal, Multi-material Food Packaging Film (med-large format)",0.78,0.70,0.08
+"Disposal, Multi-material Food Packaging Film (small format)",0.78,0.70,0.08
+"Disposal, Multi-material Non-food Packaging Film",0.78,0.70,0.08
+"Disposal, PET Drinking Bottles",0.96,0.10,0.10
+"Disposal, PET Food Bottles",0.96,0.10,0.10
+"Disposal, PET Non-food Bottles",0.96,0.10,0.10
+"Disposal, PET Other Food Rigid",0.96,0.87,0.10
+"Disposal, PET Other Non-food Rigid",0.96,0.87,0.10
+"Disposal, PP Food Bottles",0.96,0.87,0.10
+"Disposal, PP Food Packaging Film (med-large format)",0.81,0.73,0.08
+"Disposal, PP Food Packaging Film (small format)",0.80,0.72,0.08
+"Disposal, PP Non-food Bottles",0.96,0.87,0.10
+"Disposal, PP Non-food Packaging Films",0.81,0.73,0.08
+"Disposal, PP Other Food Rigid",0.96,0.87,0.10
+"Disposal, PP Other Non-food Rigid",0.96,0.87,0.10
+"Disposal, PS Other Food Rigid",0.96,0.87,0.10
+"Disposal, PVC Other Food Rigid",0.96,0.87,0.10
+"Disposal, PVC Other Non-food Rigid",0.96,0.87,0.10
