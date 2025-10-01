@@ -1,0 +1,7 @@
+Provider name,Input parameters names,Linear Economy
+Fermentation CO2,Fermentation CO2 to the atmosphere,1
+Fermentation CO2,Fermentation CO2 Capture,0
+Plastic Incineration CO2,Plastic Incineration CO2 Capture,0
+Plastic Incineration CO2,Plastic Incineration CO2 to the atmosphere,1
+Steam Cracker CO2,Steam Cracker CO2 Capture,0
+Steam Cracker CO2,Steam Cracker CO2 to the atmosphere,1
