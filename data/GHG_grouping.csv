@@ -1,11 +1,10 @@
-Open Burning EOL,EOL
-"Open Burning, multi-material food packaging film","Open Burning, multi-material food packaging film"
-"Open Burning, multi-material non-food packaging film","Open Burning, multi-material non-food packaging film"
-"Open Burning, PET","Open Burning, PET"
-"Open Burning, PP","Open Burning, PP"
-"Open Burning, HDPE","Open Burning, HDPE"
-"Open Burning, PS","Open Burning, PS"
-"Open Burning, PVC","Open Burning, PVC"
-"Open Burning, LDPE","Open Burning, LDPE"
-"Open Burning, multi-material food bottles","Open Burning, multi-material food bottles"
-,Plastic Incineration CO2 to the atmosphere
+Open Burning EOL,Fossil Electricity
+"Open Burning, multi-material food packaging film","Electricity, oil (life cycle)"
+"Open Burning, multi-material non-food packaging film","Electricity, natural gas (life cycle)"
+"Open Burning, PET","Electricity, coal (life cycle)"
+"Open Burning, PP",
+"Open Burning, HDPE",
+"Open Burning, PS",
+"Open Burning, PVC",
+"Open Burning, LDPE",
+"Open Burning, multi-material food bottles",
