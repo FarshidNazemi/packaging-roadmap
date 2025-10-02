@@ -1,0 +1,78 @@
+flow name,microplastic,macroplastic
+Fragmented HDPE-rigid-large,3.28E-06,0.00E+00
+Fragmented HDPE-rigid-small,3.28E-06,0.00E+00
+Fragmented LDPE-flexible-large,2.90E-06,0.00E+00
+Fragmented LDPE-flexible-small,2.90E-06,0.00E+00
+Fragmented Multilayer-flexible-large (food bottles),0.00000181468,0.00E+00
+Fragmented Multilayer-flexible-large (food packaging film),0.0000015362,0.00E+00
+Fragmented Multilayer-flexible-large (non-food packaging film),0.0000014489,0.00E+00
+Fragmented Multilayer-flexible-small (food packaging film),0.0000015362,0.00E+00
+Fragmented Multilayer-rigid-large,2.48E-06,0.00E+00
+Fragmented PET-flexible-large,3.14E-07,0.00E+00
+Fragmented PET-rigid-large,3.14E-07,0.00E+00
+Fragmented PET-rigid-small,3.14E-07,0.00E+00
+Fragmented PP-flexible-large,2.06E-06,0.00E+00
+Fragmented PP-flexible-small,2.06E-06,0.00E+00
+Fragmented PP-rigid-large,2.06E-06,0.00E+00
+Fragmented PS-flexible-large,3.82E-06,0.00E+00
+Fragmented PS-rigid-large,3.82E-06,0.00E+00
+Fragmented PS-rigid-small,3.82E-06,0.00E+00
+Fragmented PVC-flexible-large,3.60E-07,0.00E+00
+Fragmented PVC-rigid-large,3.60E-07,0.00E+00
+Fragmented PVC-rigid-small,3.60E-07,0.00E+00
+"LDPE, Primary Microplastic to Marine Environment",2.90E-06,0.00E+00
+Marine Macro HDPE-flexible-large,0.00E+00,1.25E-12
+Marine Macro HDPE-rigid-large,0.00E+00,1.50E-12
+Marine Macro HDPE-rigid-small,0.00E+00,1.34E-12
+Marine Macro LDPE-flexible-large,0.00E+00,1.13E-12
+Marine Macro LDPE-flexible-small,0.00E+00,1.13E-12
+Marine Macro LDPE-rigid-large,0.00E+00,1.50E-12
+Marine Macro LDPE-rigid-small,0.00E+00,1.34E-12
+Marine Macro Multilayer-flexible-large (food bottles),0.00E+00,1.50E-12
+Marine Macro Multilayer-flexible-large (food packaging film),0.00E+00,1.19E-12
+Marine Macro Multilayer-flexible-large (non-food packaging film),0.00E+00,1.19E-12
+Marine Macro Multilayer-flexible-small (food packaging film),0.00E+00,1.19E-12
+Marine Macro Multilayer-rigid-large,0.00E+00,1.50E-12
+Marine Macro PET-flexible-large,0.00E+00,2.29E-14
+Marine Macro PET-rigid-large,0.00E+00,2.29E-14
+Marine Macro PET-rigid-small,0.00E+00,2.29E-14
+Marine Macro PP-flexible-large,0.00E+00,2.29E-14
+Marine Macro PP-flexible-small,0.00E+00,2.29E-14
+Marine Macro PP-rigid-large,0.00E+00,2.29E-14
+Marine Macro PP-rigid-small,0.00E+00,2.29E-14
+Marine Macro PS-flexible-large,0.00E+00,2.29E-14
+Marine Macro PS-rigid-large,0.00E+00,2.29E-14
+Marine Macro PS-rigid-small,0.00E+00,2.29E-14
+Marine Macro PVC-flexible-large,0.00E+00,2.29E-14
+Marine Macro PVC-rigid-large,0.00E+00,2.29E-14
+Marine Macro PVC-rigid-small,0.00E+00,2.29E-14
+"multilayer food bottles, Primary Microplastic to Marine Environment",0.00000181468,0
+"multilayer food packaging film, Primary Microplastic to Marine Environment",0.0000015362,0
+"multilayer non-food packaging film, Primary Microplastic to Marine Environment",0.0000014489,0
+"PET, Primary Microplastic to Marine Environment",3.14E-07,0
+"PP, Primary Microplastic to Marine Environment",2.06E-06,0
+Primary microHDPE-flexible-large,3.28E-06,0
+Primary microHDPE-rigid-large,3.28E-06,0
+Primary microHDPE-small (rigid),3.28E-06,0
+Primary microLDPE-flexible-large,3.28E-06,0
+Primary microLDPE-rigid-large,2.90E-06,0
+Primary microLDPE-rigid-small,2.90E-06,0
+Primary microMultilayer-flexible-large (food bottles),0.00000181468,0
+Primary microMultilayer-flexible-large (food packaging film),0.0000015362,0
+Primary microMultilayer-flexible-large (non-food packaging film),0.0000014489,0
+Primary microMultilayer-flexible-small (food packaging film),0.0000015362,0
+Primary microMultilayer-rigid-large,2.48E-06,0
+Primary microPET-flexible-large,3.14E-07,0
+Primary microPET-rigid-large,3.14E-07,0
+Primary microPET-rigid-small,3.14E-07,0
+Primary microPP-flexible-large,2.06E-06,0
+Primary microPP-rigid-large,2.06E-06,0
+Primary microPP-rigid-small,2.06E-06,0
+Primary microPS-flexible-large,3.82E-06,0
+Primary microPS-rigid-large,3.82E-06,0
+Primary microPS-rigid-small,3.82E-06,0
+Primary microPVC-flexible-large,3.60E-07,0
+Primary microPVC-rigid-large,3.60E-07,0
+Primary microPVC-rigid-small,3.60E-07,0
+"PS, Primary Microplastic to Marine Environment",3.82E-06,0
+"PVC, Primary Microplastic to Marine Environment",3.60E-07,0
