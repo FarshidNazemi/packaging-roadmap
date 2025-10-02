@@ -1,0 +1,78 @@
+flow name,microplastic_enable,macroplastic_enable,microplastic_direct_enable,microplastic_degradation_enable
+Fragmented HDPE-rigid-large,1,0,0,1
+Fragmented HDPE-rigid-small,1,0,0,1
+Fragmented LDPE-flexible-large,1,0,0,1
+Fragmented LDPE-flexible-small,1,0,0,1
+Fragmented Multilayer-flexible-large (food bottles),1,0,0,1
+Fragmented Multilayer-flexible-large (food packaging film),1,0,0,1
+Fragmented Multilayer-flexible-large (non-food packaging film),1,0,0,1
+Fragmented Multilayer-flexible-small (food packaging film),1,0,0,1
+Fragmented Multilayer-rigid-large,1,0,0,1
+Fragmented PET-flexible-large,1,0,0,1
+Fragmented PET-rigid-large,1,0,0,1
+Fragmented PET-rigid-small,1,0,0,1
+Fragmented PP-flexible-large,1,0,0,1
+Fragmented PP-flexible-small,1,0,0,1
+Fragmented PP-rigid-large,1,0,0,1
+Fragmented PS-flexible-large,1,0,0,1
+Fragmented PS-rigid-large,1,0,0,1
+Fragmented PS-rigid-small,1,0,0,1
+Fragmented PVC-flexible-large,1,0,0,1
+Fragmented PVC-rigid-large,1,0,0,1
+Fragmented PVC-rigid-small,1,0,0,1
+"LDPE, Primary Microplastic to Marine Environment",1,0,0,0
+Marine Macro HDPE-flexible-large,0,1,0,0
+Marine Macro HDPE-rigid-large,0,1,0,0
+Marine Macro HDPE-rigid-small,0,1,0,0
+Marine Macro LDPE-flexible-large,0,1,0,0
+Marine Macro LDPE-flexible-small,0,1,0,0
+Marine Macro LDPE-rigid-large,0,1,0,0
+Marine Macro LDPE-rigid-small,0,1,0,0
+Marine Macro Multilayer-flexible-large (food bottles),0,1,0,0
+Marine Macro Multilayer-flexible-large (food packaging film),0,1,0,0
+Marine Macro Multilayer-flexible-large (non-food packaging film),0,1,0,0
+Marine Macro Multilayer-flexible-small (food packaging film),0,1,0,0
+Marine Macro Multilayer-rigid-large,0,1,0,0
+Marine Macro PET-flexible-large,0,1,0,0
+Marine Macro PET-rigid-large,0,1,0,0
+Marine Macro PET-rigid-small,0,1,0,0
+Marine Macro PP-flexible-large,0,1,0,0
+Marine Macro PP-flexible-small,0,1,0,0
+Marine Macro PP-rigid-large,0,1,0,0
+Marine Macro PP-rigid-small,0,1,0,0
+Marine Macro PS-flexible-large,0,1,0,0
+Marine Macro PS-rigid-large,0,1,0,0
+Marine Macro PS-rigid-small,0,1,0,0
+Marine Macro PVC-flexible-large,0,1,0,0
+Marine Macro PVC-rigid-large,0,1,0,0
+Marine Macro PVC-rigid-small,0,1,0,0
+"multilayer food bottles, Primary Microplastic to Marine Environment",1,0,1,0
+"multilayer food packaging film, Primary Microplastic to Marine Environment",1,0,1,0
+"multilayer non-food packaging film, Primary Microplastic to Marine Environment",1,0,1,0
+"PET, Primary Microplastic to Marine Environment",1,0,1,0
+"PP, Primary Microplastic to Marine Environment",1,0,1,0
+Primary microHDPE-flexible-large,1,0,1,0
+Primary microHDPE-rigid-large,1,0,1,0
+Primary microHDPE-small (rigid),1,0,1,0
+Primary microLDPE-flexible-large,1,0,1,0
+Primary microLDPE-rigid-large,1,0,1,0
+Primary microLDPE-rigid-small,1,0,1,0
+Primary microMultilayer-flexible-large (food bottles),1,0,1,0
+Primary microMultilayer-flexible-large (food packaging film),1,0,1,0
+Primary microMultilayer-flexible-large (non-food packaging film),1,0,1,0
+Primary microMultilayer-flexible-small (food packaging film),1,0,1,0
+Primary microMultilayer-rigid-large,1,0,1,0
+Primary microPET-flexible-large,1,0,1,0
+Primary microPET-rigid-large,1,0,1,0
+Primary microPET-rigid-small,1,0,1,0
+Primary microPP-flexible-large,1,0,1,0
+Primary microPP-rigid-large,1,0,1,0
+Primary microPP-rigid-small,1,0,1,0
+Primary microPS-flexible-large,1,0,1,0
+Primary microPS-rigid-large,1,0,1,0
+Primary microPS-rigid-small,1,0,1,0
+Primary microPVC-flexible-large,1,0,1,0
+Primary microPVC-rigid-large,1,0,1,0
+Primary microPVC-rigid-small,1,0,1,0
+"PS, Primary Microplastic to Marine Environment",1,0,1,0
+"PVC, Primary Microplastic to Marine Environment",1,0,1,
