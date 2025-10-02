@@ -20,7 +20,7 @@ Fragmented PS-rigid-small,1,0,0,1
 Fragmented PVC-flexible-large,1,0,0,1
 Fragmented PVC-rigid-large,1,0,0,1
 Fragmented PVC-rigid-small,1,0,0,1
-"LDPE, Primary Microplastic to Marine Environment",1,0,0,0
+"LDPE, Primary Microplastic to Marine Environment",1,0,1,0
 Marine Macro HDPE-flexible-large,0,1,0,0
 Marine Macro HDPE-rigid-large,0,1,0,0
 Marine Macro HDPE-rigid-small,0,1,0,0
@@ -75,4 +75,4 @@ Primary microPVC-flexible-large,1,0,1,0
 Primary microPVC-rigid-large,1,0,1,0
 Primary microPVC-rigid-small,1,0,1,0
 "PS, Primary Microplastic to Marine Environment",1,0,1,0
-"PVC, Primary Microplastic to Marine Environment",1,0,1,
+"PVC, Primary Microplastic to Marine Environment",1,0,1,0
