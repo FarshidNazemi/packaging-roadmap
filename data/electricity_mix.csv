@@ -1,11 +1,13 @@
-provider name,2025 Energy Mix
-Electricity Mix (Global),1
-"Electricity, solar (life cycle)",-0.069
-"Electricity, wind (life cycle)",-0.0809
-"Electricity, nuclear (life cycle)",-0.0896
-"Electricity, oil (life cycle)",-0.0278
-"Electricity, hydropower (life cycle)",-0.1432
-"Electricity, natural gas (life cycle)",-0.2203
-"Electricity, coal (life cycle)",-0.3432
-"Electricity, geothermal (life cycle)",-0.0029
-"Electricity, biomass (life cycle)",-0.0231
+,Fossil Electricity - 2025,Clean Electricity - 2025,2025 Energy Mix
+Fossil Electricity,1,0,-0.5913
+Clean Electricity,0,1,-0.4058
+"Electricity, solar (life cycle)",-0.17,0,0
+"Electricity, wind (life cycle)",-0.20,0,0
+"Electricity, nuclear (life cycle)",-0.22,0,0
+"Electricity, hydropower (life cycle)",-0.35,0,0
+"Electricity, geothermal (life cycle)",-0.01,0,0
+"Electricity, biomass (life cycle)",-0.06,0,0
+"Electricity, oil (life cycle)",0,-0.04701505158,0
+"Electricity, natural gas (life cycle)",0,-0.3725689159,0
+"Electricity, coal (life cycle)",0,-0.5804160325,0
+Electricity Mix (Global),0,0,1
