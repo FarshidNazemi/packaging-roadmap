@@ -88,7 +88,7 @@ Ethanol (bio-mix),"Ethanol production, wheat straw, biochemical",0,1,0,0,0,0,0,1
 "Flakes, PP Other Food Rigid","Pyrolysis, PP Other Food Rigid",1,0,0,0,0,0,1,1
 "Flakes, PP Other Non-food Rigid","Mechanical Recycling, PP Other Non-food Rigid (Flakes)",1,0,0,0,0,0,1,1
 "Flakes, PP Other Non-food Rigid","Pyrolysis, PP Other Non-food Rigid",1,0,0,0,0,0,1,1
-"Flakes, PS Other Food Rigid","Mechanical Recycling, PP Other Non-food Rigid (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, PS Other Food Rigid","Pyrolysis, PP Other Non-food Rigid",1,0,0,0,0,0,1,1
+"Flakes, PS Other Food Rigid","Mechanical Recycling, PS Other Food Rigid (Flakes)",1,0,0,0,0,0,1,1
+"Flakes, PS Other Food Rigid","Depolymerization, Chemical Recycling with Metal Oxide, PS Other Food Rigid (Flakes)",1,0,0,0,0,0,1,1
 Electricity Mix (Global),Clean Electricity,0,0,1,0,0,1,1,1
 Electricity Mix (Global),Fossil Electricity,0,0,1,0,0,1,1,1
