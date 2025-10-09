@@ -1,4 +1,9 @@
 index,indicator ID,indicator name,indicator unit
-0,a6206006-65bc-395c-8dc9-f12262f45a04,AR6-100,kg CO2 eq
-1,a0562cb1-15d8-423b-8245-251cc8f0c409,Marine Biodiversity Loss (Plastic Pollution),
-2,8a2e4bda-fd72-44fc-95df-28926ad48b84,human health impact,DALLY
+0,8b84b6e3-0206-328c-bde0-fc10bdbef526,AR4-100,kg CO2 eq
+1,558e33ca-a7a9-3b28-834a-0720e2f48772,AR4-20,kg CO2 eq
+2,c873257d-3c82-385d-b6b2-2e14bc1c308b,AR4-500,kg CO2 eq
+3,7d05b807-2caa-3cd9-b55c-399d3b820cbc,AR5-100,kg CO2 eq
+4,855d82e0-0b4d-3b9e-84cb-b064486b5423,AR5-20,kg CO2 eq
+5,a6206006-65bc-395c-8dc9-f12262f45a04,AR6-100,kg CO2 eq
+6,80f73b5d-0b71-3193-b8a6-04857897dec1,AR6-20,kg CO2 eq
+7,4bb30cb7-394d-37a7-9c60-c0bb9d401316,AR6-500,kg CO2 eq
