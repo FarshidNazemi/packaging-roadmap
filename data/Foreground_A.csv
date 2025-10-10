@@ -60,16 +60,12 @@ e89ed71d-e1d7-44c4-a6eb-5cdc1c0ebb02,"Disposal, LDPE Non-food Packaging Films",e
 09044d0c-8266-4bc3-980a-4dfd6860680b,"Reclaiming, Sorted Multi-material Food Packaging Film (med-large format)",dc7a92fe-249e-4539-86f2-c689aaa97343,Sorted Multi-material Food Packaging Film (med-large format),kg,waste
 5714b9fc-6792-49c0-9809-2b6d63a020e8,"Microplastics, PVC, Filtration",4ce92c87-2a21-47f2-a40f-bbf017f6e0ff,"Microplastics, PVC",kg,waste
 c1730535-c6cb-4416-9a6c-6760b1998173,"Microplastics, PVC, Marine Environment",4ce92c87-2a21-47f2-a40f-bbf017f6e0ff,"Microplastics, PVC",kg,waste
-b355f122-dc4e-4224-aafa-d43c3b57db7b,"Natural gas, combusted in industrial equipment",d0da796c-bf22-435f-a8f4-f980bebc28ff,"Natural gas, combusted in industrial equipment",m3,product
 08d00b66-c556-4071-8bef-ccdabd387b45,"Polypropylene, PP, virgin resin, food non-bottle grade",d0477b6a-115f-350d-bbb4-7f62243e3476,"Polypropylene, PP, virgin resin, at plant",kg,product
 17cb924b-7be6-4a64-b26e-061e150d3d05,"Mechanical Recycling, HDPE Non-food Bottles (Flakes)",31d7a951-b223-4aef-8341-5cc7b4e41292,"Flakes, HDPE Non-food Bottles",kg,waste
-29d771d7-71ec-3a22-bbd0-8709d5a328e2,"Natural gas, combusted in industrial boiler, at hydrocracker, for ethylene",f179160d-d402-3e37-8d65-93d09f309b99,"Natural gas, combusted in industrial boiler, at hydrocracker, for ethylene",m3,product
 0fa179c5-95e1-4bf1-98c6-982ff831efad,"Open Burning, PET",14ecb269-1df5-42b8-9140-adc28e02044f,"Open Burning, PET",kg,waste
 f24e115b-fd94-4572-a5e3-9e8145aa2753,"Incineration, PET",7334263b-2f31-4167-babf-a40db63b56d7,"Incineration, PET",kg,waste
 4ee56019-75f2-4ffa-953f-1ecbac64b92f,"Disposal, Multi-material Food Bottles",f9f1a10e-33a5-4fc7-94a3-d9773e56908c,"Disposal, Multi-material Food Bottles",kg,waste
 d0862c04-775c-4174-b24b-7578667b4666,"Reclaiming, Sorted Multi-material Food Bottles",ebee13d1-5617-454e-9030-306c80b9d07f,Sorted Multi-material Food Bottles,kg,waste
-1b8709a5-5df4-4c52-85e4-dd6e7ed8deba,"Steel; sections, at plant",24e6bc97-3d11-4a73-8598-8965c7dd9927,"Steel; sections, at plant",kg,product
-da0f5501-f4ab-32d1-80b7-b70d143608f6,"Transport, ocean freighter, diesel powered",6c65fc34-c25e-3eb4-bc92-15bbfc457725,"Transport, ocean freighter, diesel powered",t*km,product
 1975f735-687a-39ea-96e7-e890e5a5bb51,"Ethanol, denatured, mixed feedstocks, at conversion facility, 2022",12710c09-7d00-3d32-b909-43b096657c03,"Ethanol, denatured, mixed feedstocks, at conversion facility",kg,product
 8504caf4-bea5-3ab2-b8f9-d4861e819f92,"Corn grain, harvested and stored",510d2c9a-5542-30fb-b8e6-2d9460fe055c,"Corn grain, harvested and stored",kg,product
 76a57c0b-cdbb-4344-ad9a-4aeab3c0bc8d,"Reclaiming, sorted mixed plastics, PP Food Packaging Film (small format)",6b3e2264-d273-490a-9fb3-dbabd9fb0dcb,"sorted mixed plastics, PP Food Packaging Film (small format)",kg,waste
@@ -170,8 +166,6 @@ d2436888-48f9-4381-a2f8-d32188e69e0c,"Reclaiming, Sorted PP Food Packaging Film 
 ffd4429e-b8c5-4e15-8a43-94f0badf85fc,"Disposal, PP Non-food Bottles",021ed8bc-cbcf-4f8e-9f7a-a75463359759,"Disposal, PP Non-food Bottles",kg,waste
 962aebbb-be58-484d-898e-b91bd65df9d2,"Reclaiming, Sorted PP Non-food Bottles",c3597bf5-6420-41b2-a74d-3065800749a4,Sorted PP Non-food Bottles,kg,waste
 6d596a75-7363-49be-b66c-819ff34bdf93,"Depolymerization, Enzymatic Hydrolysis, PET Non-food Bottles (Flakes)",7277c277-7595-47b3-99b9-228b7bedb4ad,"Flakes, PET Non-food Bottles",kg,waste
-8fe359cb-24fb-307c-9eae-ca3be595e69f,Drinking water treatment; Lime Addition; at plant,21eb570e-0b53-31a2-94ce-f55d984b90d4,Drinking water treatment; Lime Addition,m3,product
-25dc85c1-c37b-390a-9886-06e5cdc1d732,Drinking water treatment; Sand filtration infrastructure; at plant,963c96e9-caa6-3af2-9b16-880bb0317e3e,Drinking water treatment; Sand filtration infrastructure,m3,product
 69e21509-f546-457f-9420-8a11600b8635,"STRAP, Multi-material Food Packaging Film (small format) (Flakes)",d126bef7-f826-48c7-9e01-abbe44fb501b,"Flakes, Multi-material Food Packaging Film (small format)",kg,waste
 cc61b7be-98c3-4a62-8828-2cad533711b9,"Reclaiming, sorted mixed plastics, LDPE Non-food Packaging Films",54cf3c34-8d84-42e4-8792-045a5cd23bf0,"sorted mixed plastics, LDPE Non-food Packaging Films",kg,waste
 7e84fef3-b272-40f4-82a6-1f9b6ed6b8a6,"Mechanical Recycling, PET Drinking Bottles (Flakes)",81223e36-c667-48d4-a76c-c645cd28732c,"Flakes, PET Drinking Bottles",kg,waste
