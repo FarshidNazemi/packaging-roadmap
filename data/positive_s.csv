@@ -1,0 +1,354 @@
+provider ID,provider name,flow ID,flow name,flow unit,flow type
+84008d58-09de-44eb-b6fc-556d671e18ac,Use & Collection,62f214a9-e781-47ea-8d20-c2b9d7617bae,packaging use,kg,product
+a6f27abc-a259-4bf7-a968-849fc8bffe36,"Reclaiming, sorted mixed plastics, PVC Other Food Rigid",894fde88-22cc-4d9e-8e13-bffee40e240e,"sorted mixed plastics, PVC Other Food Rigid",kg,waste
+a31afbfe-8689-48ef-b8d3-7f567862fa21,"Polypropylene, PP, virgin resin, non-food bottle grade",d0477b6a-115f-350d-bbb4-7f62243e3476,"Polypropylene, PP, virgin resin, at plant",kg,product
+5b259c03-5126-4131-a797-e09e724dc492,Plastic Incineration CO2 Capture,229111f4-2107-408d-9fb4-d10f0d62db55,plastic incineration CO2,kg,waste
+7e743818-c332-41ac-8688-70df65139011,Plastic Incineration CO2 to the atmosphere,229111f4-2107-408d-9fb4-d10f0d62db55,plastic incineration CO2,kg,waste
+9beebc6b-d1a1-4a1d-8767-fc95f79cb593,"Reclaiming, sorted mixed plastics, PET Other Non-food Rigid",a50fa6d7-f28d-471f-bcb3-09658ae32c49,"sorted mixed plastics, PET Other Non-food Rigid",kg,waste
+1aaaa135-c0c8-4d9f-8db0-3a8f8b362228,"Microplastics, PP, Marine Environment",e15944ad-614d-4d2a-b755-e33b6e6fdf6b,"Microplastics, PP",kg,waste
+3dbccdda-2014-4239-ad1f-4e15c034942b,"Polyvinyl chloride resin, suspension grade PVC; non-food grade",2bb0cd6b-941b-38da-856c-1b7bd0cc5f49,"Polyvinyl chloride resin, suspension grade PVC; at plant",kg,product
+1eb8adfd-3a6d-403a-8be7-38720c93c7dc,"Microplastics, PP, Filtration",e15944ad-614d-4d2a-b755-e33b6e6fdf6b,"Microplastics, PP",kg,waste
+51a19473-08cf-4a51-a45f-e999e26eb887,"Incineration, multi-material food packaging film",34e58e66-a015-4c3c-ac1a-d6475e4ab736,"Incineration, multi-material food packaging film",kg,waste
+94b1ba5a-8c2a-4363-ba22-cf9f32555cdd,"Landfill, Sanitary (Controlled) - mixed plastic waste",8abedbc1-c13d-429c-a46f-bdc079fc6790,mixed waste to landfill,kg,waste
+332a5f52-0504-48e8-8f88-5e5b7d2b9571,"Open Burning, multi-material food packaging film",d3d88443-a5e0-4252-8119-a53566e99a91,"Open Burning, multi-material food packaging film",kg,waste
+7d718aa8-7af9-48cf-901a-0bfaf5749ea1,"Disposal, HDPE Other Food Rigid",18a0fe20-82b0-431d-9eed-f59409bf7fd6,"Disposal, HDPE Other Food Rigid",kg,waste
+0c7f8e64-e791-4a1f-a065-5f31b2a138a9,"Reclaiming, Sorted HDPE Other Food Rigid",964afc9c-9ec8-48b3-b5c5-60208f96b68d,Sorted HDPE Other Food Rigid,kg,waste
+c6e26d7b-b71f-4617-9838-c89268bd80d8,"Reclaiming, sorted mixed plastics, PVC Other Non-food Rigid",037ae6b2-8ddc-489e-bb61-71497aec68fe,"sorted mixed plastics, PVC Other Non-food Rigid",kg,waste
+743441f4-0f18-44a5-8209-9efd9a8b6e4c,Fermentation CO2 Capture,fdd6a87b-76a9-4fd0-94ce-0dec080d5eee,fermentation CO2,kg,waste
+32217850-9d06-4731-b9df-b38dec4bf2aa,Fermentation CO2 to the atmosphere,fdd6a87b-76a9-4fd0-94ce-0dec080d5eee,fermentation CO2,kg,waste
+f0b1adc8-d6a0-422f-ac01-c947a0281cf4,"Disposal, HDPE Other Non-food Rigid",48596765-7aad-468f-b415-8e13cc30c8b6,"Disposal, HDPE Other Non-food Rigid",kg,waste
+74e7e370-096a-45a6-9430-af08e04f69e1,"Reclaiming, Sorted HDPE Other Non-food Rigid",92e8dae0-ab5e-4077-a978-398a3a46870c,Sorted HDPE Other Non-food Rigid,kg,waste
+49340298-f145-44dc-85a0-fa08915def34,"Pyrolysis, Feedstock Recycling, HDPE, Mixed Plastic (Flakes)",ec0f540f-206d-437e-8d0b-32057118ea0c,"HDPE, mixed plastics (flakes)",kg,waste
+c70a3734-ee5f-4c2b-94cf-731dcd78be05,Hydrocarbon feedstock production for use in steam cracker,14900354-14ea-421b-a1e6-8ddfc3a0161b,steam cracker hydrocarbon feedstock,kg,product
+84bc4064-4126-4295-b2de-d01b3d5cafc7,"Polypropylene, PP, virgin resin, non-food non-bottle grade",d0477b6a-115f-350d-bbb4-7f62243e3476,"Polypropylene, PP, virgin resin, at plant",kg,product
+6cd577aa-b20b-41ce-bd60-eb09fc371d88,"Disposal, HDPE Drinking Bottles",5d7e2f66-0c1c-4bf0-8fc4-bc44a0e4ffaa,"Disposal, HDPE Drinking Bottles",kg,waste
+9d6cee63-1295-4d61-b3df-2bbc734008e6,"Reclaiming, Sorted PS Other Food Rigid",96dc9bd8-bf8c-4aae-ba72-2a4f476297e2,Sorted PS Other Food Rigid,kg,waste
+c3bc9268-e566-418c-a77e-c3c947e1fa1a,"Disposal, multilayer food bottles Microplastics Filtered",592ce652-4823-4744-b70b-1df665bd7bc7,"Disposal, multimaterial food bottles Microplastics Filtered",kg,waste
+c45f2241-7f5c-4273-a1fc-bf5262d94140,"Disposal, PS Other Food Rigid",785db899-a126-4373-9b31-14c34b5b0683,"Disposal, PS Other Food Rigid",kg,waste
+e6908be5-65b3-4043-a4c0-cc1c74f69b8b,"Disposal, PVC Other Food Rigid",92a93e20-b822-4090-983a-c5e1fed6f334,"Disposal, PVC Other Food Rigid",kg,waste
+86a4dbbe-bbf8-437a-8fa3-e2f9ea7935ff,"Disposal, multimaterial food packaging film Microplastics Filtered",4a442feb-8df0-4b77-898c-b36edb83bfef,"Disposal, multilmaterial food packaging film Microplastics Filtered",kg,waste
+40ca17ff-0266-436d-a9a5-4fd489158f37,"Disposal, HDPE Food Bottles",cab2cdce-16cd-41b0-9613-be9654cfac99,"Disposal, HDPE Food Bottles",kg,waste
+e2aaf86e-8002-4f0a-aaed-fbee6928a779,"Reclaiming, Sorted PVC Other Food Rigid",322c36dc-14aa-423d-8853-42c3830489df,Sorted PVC Other Food Rigid,kg,waste
+c76e7f22-2271-4fe5-a647-437812e51b75,"Reclaiming, sorted mixed plastics, PP Food Bottles",58af61c1-bef5-42f5-a9ce-592b16d6eee8,"sorted mixed plastics, PP Food Bottles",kg,waste
+c667e492-241e-4ebb-a2f5-7166007f3a09,"Reclaiming, Sorted LDPE Food Packaging Film (med-large format)",6099b39a-c341-4a0c-8d93-1fa211da9d53,Sorted LDPE Food Packaging Film (med-large format),kg,waste
+273bd3a9-5cb9-48ba-b97b-69038e413306,"Disposal, LDPE Food Packaging Film (med-large format)",3c6bb092-9634-453a-baaa-63d8d8216f39,"Disposal, LDPE Food Packaging Film (med-large format)",kg,waste
+fbdd77e0-9549-4810-a0b8-d43dc5ee8c9f,"Ethylene production, from bio-ethanol dehydration",ec1bf0d1-ff71-4960-aa0f-9fc87c14f972,"Ethylene, at plant, kg",kg,product
+7993d1f7-87db-4ee7-a1e3-5b101421be60,"Polyethylene terephthalate, PET, virgin resin, food non-bottle grade",e7bbbd06-5887-45b0-a3c2-c9d06d571351,"Polyethylene terephthalate, PET, virgin resin, at plant, kg",kg,product
+53bb995e-2b64-4464-87f4-a3b79dcd1c32,"Ethylene dichloride-vinyl chloride monomer, EDC-VCM; from fossil ethylene",d9aa7527-5ab6-3052-9b26-07e930d95ec6,"Ethylene dichloride-vinyl chloride, EDC-VCM, monomer; at plant",kg,product
+aa07a747-2e9f-4057-8ae6-9ddbe4b4aee5,"Ethylene dichloride-vinyl chloride monomer, EDC-VCM; from bio-ethylene",d9aa7527-5ab6-3052-9b26-07e930d95ec6,"Ethylene dichloride-vinyl chloride, EDC-VCM, monomer; at plant",kg,product
+71729de3-af44-47c4-a499-c3b1720579c3,"Microplastics, HDPE, Filtration",87293999-ebe0-4b80-8f51-ad2696e71e3c,"Microplastics, HDPE",kg,waste
+d0b7179c-e83e-4098-b478-a01dee7e30a0,"Microplastics, HDPE, Marine Environment",87293999-ebe0-4b80-8f51-ad2696e71e3c,"Microplastics, HDPE",kg,waste
+535439ab-26d9-4cb9-99a5-bf18bd9b218a,"Reclaiming, sorted mixed plastics, PP Food Packaging Film (med-large format)",2d7942cb-e469-4c92-b4e3-87fdef7cf400,"sorted mixed plastics, PP Food Packaging Film (med-large format)",kg,waste
+ea56a0ce-75bc-48ce-905d-9711fa9d5c07,"Polyethylene, high density, HDPE, virgin resin, food non-bottle grade",0def374e-dc34-4f2a-81d6-1a8f4eb7faa6,"Polyethylene, high density, HDPE, virgin resin, at plant",kg,product
+fc18f778-c510-43ad-bd06-c9e680e5ab32,"Mechanical Recycling, HDPE Food Bottles (Flakes)",afd5e019-36ce-4b4d-9412-1cf18824d11c,"Flakes, HDPE Food Bottles",kg,waste
+6cef4932-e2a5-496b-a93b-494543adaa6c,"Incineration, multi-material non-food packaging film",d91429b0-47f6-41c1-8c94-0554d5ef3aaa,"Incineration, multi-material non-food packaging film",kg,waste
+eab0c8ba-f8d0-4b3d-87cf-6bf438d3b386,"Open Burning, multi-material non-food packaging film",9207ee29-dd6f-413f-b413-140e18313638,"Open Burning, multi-material non-food packaging film",kg,waste
+2cf79b16-f5f5-446f-832b-5302eb6f1aad,"Disposal, HDPE Non-food Bottles",38d375da-3ed3-4f74-8da8-932dbfcd8613,"Disposal, HDPE Non-food Bottles",kg,waste
+68b78932-576f-4474-b57c-b4d0bbb7bfd4,"Polyethylene terephthalate, PET, virgin resin, non-food non-bottle grade",e7bbbd06-5887-45b0-a3c2-c9d06d571351,"Polyethylene terephthalate, PET, virgin resin, at plant, kg",kg,product
+0f268f5c-6a5a-4001-82e0-b8b0eba2b886,"Disposal, LDPE Food Packaging Film (small format)",40b17934-024b-4f63-9bf3-3b891bef211e,"Disposal, LDPE Food Packaging Film (small format)",kg,waste
+2983a9ae-2c20-4f80-9898-65e63b99bb8b,"Reclaiming, Sorted LDPE Food Packaging Film (small format)",a140eeea-2c88-4d25-bab7-37f8dfec84ef,Sorted LDPE Food Packaging Film (small format),kg,waste
+1ea21e3b-7ec9-4141-af1c-8661392fa1e0,"Microplastics, PS, Filtration",1c1a4b21-1d32-4be3-94f8-4ba46ed38c92,"Microplastics, PS",kg,waste
+f97e01f6-c0ff-41d0-8d5f-37cfeb30531f,"Microplastics, PS, Marine Environment",1c1a4b21-1d32-4be3-94f8-4ba46ed38c92,"Microplastics, PS",kg,waste
+9eea3d55-bec5-4cc5-abfe-95446af59e27,"Disposal, multimaterial non-food packaging film Microplastics Filtered",a3bcf61f-52fa-48ef-9733-d70e5ae78679,"Disposal, multimaterial non-food packaging film Microplastics Filtered",kg,waste
+18770c62-04a3-4883-8fa2-09d9250901fa,"Disposal, PVC Other Non-food Rigid",0c872320-b162-404c-a828-2c24b3624790,"Disposal, PVC Other Non-food Rigid",kg,waste
+5519b8e2-f966-47d3-b5bc-e11c13e5dea1,"Reclaiming, Sorted PVC Other Non-food Rigid",0104a70d-0be5-4e56-8a77-2fe41df0eb13,Sorted PVC Other Non-food Rigid,kg,waste
+09b142d3-0b0c-44a5-8c26-4937a23af450,Ethylene glycol,a5c7d642-4e3a-40af-a919-a2f7601340b0,"Ethylene glycol, at plant, kg",kg,product
+41034fd7-c7da-4c49-9663-2fac0a1b4181,PTA,e44db792-600e-4b75-af39-c3c094899e9e,"Purified terephthalic acid, PTA, at plant, kg",kg,product
+e89ed71d-e1d7-44c4-a6eb-5cdc1c0ebb02,"Disposal, LDPE Non-food Packaging Films",e49f4329-dc41-4985-a360-64e68a79e912,"Disposal, LDPE Non-food Packaging Films",kg,waste
+1b36301b-982c-4170-a505-d6ea299f224d,"Reclaiming, Sorted LDPE Non-food Packaging Films",a6733ada-2b27-48db-8867-9afbef94fc66,Sorted LDPE Non-food Packaging Films,kg,waste
+27c68081-56fa-4057-99ef-2781734ff962,"Disposal, Multi-material Food Packaging Film (med-large format)",cdd9344a-a8d2-46ae-9b9e-16859080f85d,"Disposal, Multi-material Food Packaging Film (med-large format)",kg,waste
+09044d0c-8266-4bc3-980a-4dfd6860680b,"Reclaiming, Sorted Multi-material Food Packaging Film (med-large format)",dc7a92fe-249e-4539-86f2-c689aaa97343,Sorted Multi-material Food Packaging Film (med-large format),kg,waste
+5714b9fc-6792-49c0-9809-2b6d63a020e8,"Microplastics, PVC, Filtration",4ce92c87-2a21-47f2-a40f-bbf017f6e0ff,"Microplastics, PVC",kg,waste
+c1730535-c6cb-4416-9a6c-6760b1998173,"Microplastics, PVC, Marine Environment",4ce92c87-2a21-47f2-a40f-bbf017f6e0ff,"Microplastics, PVC",kg,waste
+08d00b66-c556-4071-8bef-ccdabd387b45,"Polypropylene, PP, virgin resin, food non-bottle grade",d0477b6a-115f-350d-bbb4-7f62243e3476,"Polypropylene, PP, virgin resin, at plant",kg,product
+17cb924b-7be6-4a64-b26e-061e150d3d05,"Mechanical Recycling, HDPE Non-food Bottles (Flakes)",31d7a951-b223-4aef-8341-5cc7b4e41292,"Flakes, HDPE Non-food Bottles",kg,waste
+0fa179c5-95e1-4bf1-98c6-982ff831efad,"Open Burning, PET",14ecb269-1df5-42b8-9140-adc28e02044f,"Open Burning, PET",kg,waste
+f24e115b-fd94-4572-a5e3-9e8145aa2753,"Incineration, PET",7334263b-2f31-4167-babf-a40db63b56d7,"Incineration, PET",kg,waste
+4ee56019-75f2-4ffa-953f-1ecbac64b92f,"Disposal, Multi-material Food Bottles",f9f1a10e-33a5-4fc7-94a3-d9773e56908c,"Disposal, Multi-material Food Bottles",kg,waste
+d0862c04-775c-4174-b24b-7578667b4666,"Reclaiming, Sorted Multi-material Food Bottles",ebee13d1-5617-454e-9030-306c80b9d07f,Sorted Multi-material Food Bottles,kg,waste
+1975f735-687a-39ea-96e7-e890e5a5bb51,"Ethanol, denatured, mixed feedstocks, at conversion facility, 2022",12710c09-7d00-3d32-b909-43b096657c03,"Ethanol, denatured, mixed feedstocks, at conversion facility",kg,product
+8504caf4-bea5-3ab2-b8f9-d4861e819f92,"Corn grain, harvested and stored",510d2c9a-5542-30fb-b8e6-2d9460fe055c,"Corn grain, harvested and stored",kg,product
+76a57c0b-cdbb-4344-ad9a-4aeab3c0bc8d,"Reclaiming, sorted mixed plastics, PP Food Packaging Film (small format)",6b3e2264-d273-490a-9fb3-dbabd9fb0dcb,"sorted mixed plastics, PP Food Packaging Film (small format)",kg,waste
+78ac8d21-1bd1-4cc2-9087-f3db33a1f4f1,"Pyrolysis, HDPE Food Bottles",afd5e019-36ce-4b4d-9412-1cf18824d11c,"Flakes, HDPE Food Bottles",kg,waste
+4995299b-e488-4a12-8785-4272538b9489,"Reclaiming, sorted mixed plastics, HDPE Drinking Bottles",6759fdb6-61af-4751-93bd-a52785907902,"sorted mixed plastics, HDPE Drinking Bottles",kg,waste
+2bd53619-dbd3-4730-a1fd-2bcdec0e93aa,"Disposal, Multi-material Food Packaging Film (small format)",2a5692ca-870f-4d84-8b2d-691d41a33690,"Disposal, Multi-material Food Packaging Film (small format)",kg,waste
+930f829f-f204-4c9a-8c2b-7fe050e6637e,"Reclaiming, Sorted Multi-material Food Packaging Film (small format)",29f642a9-2d8e-4dd9-b198-1b48e1a2797c,Sorted Multi-material Food Packaging Film (small format),kg,waste
+c085ce44-5a10-450d-8ce8-e6a07b413cc0,"Polyvinyl chloride resin, suspension grade PVC; food grade",2bb0cd6b-941b-38da-856c-1b7bd0cc5f49,"Polyvinyl chloride resin, suspension grade PVC; at plant",kg,product
+27186d12-99fc-4351-8c6e-569bcd49f90b,"Reclaiming, sorted mixed plastics, PP Non-food Bottles",ba944879-34f3-491e-adc9-357faa6e6e8f,"sorted mixed plastics, PP Non-food Bottles",kg,waste
+ae905c87-3f5b-444f-91f9-45934e9961b8,Ethanol (bio-mix),ea6d13dd-a345-49f9-8f12-91bdb8fc91c3,Bio-ethanol,kg,product
+95c30d78-819e-4d0a-98e9-e53e046a3b58,"Pyrolysis, Feedstock Recycling, LDPE, Mixed Plastic (Flakes)",2febb751-ba13-4baf-9961-1cc4ab110fb6,"LDPE, mixed plastics (flakes)",kg,waste
+37f8d2c3-2bdf-4e17-a7a5-cc7b6d78fe21,"Mechanical Recycling, HDPE Other Food Rigid (Flakes)",c4b49526-fb85-46a0-9d10-c2cfc179b90d,"Flakes, HDPE Other Food Rigid",kg,waste
+4fb05328-9946-41d5-a2fb-71d697cd0a9a,Propylene,e86e8b04-8e64-3a17-95c3-04c07229f0ac,"Propylene, at plant",kg,product
+6c0bfdf3-aa26-4799-a0ed-58448ab3144b,"Disposal, Multi-material Non-food Packaging Film",3cb7c8e9-d1f4-4b73-a5ac-8ce48db94066,"Disposal, Multi-material Non-food Packaging Film",kg,waste
+863de649-5f73-47d4-b90b-c5688af9fe40,"Reclaiming, Sorted Multi-material Non-food Packaging Film",6fab96fd-6f9d-4c54-94ef-45ed082086ba,Sorted Multi-material Non-food Packaging Film,kg,waste
+92296bea-d690-4b24-a246-b41010d62deb,"Mechanical Recycling, HDPE Other Non-food Rigid (Flakes)",f2815aea-2af2-4d0b-81b4-cedde09d5ffa,"Flakes, HDPE Other Non-food Rigid",kg,waste
+e300450f-1452-4248-92b2-3404fd0556b7,"Disposal, PET Drinking Bottles",50cfef8a-a402-4476-a961-3550a5331ad1,"Disposal, PET Drinking Bottles",kg,waste
+5353c419-4cb9-4b89-a0b4-d8e837eee82e,"Reclaiming, Sorted PET Drinking Bottles",21f78d8f-9b1e-4faa-abbc-2bd4a69aee7b,Sorted PET Drinking Bottles,kg,waste
+026b37ab-9851-4ca0-939e-320496028d59,"Microplastics, LDPE, Marine Environment",78a4ea8d-5d0c-45c5-9ea4-e21a4d0ad9d4,"Microplastics, LDPE",kg,waste
+61b220b0-07a9-4561-9fa2-8a15ffe41505,"Microplastics, LDPE, Filtration",78a4ea8d-5d0c-45c5-9ea4-e21a4d0ad9d4,"Microplastics, LDPE",kg,waste
+6654b587-c66b-4b7f-9d61-6dcae9031999,"Pyrolysis, HDPE Non-food Bottles",31d7a951-b223-4aef-8341-5cc7b4e41292,"Flakes, HDPE Non-food Bottles",kg,waste
+a17cb5f1-cc18-4e2f-bdf9-252f583a6ac6,"Reclaiming, sorted mixed plastics, HDPE Food Bottles",d593ec42-fc5a-41de-84cb-f91bcbc21f34,"sorted mixed plastics, HDPE Food Bottles",kg,waste
+13821cca-f344-37b9-a367-0467be778061,"Polystyrene, general purpose, GPPS, resin; food grade",67b50031-6239-3514-a37f-2b17de803c88,"Polystyrene, general purpose, GPPS, at plant",kg,product
+b67672e3-fab8-477f-a1e1-c3a2c5d056e6,"Mechanical Recycling, LDPE Food Packaging Film (med-large format) (Flakes)",f3b1eab2-e5e6-4869-9eb1-4b156cedd704,"Flakes, LDPE Food Packaging Film (med-large format)",kg,waste
+a62359e6-fa18-4982-94bf-0d904fc32e56,"Reclaiming, sorted mixed plastics, PP Non-food Packaging Films",6170897c-dd79-4df6-8e80-06b609f8917b,"sorted mixed plastics, PP Non-food Packaging Films",kg,waste
+d995b5db-51c6-4f05-9fea-8b58a8ce494a,"Reclaiming, Sorted PET Food Bottles",f286fcb2-12d2-4d45-b20e-f44c5f1142fa,Sorted PET Food Bottles,kg,waste
+44be8151-bf29-4b82-ad74-aab569cfc6ef,"Reclaiming, sorted mixed plastics, PP Other Food Rigid",9e2002cf-ed0b-4bb5-9658-9f15598ae79b,"sorted mixed plastics, PP Other Food Rigid",kg,waste
+2a5dc4b1-a08d-40c8-a26e-598773d4c7e2,"Disposal, PET Food Bottles",3322dc86-3364-4726-885e-619deb450dc8,"Disposal, PET Food Bottles",kg,waste
+2d5148a9-4f42-434a-8397-5b5db7e2b13c,"Reclaiming, sorted mixed plastics, HDPE Non-food Bottles",26e4ce23-270a-4422-901e-30d7535da2b5,"sorted mixed plastics, HDPE Non-food Bottles",kg,waste
+2e8facf6-46aa-4ddb-95de-a4e2a00eb2bb,"Polypropylene, PP, virgin resin, food bottle grade",d0477b6a-115f-350d-bbb4-7f62243e3476,"Polypropylene, PP, virgin resin, at plant",kg,product
+1dbafde2-2bc3-405c-9726-4d92fe7d29f9,"Polyethylene, linear low-density, LLDPE, virgin resin, at plant",1ca3b8d5-a002-41c1-bdce-8db63ea6291e,"Polyethylene, linear low-density, LLDPE, virgin resin, at plant",kg,product
+8bbd18cf-dc1d-406d-86c2-afa93469ab6e,Ethylene,ec1bf0d1-ff71-4960-aa0f-9fc87c14f972,"Ethylene, at plant, kg",kg,product
+fbf695ff-eb8d-4cb7-9784-0bc6f834a7c2,"Pyrolysis, HDPE Other Food Rigid",c4b49526-fb85-46a0-9d10-c2cfc179b90d,"Flakes, HDPE Other Food Rigid",kg,waste
+a4d50806-708e-4bc0-bbb3-7ab600694352,"Pyrolysis, Feedstock Recycling, Multimaterial Food Bottles, Mixed Plastic (Flakes)",6eef6d20-d20c-497b-a5da-fd0df62a9f85,"multimateria food bottles, mixed plastics (flakes)",kg,waste
+bbd07ca0-b2f3-4b8e-a19e-9777683763e3,"Mechanical Recycling, LDPE Food Packaging Film (small format) (Flakes)",abf8fba9-7e88-4590-91b6-d4c3dc6147e8,"Flakes, LDPE Food Packaging Film (small format)",kg,waste
+dd16097f-e09f-42f7-9791-5e89f203a210,"Disposal, PET Non-food Bottles",11c1111f-de74-4049-8b89-5c027861e80e,"Disposal, PET Non-food Bottles",kg,waste
+424463dc-4efe-42d7-ad54-3806f46007e9,"Reclaiming, Sorted PET Non-food Bottles",f43e5cd3-a22f-47cf-9a02-c1a5167cabd6,Sorted PET Non-food Bottles,kg,waste
+525df035-8b6d-4b45-801c-a7f1e9072893,"Pyrolysis, Feedstock Recycling, Multimaterial Food Packaging Film, Mixed Plastic (Flakes)",fc01b46a-24a4-42ac-b74b-4fe3e904d631,"Multi-material Food Packaging Film, mixed plastics (flakes)",kg,waste
+625deca5-c86f-441d-9933-b3143f906461,"Pyrolysis, HDPE Other Non-food Rigid",f2815aea-2af2-4d0b-81b4-cedde09d5ffa,"Flakes, HDPE Other Non-food Rigid",kg,waste
+ae8acae4-3515-42ae-88b1-f110ce95809d,"Mechanical Recycling, LDPE Non-food Packaging Films (Flakes)",4e823bc2-b3c4-46c8-b00d-9a87e04d54fb,"Flakes, LDPE Non-food Packaging Films",kg,waste
+d2a29fa9-cdda-457d-a793-554e1513ce59,"Pyrolysis, Feedstock Recycling, Multimaterial Non-food Packaging Film, Mixed Plastic (Flakes)",eda2b90b-aae1-4567-965f-8dec3b7efa01,"Multimaterial non-food packaging film, mixed plastics (flakes)",kg,waste
+0898854c-e38f-3d23-880f-f8da7d65ca0c,"Ethanol, denatured, switchgrass, biochemical",005db14f-6fc8-32d3-95a6-c7b8b8d30fb1,"Ethanol, denatured, switchgrass, biochemical",kg,product
+d9cadd89-4203-375a-903a-63197cd29c6a,"Ethanol, denatured, forest residues, thermochem",2656bfd3-ed3c-3fb8-ab93-6597836a463b,"Ethanol, denatured, forest residues, thermochem",kg,product
+0879167f-989b-3e3b-b9c5-3c07ea0a3f8e,"Ethanol, denatured, corn stover, biochemical",7f49cac3-84a7-345a-abaa-c3671a78c38f,"Ethanol, denatured, corn stover, biochemical",kg,product
+7aa8e2ff-0e2f-3e6c-b168-ec5168b4be6a,"Ethanol, denatured, wheat straw, biochemical",4f541c34-ea5e-3580-a001-80ed28198120,"Ethanol, denatured, wheat straw, biochemical",kg,product
+8e3e47ea-ed49-329e-8931-29115917bc81,"Ethanol, denatured, corn dry mill",f4364ab6-cb8c-3b5c-a9d7-dfe57ac7bceb,"Ethanol, denatured, corn dry mill",kg,product
+1c7b0ae7-7761-4c6e-8e25-c0f8f08d6e25,"Delamination, Multi-material Food Packaging Film (med-large format) (Flakes)",f2dba607-9850-4f97-a1c2-1676c71a4027,"Flakes, Multi-material Food Packaging Film (med-large format)",kg,waste
+fa3871c0-d563-3300-9ec7-f26aafdabfa5,"Propylene oxide, at plant",e3e36b0b-cd9f-3394-924d-2e565e97d38d,"Propylene oxide, at plant",kg,product
+6503cc9e-56e3-4f35-b27c-ea3a8e5b0842,"Disposal, PET Other Food Rigid",37d8ea56-58a9-4392-acd6-943e7c6173f3,"Disposal, PET Other Food Rigid",kg,waste
+8e080e35-7bd5-4a34-88d6-15582310c031,"Reclaiming, Sorted PET Other Food Rigid",4f73cbe1-1a5e-4319-becd-97e0b6b4c1ac,Sorted PET Other Food Rigid,kg,waste
+e18ff078-d5fd-46bc-a99b-09f4a0b09430,"Ethylene production, fossil, steam cracker",ec1bf0d1-ff71-4960-aa0f-9fc87c14f972,"Ethylene, at plant, kg",kg,product
+19b638bc-033c-3812-a020-18eb2ff8e8eb,"Pyrolysis gasoline, at plant",f3d6e4c6-0323-3d9f-a843-b741d2a9b982,"Pyrolysis gasoline, at plant",kg,product
+a5da1e69-27f0-4f76-9be2-9eb276f2ea90,"Polyethylene, high density, HDPE, virgin resin, non-food non-bottle grade",0def374e-dc34-4f2a-81d6-1a8f4eb7faa6,"Polyethylene, high density, HDPE, virgin resin, at plant",kg,product
+28c7500a-494a-47bc-8b04-2b0dc986c61f,"Reclaiming, sorted mixed plastics, PP Other Non-food Rigid",ad5de80e-fa17-46cf-ab25-2558d8a26a8a,"sorted mixed plastics, PP Other Non-food Rigid",kg,waste
+c409640a-c23a-4d2d-9b23-f84635b39194,Steam Cracker CO2 to the atmosphere,cb3769a6-52f7-42b7-8ec9-916c78909f82,Steam cracker CO2,kg,waste
+a0b5fb9b-5f0e-40b2-9a1d-a984eb11d84a,Steam Cracker CO2 Capture,cb3769a6-52f7-42b7-8ec9-916c78909f82,Steam cracker CO2,kg,waste
+35c81525-5f46-484a-b7cc-b0ec4de07911,"Pyrolysis, LDPE Food Packaging Film (med-large format)",f3b1eab2-e5e6-4869-9eb1-4b156cedd704,"Flakes, LDPE Food Packaging Film (med-large format)",kg,waste
+ac07a57a-df8c-4967-8084-47871b61f1f4,"Microplastics, multimaterial food bottles, Marine Environment",58f1d16e-fe96-4c27-a4ce-f936c7428f74,"Microplastics, multimaterial food bottles",kg,waste
+b0edd04b-2093-4d8e-91db-0448a73ad7ff,"Microplastics, multimaterial food bottles, Filtration",58f1d16e-fe96-4c27-a4ce-f936c7428f74,"Microplastics, multimaterial food bottles",kg,waste
+47d14cf8-0180-49c8-9736-685494b4efd3,"Reclaiming, sorted mixed plastics, HDPE Other Food Rigid",4ddf668f-7d13-4f2c-aca1-ca022731ec70,"Sorted mixed plastics, HDPE Other Food Rigid",kg,waste
+f1a2dffa-316e-4973-982c-caddc22bc05c,"Delamination, Multi-material Food Bottles (Flakes)",779500a2-2238-4176-90ff-9f29325e2194,"Flakes, Multi-material Food Bottles",kg,waste
+d9545f48-5e51-4954-93bc-aa120a08789e,"Reclaiming, sorted mixed plastics, PS Other Food Rigid",1595ddb2-16d7-4ad8-bd91-d36f7f4e4bf5,"sorted mixed plastics, PS Other Food Rigid",kg,waste
+7b93daa9-7a04-4868-a957-254c4a0cb0eb,"Pyrolysis, Feedstock Recycling, PET, Mixed Plastic (Flakes)",ed854c15-448e-456b-9e78-d7eb9c050fa1,"PET, mixed plastic (flakes)",kg,waste
+180537af-6d9c-4398-93fe-bc46cf05333e,"Delamination, Multi-material Food Packaging Film (small format) (Flakes)",d126bef7-f826-48c7-9e01-abbe44fb501b,"Flakes, Multi-material Food Packaging Film (small format)",kg,waste
+13a91437-2b88-4a94-aad3-7d068aa390c5,"Incineration, PP",78ed9abc-edf9-4da8-bf3a-59b0a58d5fe1,"Incineration, PP",kg,waste
+c3aa549a-fe3e-427f-8410-5c2a3483b2a0,"Open Burning, PP",3bcc955e-83d4-4822-aa3d-644e5928b218,"Open Burning, PP",kg,waste
+581b9add-8421-4597-b446-2b5a052cf1dc,"Disposal, PET Other Non-food Rigid",a12e6e15-5d73-4ae9-8b62-1f96bb584bf7,"Disposal, PET Other Non-food Rigid",kg,waste
+2712f03a-80fe-4a2b-9005-ca9ba99f7eb3,"Polyethylene, high density, HDPE, virgin resin, food bottle grade",0def374e-dc34-4f2a-81d6-1a8f4eb7faa6,"Polyethylene, high density, HDPE, virgin resin, at plant",kg,product
+d7219f4e-9877-4f59-8f30-d988d5c9b64c,"Reclaiming, Sorted PET Other Non-food Rigid",47f94857-1ee6-4680-84e6-847a483af3e4,Sorted PET Other Non-food Rigid,kg,waste
+ecfe87ed-275c-48cb-8377-98b7d2aeaa37,"Microplastics, multimaterial food packaging film, Filtration",28f62eff-4c8e-4dc7-a370-1f2c410a9b00,"Microplastics, multimaterial food packaging film",kg,waste
+792fd514-b357-4ac3-96c9-6d4689e2ebe5,"Microplastics, multimaterial food packaging film, Marine Environment",28f62eff-4c8e-4dc7-a370-1f2c410a9b00,"Microplastics, multimaterial food packaging film",kg,waste
+d1bf60a0-272b-3ef0-951c-7febc0546d58,"Methylene diphenyl diisocyanate, MDI; at plant, mass alloc",8850417f-b844-34b8-8f39-b373e9783d52,"Methylene diphenyl diisocyanate, MDI, resin, at plant",kg,product
+b6590c61-80bf-4f64-9f7f-921d57db01ce,"Pyrolysis, LDPE Food Packaging Film (small format)",abf8fba9-7e88-4590-91b6-d4c3dc6147e8,"Flakes, LDPE Food Packaging Film (small format)",kg,waste
+3acdb20f-7c9f-4aaf-9071-553521c5f068,"Delamination, Multi-material Non-food Packaging Film (Flakes)",2ef20e74-b7fc-4dab-8595-463480f87ed0,"Flakes, Multi-material Non-food Packaging Film",kg,waste
+5fae138f-aa23-4f7c-9751-db026a3207a5,"Reclaiming, sorted mixed plastics, HDPE Other Non-food Rigid",3e06dd58-244e-41f6-8699-c60ed36b06ff,"Sorted mixed plastics, HDPE Other Non-food Rigid",kg,waste
+bd2f5b6d-57fe-4014-a2e9-60b32807b99b,"Disposal, PP Food Bottles",bb92211c-dc7e-405c-914b-1c6512574b88,"Disposal, PP Food Bottles",kg,waste
+5578a66f-45f0-4717-8a08-d3e2c8ea458b,"Reclaiming, Sorted PP Food Bottles",a531391f-7ba6-48c5-bf91-a50ceefd5b6c,Sorted PP Food Bottles,kg,waste
+af8adbc7-7755-463c-b187-5732b7fb1fdd,"Pyrolysis, LDPE Non-food Packaging Films",4e823bc2-b3c4-46c8-b00d-9a87e04d54fb,"Flakes, LDPE Non-food Packaging Films",kg,waste
+4f7e4a48-f602-4f4a-9a2c-6925746f3f04,"Glucose, from corn",bfaa353a-c6aa-47fc-8e84-0314bd63abb4,glucose,kg,product
+2a371343-910f-4438-adf5-c518e3a5cf45,"Depolymerization, Enzymatic Hydrolysis, PET Drinking Bottles (Flakes)",81223e36-c667-48d4-a76c-c645cd28732c,"Flakes, PET Drinking Bottles",kg,waste
+a840d03f-1613-4d09-ba8b-57485f372be8,"Disposal, PP Food Packaging Film (med-large format)",1cd8fbca-bcf6-4b54-9c9b-575c2b852882,"Disposal, PP Food Packaging Film (med-large format)",kg,waste
+7d4552bc-a241-41a5-be11-b60d2ad94183,"Reclaiming, Sorted PP Food Packaging Film (med-large format)",cefcd7b4-b979-44a6-82e9-06d8fb88ee8f,Sorted PP Food Packaging Film (med-large format),kg,waste
+a817e21a-8a9d-4f46-9bd0-3cce36a60b67,"STRAP, Multi-material Food Bottles (Flakes)",779500a2-2238-4176-90ff-9f29325e2194,"Flakes, Multi-material Food Bottles",kg,waste
+5af98841-dd48-4d3d-8d74-62f76a7a3eec,"Reclaiming, sorted mixed plastics, LDPE Food Packaging Film (med-large format)",5ec3ac9b-23ca-4587-a3a9-adcd1262ec1e,"Sorted mixed plastics, LDPE Food Packaging Film (med-large format)",kg,waste
+5670d2c1-42f4-424e-9321-4c39ae3e94bb,"Polyethylene, high density, HDPE, virgin resin, non-food bottle grade",0def374e-dc34-4f2a-81d6-1a8f4eb7faa6,"Polyethylene, high density, HDPE, virgin resin, at plant",kg,product
+6a12cba1-889d-4515-90f8-89feb8d662f2,"Polyethylene, low-density, LDPE, virgin resin, food grade",2f9d79bf-e4c6-400a-a076-8c00f468fa3b,"Polyethylene, low-density, LDPE, virgin resin, at plant",kg,product
+560d21fe-4a29-44cb-8644-acf076b6e588,"Microplastics, multimaterial non-food packaging film, Filtration",2a6028ee-cb3a-4a9a-83a0-ef48bc90ce4d,"Microplastics, multimaterial non-food packaging film",kg,waste
+bdd4dbac-dc1d-4eba-80af-f189e77f8851,"Microplastics, multimaterial non-food packaging film, Marine Environment",2a6028ee-cb3a-4a9a-83a0-ef48bc90ce4d,"Microplastics, multimaterial non-food packaging film",kg,waste
+b9f50b86-df8b-4df8-afb3-1a7cf00d786b,"Polyethylene terephthalate, PET, virgin resin, non-food bottle grade",e7bbbd06-5887-45b0-a3c2-c9d06d571351,"Polyethylene terephthalate, PET, virgin resin, at plant, kg",kg,product
+2b2f738d-2044-462f-ba56-5112ee683cb6,"Polyethylene terephthalate, PET, virgin resin, food bottle grade",e7bbbd06-5887-45b0-a3c2-c9d06d571351,"Polyethylene terephthalate, PET, virgin resin, at plant, kg",kg,product
+3f1d9783-aa84-4f21-8b56-25f56ce620e9,"Disposal, PP Food Packaging Film (small format)",67260d80-0640-42c2-9008-481327e963a8,"Disposal, PP Food Packaging Film (small format)",kg,waste
+d2436888-48f9-4381-a2f8-d32188e69e0c,"Reclaiming, Sorted PP Food Packaging Film (small format)",87b5baca-0e1f-4a73-ad0e-2b33bc2d02ae,Sorted PP Food Packaging Film (small format),kg,waste
+7ad8846d-3070-44bd-b608-18591df50be8,"Depolymerization, Enzymatic Hydrolysis, PET Food Bottles (Flakes)",e473b8e4-5c11-44bd-ae88-62ed1ab8d016,"Flakes, PET Food Bottles",kg,waste
+00b278e0-7153-4393-81a9-bbc61f66b6ee,"Reclaiming, sorted mixed plastics, LDPE Food Packaging Film (small format)",d92805df-7ebf-4c78-971a-e56b40cda3b7,"Sorted mixed plastics, LDPE Food Packaging Film (small format)",kg,waste
+007c7a3e-0404-41d0-93bb-a114de185282,"STRAP, Multi-material Food Packaging Film (med-large format) (Flakes)",f2dba607-9850-4f97-a1c2-1676c71a4027,"Flakes, Multi-material Food Packaging Film (med-large format)",kg,waste
+3caf398e-250c-4a77-b4bd-8dcc56a5d3f7,"Microplastics, PET, Filtration",9368bb92-537c-460c-917d-56eea4aa0aa3,"Microplastics, PET",kg,waste
+9ce0529c-46d9-4867-b3ec-90cc9ba4e3ca,"Microplastics, PET, Marine Environment",9368bb92-537c-460c-917d-56eea4aa0aa3,"Microplastics, PET",kg,waste
+ffd4429e-b8c5-4e15-8a43-94f0badf85fc,"Disposal, PP Non-food Bottles",021ed8bc-cbcf-4f8e-9f7a-a75463359759,"Disposal, PP Non-food Bottles",kg,waste
+962aebbb-be58-484d-898e-b91bd65df9d2,"Reclaiming, Sorted PP Non-food Bottles",c3597bf5-6420-41b2-a74d-3065800749a4,Sorted PP Non-food Bottles,kg,waste
+6d596a75-7363-49be-b66c-819ff34bdf93,"Depolymerization, Enzymatic Hydrolysis, PET Non-food Bottles (Flakes)",7277c277-7595-47b3-99b9-228b7bedb4ad,"Flakes, PET Non-food Bottles",kg,waste
+69e21509-f546-457f-9420-8a11600b8635,"STRAP, Multi-material Food Packaging Film (small format) (Flakes)",d126bef7-f826-48c7-9e01-abbe44fb501b,"Flakes, Multi-material Food Packaging Film (small format)",kg,waste
+cc61b7be-98c3-4a62-8828-2cad533711b9,"Reclaiming, sorted mixed plastics, LDPE Non-food Packaging Films",54cf3c34-8d84-42e4-8792-045a5cd23bf0,"sorted mixed plastics, LDPE Non-food Packaging Films",kg,waste
+7e84fef3-b272-40f4-82a6-1f9b6ed6b8a6,"Mechanical Recycling, PET Drinking Bottles (Flakes)",81223e36-c667-48d4-a76c-c645cd28732c,"Flakes, PET Drinking Bottles",kg,waste
+5e15408d-d7f4-4c76-9861-5b14545eba82,"Disposal, PP Non-food Packaging Films",dfa45991-3a71-4ccf-a829-68ce9ee1c849,"Disposal, PP Non-food Packaging Films",kg,waste
+41caaf09-b2db-409c-8f8f-d68b58501ec1,"Depolymerization, Enzymatic Hydrolysis, PET Other Food Rigid (Flakes)",50514fa3-7dab-4b5e-9477-b787ebe47821,"Flakes, PET Other Food Rigid",kg,waste
+f47ca91b-4998-4528-8c4e-f8c94109e9b6,"Pyrolysis, Feedstock Recycling, PP, Mixed Plastic (Flakes)",010a1aef-ca1a-4bc1-8b4f-eb8c94aa8c7e,"PP, mixed plastics (flakes)",kg,waste
+da136971-31d6-4b63-9685-3dfc3ba06853,"Reclaiming, Sorted PP Non-food Packaging Films",ed52add8-0085-4cf9-b079-5075c68be0d8,Sorted PP Non-food Packaging Films,kg,waste
+f00c347c-67be-4531-b199-f9beeac351d1,"STRAP, Multi-material Non-food Packaging Film (Flakes)",2ef20e74-b7fc-4dab-8595-463480f87ed0,"Flakes, Multi-material Non-food Packaging Film",kg,waste
+9201544f-13fc-47f8-9abc-243d5af28a92,"Reclaiming, sorted mixed plastics, Multi-material Food Bottles",2d817f73-eaa6-4b45-9895-e778204d1f9f,"sorted mixed plastics, Multi-material Food Bottles",kg,waste
+51df877b-24a0-469b-ad22-8afab028486d,Ethylene dichloride-vinyl chloride,d9aa7527-5ab6-3052-9b26-07e930d95ec6,"Ethylene dichloride-vinyl chloride, EDC-VCM, monomer; at plant",kg,product
+07727517-29ff-4cb4-bd2b-aa6c71557bb0,"Polyethylene, low-density, LDPE, virgin resin, non-food grade",2f9d79bf-e4c6-400a-a076-8c00f468fa3b,"Polyethylene, low-density, LDPE, virgin resin, at plant",kg,product
+5a259903-4393-4708-920c-f0627b420ee9,"Reclaiming, sorted mixed plastics, Multi-material Food Packaging Film (small format)",65ebb48a-1817-49c1-8eb3-4aa7822c45c4,"sorted mixed plastics, Multi-material Food Packaging Film (small format)",kg,waste
+da1146eb-746c-4890-8bd3-661553470a94,"Mechanical Recycling, PET Food Bottles (Flakes)",e473b8e4-5c11-44bd-ae88-62ed1ab8d016,"Flakes, PET Food Bottles",kg,waste
+6cccb9f7-7442-499d-8dbd-b5446b091bff,"Depolymerization, Enzymatic Hydrolysis, PET Other Non-food Rigid (Flakes)",53ea5e20-64e3-46f4-b685-c9b92633dc90,"Flakes, PET Other Non-food Rigid",kg,waste
+9056b14f-bfdf-4437-9e57-d09206fa8baf,"Disposal, PP Other Food Rigid",ceba6273-53c3-4c1c-b83d-cdbcc46c7e5b,"Disposal, PP Other Food Rigid",kg,waste
+fdf3b851-e1e5-4adc-888e-bf1c0f99f6fe,"Reclaiming, Sorted PP Other Food Rigid",d2344e22-a77c-4d24-8c87-7f0beeaa24c5,Sorted PP Other Food Rigid,kg,waste
+82d280e1-b812-4bac-8c56-10c18f68aff4,"Reclaiming, sorted mixed plastics, Multi-material Food Packaging Film (med-large format)",f346409c-0ec4-4082-bba3-a8942c552290,"sorted mixed plastics, Multi-material Food Packaging Film (med-large format)",kg,waste
+749da3cc-d7c0-402d-b26b-8074b8f4c925,"Muconic acid, fermentation of glucose",aaa4bde2-7356-4f8f-b495-cfbf8a54ea7a,muconic acid,kg,product
+435c58f5-29e3-4904-89d7-9049b38e79f5,"Open Burning, HDPE",b0e6f62a-5632-47d1-80e4-53dffe1e5ee3,"Open Burning, HDPE",kg,waste
+6c108b27-8e83-44a4-8a82-e9c8b40894b5,"Incineration, HDPE",a5993c36-a2c5-4341-9905-914ec262f260,"Incineration, HDPE",kg,waste
+6e7c39a1-36bc-4d1e-84e6-a1e18810a070,Acetylene Production,188fa157-1f04-4319-b4ce-9055c9b6ed4b,acetylene,kg,product
+aab7936a-ca9e-4318-ab21-88a8f3379cb8,"Mechanical Recycling, PET Non-food Bottles (Flakes)",7277c277-7595-47b3-99b9-228b7bedb4ad,"Flakes, PET Non-food Bottles",kg,waste
+071bbb90-0358-4370-ba7c-c72fb656da40,"Reclaiming, sorted mixed plastics, Multi-material Non-food Packaging Film",117e535f-5f69-47d1-9ea5-5c8cc1d81354,"sorted mixed plastics, Multi-material Non-food Packaging Film",kg,waste
+a3578a2d-0188-4251-8ba1-713598d39733,"Mechanical Recycling, HDPE Drinking Bottles (Flakes)",74210577-3a70-4df4-a59d-ff871f948fdb,"Flakes, HDPE Drinking Bottles",kg,waste
+f215ec46-8a33-4edc-a034-1f349c31d629,"Reclaiming, Sorted PP Other Non-food Rigid",47387a35-93e9-4022-9f81-a603ec241e9c,Sorted PP Other Non-food Rigid,kg,waste
+8df7eefe-0c95-4145-bb8e-9527cb1bc617,"Mechanical Recycling, PP Food Bottles (Flakes)",d51f66ae-d86c-47a8-9e03-d61785bb5156,"Flakes, PP Food Bottles",kg,waste
+d99d8a6d-9f62-4949-81a0-1f0b04fe8204,"Disposal, PP Other Non-food Rigid",46a6b2a0-3e60-45a6-b00d-0f1ebf05b65e,"Disposal, PP Other Non-food Rigid",kg,waste
+5208cf3d-a0cf-461f-ae02-cab5e1626f52,"Reclaiming, sorted mixed plastics, PET Drinking Bottles",10e6cf25-1fc2-4131-98f9-0ca7c83c95dd,"sorted mixed plastics, PET Drinking Bottles",kg,waste
+0c9b5c18-5996-40c6-9cd1-4eafe6b86f6d,"Mechanical Recycling, PET Other Food Rigid (Flakes)",50514fa3-7dab-4b5e-9477-b787ebe47821,"Flakes, PET Other Food Rigid",kg,waste
+ccdb3500-834f-4797-be8b-531bc7ab593d,"Mechanical Recycling, PP Food Packaging Film (med-large format) (Flakes)",30417bcb-3d0f-40ec-bc65-79a93230c06a,"Flakes, PP Food Packaging Film (med-large format)",kg,waste
+61243ec0-8f31-430a-a0aa-002a5bfa6cef,"Disposal, HDPE Microplastics Filtered",97fc633c-aa7c-4162-9a84-a574edd8b69d,"Disposal, HDPE Microplastics Filtered",kg,waste
+9fcf5696-e172-42da-a010-e8d577e2bbd7,"Xylenes, mixed, produced from naphtha, at plant, kg",77abdac3-53ca-4ee2-be95-3b3686c3e556,"Xylenes, mixed, at plant, kg",kg,product
+7bb49bbb-2972-47a6-bb49-7191ec37ba2a,"Reclaiming, sorted mixed plastics, PET Food Bottles",7959b4ec-3222-4426-9eaf-002691ea2faf,"sorted mixed plastics, PET Food Bottles",kg,waste
+56422921-567f-4ceb-bff1-e8a0019d3c89,Styrene,4a72778b-37b3-3c70-bcdc-b47701e7fe74,"Styrene, at plant",kg,product
+aba5ee47-8d89-4590-bd36-24431e26f08c,"Mechanical Recycling, PET Other Non-food Rigid (Flakes)",53ea5e20-64e3-46f4-b685-c9b92633dc90,"Flakes, PET Other Non-food Rigid",kg,waste
+300f9bb6-c627-4c00-b91c-4dbf89cd4a02,"Mechanical Recycling, PP Food Packaging Film (small format) (Flakes)",a3af6bbb-99f7-482c-b24c-65602a151a4a,"Flakes, PP Food Packaging Film (small format)",kg,waste
+e086e426-bc93-49ff-95f0-2679e725611d,"Purified terephthalic acid, PTA, fossil",e44db792-600e-4b75-af39-c3c094899e9e,"Purified terephthalic acid, PTA, at plant, kg",kg,product
+9be19392-1665-4a4b-9e42-c35b296c3f58,"PTA Production, from cyclohexa",e44db792-600e-4b75-af39-c3c094899e9e,"Purified terephthalic acid, PTA, at plant, kg",kg,product
+d32a7e23-c6c0-400a-8134-656a3e13c11f,"Paraxylene, at plant, kg",44067793-674b-441e-b898-369f32f99ba0,"Paraxylene, at plant, kg",kg,product
+fdab1042-6e13-42f0-a7b4-a70c62986fc4,"Disposal, LDPE Microplastics Filtered",3cb1f5fd-d5ac-4552-a1dc-a9cdfc2639d8,"Disposal, LDPE Microplastics Filtered",kg,waste
+e2884390-2613-3d46-81d2-6051ecadc9c2,Styrene; at plant,4a72778b-37b3-3c70-bcdc-b47701e7fe74,"Styrene, at plant",kg,product
+ba4ba2fa-ac0a-4b2a-a6c5-1c19f6aa5b00,"Pyrolysis, PP Food Bottles",d51f66ae-d86c-47a8-9e03-d61785bb5156,"Flakes, PP Food Bottles",kg,waste
+8578a003-85a1-46e3-9699-73809e468ce7,"Reclaiming, sorted mixed plastics, PET Non-food Bottles",fdd9034b-c298-4b2a-b6bc-a9898dfafac9,"sorted mixed plastics, PET Non-food Bottles",kg,waste
+4cb49bc3-7a26-429f-ae2a-745bf6dd0bfa,"Mechanical Recycling, PP Non-food Bottles (Flakes)",9c3d7c75-df2c-4568-b037-ae7fdf9e4719,"Flakes, PP Non-food Bottles",kg,waste
+4a664fd5-f05b-4e76-bbc6-23eb21213486,"Pyrolysis, Feedstock Recycling, PS, Mixed Plastic (Flakes)",574abf38-8f3e-4b08-906e-97da8a701bf4,"PS, mixed plastics (flakes)",kg,waste
+1d490da8-ba18-4f3e-b2a7-a13602a9330c,"Pyrolysis, PP Food Packaging Film (med-large format)",30417bcb-3d0f-40ec-bc65-79a93230c06a,"Flakes, PP Food Packaging Film (med-large format)",kg,waste
+9b4c2721-789c-404b-9a38-ea8d9196dbf0,"Reclaiming, sorted mixed plastics, PET Other Food Rigid",34aee2b7-071d-4462-9dc0-ff321627c1c3,"sorted mixed plastics, PET Other Food Rigid",kg,waste
+92c25f87-11d4-4ab8-a0df-9eab3d9f0521,"Open Burning, PS",dd94535c-ca44-4360-9684-3ab5acc9a43d,"Open Burning, PS",kg,waste
+84504b8a-f26a-44a0-9f5c-1bc141a4d798,"Incineration, PS",9ffa1de4-7186-4870-bc15-3bf27f6f0282,"Incineration, PS",kg,waste
+e3f44b3f-1ec9-4d9b-b794-f889ce38357b,"Mechanical Recycling, PP Non-food Packaging Films (Flakes)",ef4c57fe-5315-456f-9aa2-8bf0961872f7,"Flakes, PP Non-food Packaging Films",kg,waste
+e1f2f677-e94d-456f-b58c-d27715af6074,"Pyrolysis, HDPE Drinking Bottles",74210577-3a70-4df4-a59d-ff871f948fdb,"Flakes, HDPE Drinking Bottles",kg,waste
+eadb5daf-98cd-49c8-b9f5-b1301dd6c6ed,"Mechanical Recycling, PP Other Non-food Rigid (Flakes)",df78dffb-e25b-4efd-b0eb-6dc951eef71d,"Flakes, PP Other Non-food Rigid",kg,waste
+14c39356-966d-4bb1-ac70-3f0e165df94e,"Pyrolysis, Feedstock Recycling, PVC, Mixed Plastic (Flakes)",a8b6a847-a41f-4e5c-8c12-15c8741da6ca,"PVC, mixed plastics (flakes)",kg,waste
+313c5b2b-3a85-4b9a-8c34-087a539fee33,"Pyrolysis, PP Food Packaging Film (small format)",a3af6bbb-99f7-482c-b24c-65602a151a4a,"Flakes, PP Food Packaging Film (small format)",kg,waste
+0832a32f-e4c7-4f04-aeb3-ef3e20b48cd9,"Mechanical Recycling, PP Other Food Rigid (Flakes)",d7ab9bd3-6f3c-4531-a9ad-2d1a896b4de0,"Flakes, PP Other Food Rigid",kg,waste
+5912ecda-5405-482e-923f-b83a553dc2c7,"Low-tech Sorting, Collected PVC Other Food Rigid",5388eb7f-8d89-46be-9440-5500ec0c6dca,Collected PVC Other Food Rigid,kg,waste
+25b4c3b7-6d33-4ea7-b517-83db75faa405,"Low-tech Sorting, Collected PS Other Food Rigid",fe14db81-948b-42ef-99e3-7151cf2bb856,Collected PS Other Food Rigid,kg,waste
+bd5128fb-9a1a-4398-9903-3abbb0cc5b2c,"Low-tech Sorting, Collected PVC Other Non-food Rigid",41d445d1-f933-4d20-a039-6927a5538554,Collected PVC Other Non-food Rigid,kg,waste
+d20ebd6f-57fd-4b89-87e9-1504b0c0e6fb,"Depolymerization, Chemical Recycling with Metal Oxide, PS Other Food Rigid (Flakes)",362be635-3d2f-4d93-8309-9b6f151820af,"Flakes, PS Other Food Rigid",kg,waste
+4ea76469-13bd-4db3-ba2e-d4bf90111229,PET Food Bottles,88f0b3a1-d684-4b1a-9ea9-9e063e733b51,PET food bottles,kg,product
+d7151866-38d5-4964-a3bf-26775aaf212c,"High-tech Sorting, Collected HDPE Other Food Rigid",32c83360-7030-4345-905a-108ed2a368d5,collected HDPE other food rigid,kg,waste
+88616897-adfd-4ec8-b3a9-34269e986627,"High-tech Sorting, Collected Multi-material Non-food Packaging Film",1a6cf146-6fe2-4e59-9601-164a6ad4248f,Collected Multi-material Non-food Packaging Film,kg,waste
+01dae8ca-16de-4c81-9e23-4354068c2165,"High-tech Sorting, Collected PET Food Bottles",394cabb5-4aac-4323-b9ea-dc5da52d32d5,Collected PET Food Bottles,kg,waste
+f163bacc-fba1-4a03-ae17-55f952f616e6,"High-tech Sorting, Collected PVC Other Food Rigid",5388eb7f-8d89-46be-9440-5500ec0c6dca,Collected PVC Other Food Rigid,kg,waste
+4fa4594e-69b7-4574-877d-4460707a2172,"High-tech Sorting, Collected PP Food Packaging Film (med-large format)",3c40d011-9a86-4bee-9cd1-42046b4a6bc8,Collected PP Food Packaging Film (med-large format),kg,waste
+32906a64-484d-498a-95eb-2f53409eb69c,"High-tech Sorting, Collected LDPE Non-food Packaging Film",a51794c7-04b7-4ada-92c2-1d674470e54c,Collected LDPE Non-food Packaging Film,kg,waste
+e551129a-49b0-4565-b9ee-855fb5d20d16,HDPE Non-food Bottles,21a1a113-c35b-4ede-bd54-ce968f48b24e,HDPE non-food bottles,kg,product
+285364e1-d7bb-42f0-a6da-c0adb4a401ac,PVC Other Food Rigid,b523bc4b-b1d6-4799-b150-2853e1c6e6bd,PVC other food rigid,kg,product
+a3960600-b520-41cd-9d21-bd3a9a991047,"High-tech Sorting, Collected PP Non-food Packaging Film",21eb4285-5b80-4e35-94a7-1a1db289dbbf,Collected PP Non-food Packaging Film,kg,waste
+12191faa-0b43-49bb-81ac-8d8ca5c58d07,"High-tech Sorting, Collected LDPE Food Packaging Film (small format)",22119d5b-ed8d-4311-9201-1a094131a883,Collected LDPE Food Packaging Film (small format),kg,waste
+1fcd9aa7-9d46-4df7-a48c-278641a2c616,"Low-tech Sorting, Collected PP Non-food Packaging Film",21eb4285-5b80-4e35-94a7-1a1db289dbbf,Collected PP Non-food Packaging Film,kg,waste
+a092dc3d-6a0b-41b7-aef0-7a3f72aca50f,"Low-tech Sorting, Collected PP Non-food Bottles",05362cdb-a62c-4cd3-b3f3-9291184bd911,Collected PP Non-food Bottles,kg,waste
+cc52b03b-534d-4f62-8036-6ee45235198f,"Low-tech Sorting, Collected PP Other Non-food Rigid",2064fb58-ec9c-4efb-80b3-d1183ec7c57e,Collected PP Other Non-food Rigid,kg,waste
+e137ca64-4670-4678-8dc3-ae2df3359f23,"Low-tech Sorting, Collected PP Other Food Rigid",1664bee1-f48f-4000-9c60-692fdce38dca,Collected PP Other Food Rigid,kg,waste
+435401f2-22fa-4a41-80d6-b7330512081e,"Low-tech Sorting, Collected PP Food Bottles",8d1803be-81be-4a73-b9ee-6f99b70b7fd7,Collected PP Food Bottles,kg,waste
+bdfcc9e7-3ef0-4bef-ae08-f344b92f39ce,"Low-tech Sorting, Collected PET Other Non-Food Rigid",9f0d0de9-f659-4b78-8bfa-f373e9aa4743,Collected PET Other Non-Food Rigid,kg,waste
+be9084eb-b2e0-40e8-b911-f32cc5a4066b,"Low-tech Sorting, Collected PP Food Packaging Film (small format)",4df2fa29-aa0c-4e25-9e45-085d81637fe6,Collected PP Food Packaging Film (small format),kg,waste
+57d4db05-5436-4e34-9f62-268942795ce3,"Low-tech Sorting, Collected PP Food Packaging Film (med-large format)",3c40d011-9a86-4bee-9cd1-42046b4a6bc8,Collected PP Food Packaging Film (med-large format),kg,waste
+5a8b8a5d-6347-424c-b782-23b9fd345370,"Low-tech Sorting, Collected PET Food Bottles",394cabb5-4aac-4323-b9ea-dc5da52d32d5,Collected PET Food Bottles,kg,waste
+81b46228-e336-40d4-9e61-5d1cbd3c930b,"Low-tech Sorting, Collected PET Drinking Bottles",50d86ad9-332e-4038-ab62-40edfcd3472e,Collected PET Drinking Bottles,kg,waste
+cc48d6f6-40f5-4bf4-9c19-9f6dc65842ff,"Low-tech Sorting, Collected PET Other Food Rigid",45afe5a6-2cc4-4b5d-aaf7-5ba4d4815542,Collected PET Other Food Rigid,kg,waste
+29104874-cad9-4b9e-8d84-ff22cc617df7,"Low-tech Sorting, Collected PET Non-food Bottles",3d70bc0d-a228-4f39-9236-6d10e84ab310,Collected PET Non-food Bottles,kg,waste
+50b801a4-09b5-4c37-ae2b-aa31c0a7245d,"Low-tech Sorting, Collected Multi-material Food Packaging Film (med-large format)",04974c51-022a-41b9-ad16-4e51c4ae34a3,Collected Multi-material Food Packaging Film (med-large format),kg,waste
+b8d5a552-2ed6-4208-980d-d8aea13a55f1,"Low-tech Sorting, Collected Multi-material Food Bottles",1ef69ec7-b5fe-4807-a3c6-cd7132494fea,Collected Multi-material Food Bottles,kg,waste
+4582b010-fd89-4af1-96f5-1685fff4b713,"Low-tech Sorting, Collected Multi-material Non-food Packaging Film",1a6cf146-6fe2-4e59-9601-164a6ad4248f,Collected Multi-material Non-food Packaging Film,kg,waste
+1b835073-fd97-4bbb-8c5f-235bfa48f09f,"Low-tech Sorting, Collected Multi-material Food Packaging Film (small format)",85b99874-1a83-4f26-bc57-5e003578f472,Collected Multi-material Food Packaging Film (small format),kg,waste
+92707789-eb80-411f-a276-885dd09d1fc5,"Low-tech Sorting, Collected LDPE Food Packaging Film (med-large format)",c69a4033-29eb-4d0b-8cf0-1546657e5cba,Collected LDPE Food Packaging Film (med-large format),kg,waste
+5e65a0cf-60db-441e-9d60-dca8dcf44ddf,"Low-tech Sorting, Collected HDPE Other Non-food Rigid",d07ed1f8-c299-4ecf-bd1a-88a6e4d6513e,Collected HDPE Other Non-food Rigid,kg,waste
+8595f329-1f04-4b97-96de-b3a89e0233b1,"Low-tech Sorting, Collected LDPE Non-food Packaging Film",a51794c7-04b7-4ada-92c2-1d674470e54c,Collected LDPE Non-food Packaging Film,kg,waste
+ecf706a2-bade-4ec5-ade7-d14da10baa30,"Low-tech Sorting, Collected LDPE Food Packaging Film (small format)",22119d5b-ed8d-4311-9201-1a094131a883,Collected LDPE Food Packaging Film (small format),kg,waste
+172a2c01-3588-47b2-804b-9555a68d3e5a,"Low-tech Sorting, Collected HDPE Food Bottles",9572379f-123d-4cc8-bbe7-98c481e4ff51,collected HDPE food bottles,kg,waste
+9a95bad1-1900-44e7-890f-02e2ee3108fc,"Low-tech Sorting, Collected HDPE Drinking Bottles",5b11e1bb-46de-4feb-ab31-84a4800d7943,collected HDPE drinking bottles,kg,waste
+fd49361d-e783-447d-b0ae-233cbcd2c091,"Low-tech Sorting, Collected HDPE Other Food Rigid",32c83360-7030-4345-905a-108ed2a368d5,collected HDPE other food rigid,kg,waste
+eb98e67c-51e4-4d26-8de4-7b7b8fdff314,"Low-tech Sorting, Collected HDPE Non-food Bottles",c4783977-4e6d-4581-ab40-9116b9b0c1d2,collected HDPE non-food bottles,kg,waste
+349b4686-bd71-4481-9aa5-c792e4cdb00a,Multi-material Non-food Packaging Film,3072266c-e946-4e1e-aaf8-58c3318db202,Multi-material non-food packaging film,kg,product
+8c4fc9d2-b6f0-4abb-adce-6d2c239f8b6e,PVC Other Non-food Rigid,ad882fa5-9c4a-47ce-bf4d-9d8bd4e9cee4,PVC other non-food rigid,kg,product
+bf0833cb-6d95-43ee-94b4-069ae2cfd4e6,"High-tech Sorting, Collected Multi-material Food Bottles",1ef69ec7-b5fe-4807-a3c6-cd7132494fea,Collected Multi-material Food Bottles,kg,waste
+c3ca8f74-0f2e-444d-bd35-ecde11882bdd,"High-tech Sorting, Collected PP Other Food Rigid",1664bee1-f48f-4000-9c60-692fdce38dca,Collected PP Other Food Rigid,kg,waste
+6f33fffd-63f1-4290-a268-c04e903873b6,PET Non-food Bottles,7c006430-d8b0-4c2d-ba31-3aa4616b7141,PET non-food bottles,kg,product
+986b8bb5-d4c6-47fd-af25-67ed08a0c9f8,PP Food Packaging Film (med-large format),48c4be55-c86c-4f1b-94fa-94b12ecd3978,PP food packaging film (med-large format),kg,product
+a7a49c82-657c-4899-b81e-056400578d73,Multi-material Food Bottles,7aaaef1c-8b18-416a-a7c9-ba30390b13bc,Multi-material food bottles,kg,product
+e3243de6-60e3-4dff-8b2f-23dfba0e90c1,"High-tech Sorting, Collected PET Other Food Rigid",45afe5a6-2cc4-4b5d-aaf7-5ba4d4815542,Collected PET Other Food Rigid,kg,waste
+beeabc05-100f-4576-a4b2-cd72f7cbb8ae,PP Other Non-food Rigid,b534c742-4a63-45d0-bb18-996a323d4efc,PP other non-food rigid,kg,product
+01c4060f-5fc1-463a-85f4-feeaea7429b4,LDPE Food Packaging Film (med-large format),0fe108ec-02f4-4c33-8c7d-8b45c0e0b6c4,LDPE food packaging film (med-large format),kg,product
+ecd5548d-2fa9-4a3d-8597-23f6eb0eb351,"High-tech Sorting, Collected PET Other Non-Food Rigid",9f0d0de9-f659-4b78-8bfa-f373e9aa4743,Collected PET Other Non-Food Rigid,kg,waste
+f7df6645-173f-44b7-9714-b161e50a4708,PET Other Food Rigid,0134f60d-a46b-427f-983e-5cafdbb124a5,PET other food rigid,kg,product
+2ec4e087-1f7d-415c-92c3-0c5c8c04f1dd,PET Drinking Bottles,6651d271-9bdb-4c1d-96fb-5859d78a00b9,PET drinking bottles,kg,product
+a49b53a5-5119-427d-916e-9c28f2a65a68,PP Non-food Bottles,a63dd300-6b9c-42eb-b2e0-ce387c10f3ae,PP non-food bottles,kg,product
+b3f872ea-6a0d-488b-bb42-0c6a51ea03d8,"High-tech Sorting, Collected HDPE Other Non-food Rigid",d07ed1f8-c299-4ecf-bd1a-88a6e4d6513e,Collected HDPE Other Non-food Rigid,kg,waste
+2280b7be-49a4-4859-9952-978a20704e20,"High-tech Sorting, Collected HDPE Food Bottles",9572379f-123d-4cc8-bbe7-98c481e4ff51,collected HDPE food bottles,kg,waste
+e26e5619-5c79-4bc0-92f2-ccee67b11d7c,HDPE Other Non-food Rigid,8a4c2fba-0c07-41e0-a5a0-c40343cbb0df,HDPE other non-food rigid,kg,product
+413d2cd4-3e3a-4ee8-bb10-13db94478971,"High-tech Sorting, Collected PP Non-food Bottles",05362cdb-a62c-4cd3-b3f3-9291184bd911,Collected PP Non-food Bottles,kg,waste
+9a5a27ef-d3e3-465e-80dc-d85388f9a6cd,HDPE Other Food Rigid,15c971e3-dfc9-4b51-9b77-aa8270070744,HDPE other food rigid,kg,product
+e96a6a8c-fd35-4560-8568-7b4c6b5abc77,"High-tech Sorting, Collected PP Other Non-food Rigid",2064fb58-ec9c-4efb-80b3-d1183ec7c57e,Collected PP Other Non-food Rigid,kg,waste
+6136fb08-b951-4b91-bb0f-406a9fd84553,HDPE Food Bottles,5aa43390-651b-41cf-9f8f-e4230b7cb948,HDPE food bottles,kg,product
+b7ee7009-8f9b-4334-b8a7-dda13809a545,"High-tech Sorting, Collected HDPE Drinking Bottles",5b11e1bb-46de-4feb-ab31-84a4800d7943,collected HDPE drinking bottles,kg,waste
+651c23f7-a59f-4c86-a0c1-1bbbdf4fc12c,LDPE Non-food Packaging Films,4e885749-cfa3-4f2d-9d4d-306b8630083c,LDPE non-food packaging films,kg,product
+f2f72623-9d86-4ed1-adc6-7aefe930c775,"High-tech Sorting, Collected PS Other Food Rigid",fe14db81-948b-42ef-99e3-7151cf2bb856,Collected PS Other Food Rigid,kg,waste
+6b79c0b8-690d-4266-ac5f-7f256378c74a,"High-tech Sorting, Collected PET Non-food Bottles",3d70bc0d-a228-4f39-9236-6d10e84ab310,Collected PET Non-food Bottles,kg,waste
+204d9565-1cf8-4ee8-99d6-b92fb629cd9b,"High-tech Sorting, Collected LDPE Food Packaging Film (med-large format)",c69a4033-29eb-4d0b-8cf0-1546657e5cba,Collected LDPE Food Packaging Film (med-large format),kg,waste
+0cc7809a-8e0e-4428-b674-915a3a71621e,"High-tech Sorting, Collected HDPE Non-food Bottles",c4783977-4e6d-4581-ab40-9116b9b0c1d2,collected HDPE non-food bottles,kg,waste
+1c366fa3-ecbd-470d-a38a-3856cf031af1,"Pyrolysis, PP Non-food Bottles",9c3d7c75-df2c-4568-b037-ae7fdf9e4719,"Flakes, PP Non-food Bottles",kg,waste
+8c263132-2a22-45e4-ab49-c7172d75b902,PET Other Non-food Rigid,d7007dff-585a-460b-951b-5ce0bf6a08b0,PET other non-food rigid,kg,product
+3d679cd2-9976-4f00-bc74-d5a333c670b3,PP Food Bottles,804873b9-f2bc-443b-81e3-4c574c89d687,PP food bottles,kg,product
+0157620b-5cfe-41a9-8e80-5d53e0cb7457,"Open Burning, PVC",00a6df40-0271-478c-a8dc-dce2a524fbb0,"Open Burning, PVC",kg,waste
+61e977ad-8271-4da2-b008-539d1fc55623,"Incineration, PVC",be7df53b-7ac7-48b2-8b4e-a91e1bded9b7,"Incineration, PVC",kg,waste
+d379f435-ac72-4815-816b-dbe9e1397873,"High-tech Sorting, Collected PP Food Packaging Film (small format)",4df2fa29-aa0c-4e25-9e45-085d81637fe6,Collected PP Food Packaging Film (small format),kg,waste
+110b38de-6fce-48ec-a166-febc5f3113d5,"High-tech Sorting, Collected Multi-material Food Packaging Film (med-large format)",04974c51-022a-41b9-ad16-4e51c4ae34a3,Collected Multi-material Food Packaging Film (med-large format),kg,waste
+677a6285-d5ea-4541-a5ae-1858d8fbd9b2,"High-tech Sorting, Collected PVC Other Non-food Rigid",41d445d1-f933-4d20-a039-6927a5538554,Collected PVC Other Non-food Rigid,kg,waste
+3fbc7644-568d-4d32-b746-30cbd721efd5,HDPE Drinking Bottles,30ba50e3-713e-4ec1-bf55-ef6f007f911e,HDPE drinking bottles,kg,product
+8b39b558-deb0-4e8f-94f0-0d6e7489f8f9,"Disposal, PET Microplastics Filtered",993f09ce-c00c-49e4-9d5c-9f2877311829,"Disposal, PET Microplastics Filtered",kg,waste
+14de8f87-d161-4ba6-bfbe-bd23d1df2ec4,PS Other Food Rigid,2f0237ec-72cf-4b85-ae43-d51472872364,PS other food rigid,kg,product
+f19c1df1-7573-4ea6-9ed9-56b2f729a697,"High-tech Sorting, Collected Multi-material Food Packaging Film (small format)",85b99874-1a83-4f26-bc57-5e003578f472,Collected Multi-material Food Packaging Film (small format),kg,waste
+22714cd7-b515-4d53-aa7d-1b442ffdb945,PP Other Food Rigid,88ad0fa4-51cd-400e-9401-7e7f7fb36c0d,PP other food rigid,kg,product
+df763b0d-a16b-4c04-845a-e9babf9c6b1e,"High-tech Sorting, Collected PP Food Bottles",8d1803be-81be-4a73-b9ee-6f99b70b7fd7,Collected PP Food Bottles,kg,waste
+d80e6e40-21db-4474-9d37-5dff72fda741,LDPE Food Packaging Film (small format),24053430-e86a-4c8e-9d9d-f8dc3600e9e0,LDPE food packaging film (small format),kg,product
+77ebc186-dbf8-4ea6-9e86-65cf6806bee9,PP Food Packaging Film (small format),dc5adbb9-cfa7-4404-ade8-4bf4a3de4406,PP food packaging film (small format),kg,product
+895e818f-eead-47cd-86ca-f202a14920d4,Multi-material Food Packaging Film (small format),a1285f8f-e364-4c5a-bd11-767ce4e1c342,Multi-material food packaging film (small format),kg,product
+62550abd-5b39-44cf-a992-1b9662b9be70,Multi-material Food Packaging Film (med-large format),c751f5e4-5a8c-4fdc-beb8-b8673e6d7834,Multi-material food packaging film (med-large format),kg,product
+d045a1a9-6953-4f5e-976d-42716e504038,PP Non-food Packaging Films,e57642e2-e5e2-47ea-8777-1ec007a95acf,PP non-food packaging films,kg,product
+37aa86f4-ceda-48a7-a2cd-0d7975436456,"High-tech Sorting, Collected PET Drinking Bottles",50d86ad9-332e-4038-ab62-40edfcd3472e,Collected PET Drinking Bottles,kg,waste
+859f2f1b-af09-438d-a15f-18aaf447b706,"Mechanical Recycling, PVC Other Food Rigid (Flakes)",994c9c18-70a1-4924-91d2-774c1f394350,"Flakes, PVC Other Food Rigid",kg,waste
+37e122da-c6ba-402e-a280-aaf2b1e045a3,"Cyclohexa-2,5-diene-1,4-dicarboxylate Production, Diels-Alder process",ae6ea44a-0cae-4b43-b7f8-d0d6a4593c7f,"Cyclohexa-2,5-diene-1,4-dicarboxylate",kg,product
+01e3fe24-ddf0-4bf9-acf2-e31861f42610,"Ethanol production, switchgrass, biochemical",005db14f-6fc8-32d3-95a6-c7b8b8d30fb1,"Ethanol, denatured, switchgrass, biochemical",kg,product
+35b74507-4b2c-404e-a48c-f3873361cd9c,"Ethanol production, wheat straw, biochemical",4f541c34-ea5e-3580-a001-80ed28198120,"Ethanol, denatured, wheat straw, biochemical",kg,product
+1704b742-0ec2-46c1-849d-49944bf97c26,"Ethanol production, corn stover, biochemical",7f49cac3-84a7-345a-abaa-c3671a78c38f,"Ethanol, denatured, corn stover, biochemical",kg,product
+c0c13159-d849-4b87-940b-8adbb30a4744,"Ethanol production, forest residues, thermochem",2656bfd3-ed3c-3fb8-ab93-6597836a463b,"Ethanol, denatured, forest residues, thermochem",kg,product
+03391080-1d6c-4456-af6d-0bad08c2a0a2,"Ethanol production, corn dry mill",f4364ab6-cb8c-3b5c-a9d7-dfe57ac7bceb,"Ethanol, denatured, corn dry mill",kg,product
+05b5adb8-c3ec-4951-9b36-c356377fc642,"Pyrolysis, PP Non-food Packaging Films",ef4c57fe-5315-456f-9aa2-8bf0961872f7,"Flakes, PP Non-food Packaging Films",kg,waste
+548e5d1b-d0dc-45af-8193-23e254a06904,"Reclaiming, Sorted HDPE Drinking Bottles",6a893497-2491-4fd0-a3ee-aceb80684cd9,Sorted HDPE Drinking Bottles,kg,waste
+f5fb57a3-20c4-47c9-8cf6-c37f78a9655e,"Open Burning, LDPE",cd624074-1cd8-41bd-b9c3-479185650763,"Open Burning, LDPE",kg,waste
+afa23570-1ccb-4395-85b1-6b9c6dd4c63f,"Incineration, LDPE",6659aca2-4c4a-48bd-9d0f-b55140200cf0,"Incineration, LDPE",kg,waste
+74d0b0e8-8b01-43e8-8ebd-467d42b79c0e,"Mechanical Recycling, PVC Other Non-food Rigid (Flakes)",53f005dc-0d5c-4dc1-a156-2bc8c42920c6,"Flakes, PVC Other Non-food Rigid",kg,waste
+f16a3782-256d-44a7-8f59-ce2d9b496ea4,"Reclaiming, Sorted HDPE Food Bottles",cd029547-18a3-44b4-b53d-606655196091,Sorted HDPE Food Bottles,kg,waste
+49c06fbf-e90b-4945-9330-17349c7651a8,"Disposal, PP Microplastics Filtered",e688ef11-b758-45e3-b50e-c27bb74b8db7,"Disposal, PP Microplastics Filtered",kg,waste
+faaae47d-8b88-4b1f-9f71-e50e2df1318f,"Pyrolysis, PP Other Food Rigid",d7ab9bd3-6f3c-4531-a9ad-2d1a896b4de0,"Flakes, PP Other Food Rigid",kg,waste
+0b8c7a97-7fce-4dd5-a210-731543ec7c6e,"Pyrolysis, PP Other Non-food Rigid",df78dffb-e25b-4efd-b0eb-6dc951eef71d,"Flakes, PP Other Non-food Rigid",kg,waste
+5a00d598-6e38-41e9-99ac-071b7b1995da,"Reclaiming, Sorted HDPE Non-food Bottles",a98dbc61-52d6-433f-ab4e-1c9ed209413c,Sorted HDPE Non-food Bottles,kg,waste
+991dbfb5-a75f-4ef3-9e39-64ad71a069c1,"Mechanical Recycling, PS Other Food Rigid (Flakes)",362be635-3d2f-4d93-8309-9b6f151820af,"Flakes, PS Other Food Rigid",kg,waste
+fa10973d-025e-448e-88d9-ada51fe39e38,"Styrene production, fossil",4a72778b-37b3-3c70-bcdc-b47701e7fe74,"Styrene, at plant",kg,product
+e330eea9-fd39-4b6c-99ee-b136784532a4,"Styrene production, corn stover",4a72778b-37b3-3c70-bcdc-b47701e7fe74,"Styrene, at plant",kg,product
+8a078910-b33e-4fc9-9fb7-9e6bad1c7f1f,"Ethylene oxide production, dehydration of bio-ethanol",4cba2656-7694-3b28-9ced-2b49acaa0f7a,"Ethylene oxide, at plant",kg,product
+8c9d0f92-d6e0-477d-997c-5ba785d82a8c,"Incineration, multi-material food bottles",f14679ea-4872-43e0-a652-a280b47132b7,"Incineration, multi-material food bottles",kg,waste
+545ba6e8-b85e-47d4-a0c1-36fddba131ba,"Open Burning, multi-material food bottles",6832dd3f-ceba-49cf-9e22-ee34214bf504,"Open Burning, multi-material food bottles",kg,waste
+8564fd5d-7cc5-49fe-9d57-af936e2a0e62,"Ethylene glycol, fossil",a5c7d642-4e3a-40af-a919-a2f7601340b0,"Ethylene glycol, at plant, kg",kg,product
+53bb846e-860f-4215-b8e2-fd9290a3dcda,"Ethylene glycol, hydration of bio-ethanol",a5c7d642-4e3a-40af-a919-a2f7601340b0,"Ethylene glycol, at plant, kg",kg,product
+1c2114b8-0b28-4040-b4c2-84170d1b7b13,"Disposal, PS Microplastics Filtered",c92aecef-c256-4395-bb14-e41c9bbe7ba6,"Disposal, PS Microplastics Filtered",kg,waste
+0bb79f5b-2df0-4a41-9d3d-298c0b3804f8,"Propylene production, fossil, steam cracker",e86e8b04-8e64-3a17-95c3-04c07229f0ac,"Propylene, at plant",kg,product
+79a475cf-3132-489b-b2e7-b0fd9eca3b1e,"Propylene production, ethanol dehydration and metathesis",e86e8b04-8e64-3a17-95c3-04c07229f0ac,"Propylene, at plant",kg,product
+b2829206-7107-4f2f-a544-6ca748f45c13,"Disposal, PVC Microplastics Filtered",d8b2399c-ef3d-46c8-9d57-765589956d97,"Disposal, PVC Microplastics Filtered",kg,waste
+,"Benzene, at plant",db548272-c05b-39c4-926e-ba9e10a29195,"Benzene, at plant",kg,product
+,Cooling water,,,,
+,Clean Electricity,,,,
+,Fossil Electricity,,,,
+,Process water (cut-off),,,,
+,"Electricity, biomass (life cycle)",,,,
+,"Electricity, coal (life cycle)",,,,
+,"Electricity, geothermal (life cycle)",,,,
+,"Electricity, hydropower (life cycle)",,,,
+,"Electricity, natural gas (life cycle)",,,,
+,"Electricity, nuclear (life cycle)",,,,
+,"Electricity, oil (life cycle)",,,,
+,"Electricity, solar (life cycle)",,,,
+,"Electricity, wind (life cycle)",,,,
+,"Steam, purchased by containerboard mills",,,,
+,"Natural gas, combusted in industrial boiler",,,,
