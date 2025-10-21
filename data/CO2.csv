@@ -1,0 +1,18 @@
+flow name,flow category
+Carbon dioxide,Elementary flows/emission/air/indoor
+Carbon dioxide,Elementary flows/emission/air/stratosphere
+Carbon dioxide,Elementary flows/emission/air
+Carbon dioxide,Elementary flows/emission/air/troposphere/rural/ground-level
+Carbon dioxide,Elementary flows/emission/air/troposphere/rural/high
+Carbon dioxide,Elementary flows/emission/air/troposphere/rural/low
+Carbon dioxide,Elementary flows/emission/air/troposphere/rural/very high
+Carbon dioxide,Elementary flows/emission/air/troposphere/ground-level
+Carbon dioxide,Elementary flows/emission/air/troposphere/high
+Carbon dioxide,Elementary flows/emission/air/troposphere/low
+Carbon dioxide,Elementary flows/emission/air/troposphere/rural
+Carbon dioxide,Elementary flows/emission/air/troposphere/urban
+Carbon dioxide,Elementary flows/emission/air/troposphere/very high
+Carbon dioxide,Elementary flows/emission/air/troposphere/urban/ground-level
+Carbon dioxide,Elementary flows/emission/air/troposphere/urban/high
+Carbon dioxide,Elementary flows/emission/air/troposphere/urban/low
+Carbon dioxide,Elementary flows/emission/air/troposphere/urban/very high
