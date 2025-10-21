@@ -19,3 +19,19 @@ Provider name,Input parameters names,Baseline
 "Flakes, PET Other Food Rigid","Mechanical Recycling, PET Other Food Rigid (Flakes)",1
 "Flakes, PET Other Non-food Rigid","Depolymerization, Enzymatic Hydrolysis, PET Other Non-food Rigid (Flakes)",0
 "Flakes, PET Other Non-food Rigid","Mechanical Recycling, PET Other Non-food Rigid (Flakes)",1
+"Low-tech Sorting, Collected HDPE Drinking Bottles","Disposal, HDPE Drinking Bottles",0.11
+"Low-tech Sorting, Collected HDPE Drinking Bottles","Reclaiming, sorted mixed plastics, HDPE Drinking Bottles",0
+"Low-tech Sorting, Collected HDPE Food Bottles","Disposal, HDPE Food Bottles",0.11
+"Low-tech Sorting, Collected HDPE Food Bottles","Reclaiming, sorted mixed plastics, HDPE Food Bottles",0
+"Low-tech Sorting, Collected HDPE Non-food Bottles","Disposal, HDPE Non-food Bottles",0.11
+"Low-tech Sorting, Collected HDPE Non-food Bottles","Reclaiming, sorted mixed plastics, HDPE Non-food Bottles",0
+"Low-tech Sorting, Collected HDPE Other Food Rigid","Disposal, HDPE Other Food Rigid",0.11
+"Low-tech Sorting, Collected HDPE Other Food Rigid","Reclaiming, sorted mixed plastics, HDPE Other Food Rigid",0
+"Low-tech Sorting, Collected HDPE Other Non-food Rigid","Disposal, HDPE Other Non-food Rigid",0.11
+"Low-tech Sorting, Collected HDPE Other Non-food Rigid","Reclaiming, sorted mixed plastics, HDPE Other Non-food Rigid",0
+"Low-tech Sorting, Collected PET Drinking Bottles","Disposal, PET Drinking Bottles",0.07
+"Low-tech Sorting, Collected PET Drinking Bottles","Reclaiming, sorted mixed plastics, PET Drinking Bottles",0
+"Low-tech Sorting, Collected PET Food Bottles","Disposal, PET Food Bottles",0.07
+"Low-tech Sorting, Collected PET Food Bottles","Reclaiming, sorted mixed plastics, PET Food Bottles",0
+"Low-tech Sorting, Collected PET Non-food Bottles","Disposal, PET Non-food Bottles",0.07
+"Low-tech Sorting, Collected PET Non-food Bottles","Reclaiming, sorted mixed plastics, PET Non-food Bottles",0

@@ -41,8 +41,8 @@ provider name,Linear Economy,Low-tech,High-tech,Baseline - SSP2
 "Low-tech Sorting, Collected PET Drinking Bottles",0,0.73,0,0.19
 "Low-tech Sorting, Collected PET Food Bottles",0,0.73,0,0.19
 "Low-tech Sorting, Collected PET Non-food Bottles",0,0.73,0,0.19
-"Low-tech Sorting, Collected PET Other Food Rigid",0,0.08,0,0.19
-"Low-tech Sorting, Collected PET Other Non-Food Rigid",0,0.08,0,0.19
+"Low-tech Sorting, Collected PET Other Food Rigid",0,0.10,0,0
+"Low-tech Sorting, Collected PET Other Non-Food Rigid",0,0.10,0,0
 "Low-tech Sorting, Collected PP Food Bottles",0,0.10,0,0
 "Low-tech Sorting, Collected PP Food Packaging Film (med-large format)",0,0.10,0,0
 "Low-tech Sorting, Collected PP Food Packaging Film (small format)",0,0.10,0,0

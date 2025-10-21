@@ -14,8 +14,8 @@ provider name,Linear Economy,Low-tech,High-tech,Baseline - SSP2
 "Disposal, PET Drinking Bottles",0.96,0.10,0.10,0.77
 "Disposal, PET Food Bottles",0.96,0.10,0.10,0.77
 "Disposal, PET Non-food Bottles",0.96,0.10,0.10,0.77
-"Disposal, PET Other Food Rigid",0.96,0.87,0.10,0.77
-"Disposal, PET Other Non-food Rigid",0.96,0.87,0.10,0.77
+"Disposal, PET Other Food Rigid",0.96,0.87,0.10,0.96
+"Disposal, PET Other Non-food Rigid",0.96,0.87,0.10,0.96
 "Disposal, PP Food Bottles",0.96,0.87,0.10,0.96
 "Disposal, PP Food Packaging Film (med-large format)",0.81,0.73,0.08,0.81
 "Disposal, PP Food Packaging Film (small format)",0.80,0.72,0.08,0.80
