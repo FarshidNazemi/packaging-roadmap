@@ -1,0 +1,13 @@
+dynamic csv name,Provider name,Input parameters names
+Biomass,Ethylene,"Ethylene production, from bio-ethanol dehydration"
+Fossil,Ethylene,"Ethylene production, fossil, steam cracker"
+Fossil,Ethylene dichloride-vinyl chloride,"Ethylene dichloride-vinyl chloride monomer, EDC-VCM; from fossil ethylene"
+Biomass,Ethylene dichloride-vinyl chloride,"Ethylene dichloride-vinyl chloride monomer, EDC-VCM; from bio-ethylene"
+Biomass,Ethylene glycol,"Ethylene glycol, hydration of bio-ethanol"
+Fossil,Ethylene glycol,"Ethylene glycol, fossil"
+Biomass,Propylene,"Propylene production, ethanol dehydration and metathesis"
+Fossil,Propylene,"Propylene production, fossil, steam cracker"
+Biomass,PTA,"PTA Production, from cyclohexa"
+Fossil,PTA,"Purified terephthalic acid, PTA, fossil"
+Fossil,Styrene,"Styrene production, fossil"
+Biomass,Styrene,"Styrene production, corn stover"

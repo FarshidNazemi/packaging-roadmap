@@ -1,0 +1,53 @@
+Flow,mineralization constant
+Fragmented HDPE-rigid-large,0.00007631712
+Fragmented HDPE-rigid-small,0.00007631712
+Fragmented LDPE-flexible-large,0.00007631712
+Fragmented LDPE-flexible-small,0.00007631712
+Fragmented Multilayer-flexible-large (food bottles),0.00003902138496
+Fragmented Multilayer-flexible-large (food packaging film),0.00003902138496
+Fragmented Multilayer-flexible-large (non-food packaging film),0.00003902138496
+Fragmented Multilayer-flexible-small (food packaging film),0.00003902138496
+Fragmented Multilayer-rigid-large,0.00003902138496
+Fragmented PET-flexible-large,0.00000194387904
+Fragmented PET-rigid-large,0.00000194387904
+Fragmented PET-rigid-small,0.00000194387904
+Fragmented PP-flexible-large,0.0000015074208
+Fragmented PP-flexible-small,0.0000015074208
+Fragmented PP-rigid-large,0.0000015074208
+Fragmented PS-flexible-large,0.00003902138496
+Fragmented PS-rigid-large,0.00003902138496
+Fragmented PS-rigid-small,0.00003902138496
+Fragmented PVC-flexible-large,0.00003902138496
+Fragmented PVC-rigid-large,0.00003902138496
+Fragmented PVC-rigid-small,0.00003902138496
+"LDPE, Primary Microplastic to Marine Environment",0.00007631712
+"multilayer food bottles, Primary Microplastic to Marine Environment",0.00003902138496
+"multilayer food packaging film, Primary Microplastic to Marine Environment",0.00003902138496
+"multilayer non-food packaging film, Primary Microplastic to Marine Environment",0.00003902138496
+"PET, Primary Microplastic to Marine Environment",0.00000194387904
+"PP, Primary Microplastic to Marine Environment",0.0000015074208
+Primary microHDPE-flexible-large,0.00007631712
+Primary microHDPE-rigid-large,0.00007631712
+Primary microHDPE-small (rigid),0.00007631712
+Primary microLDPE-flexible-large,0.00007631712
+Primary microLDPE-rigid-large,0.00007631712
+Primary microLDPE-rigid-small,0.00007631712
+Primary microMultilayer-flexible-large (food bottles),0.00003902138496
+Primary microMultilayer-flexible-large (food packaging film),0.00003902138496
+Primary microMultilayer-flexible-large (non-food packaging film),0.00003902138496
+Primary microMultilayer-flexible-small (food packaging film),0.00003902138496
+Primary microMultilayer-rigid-large,0.00003902138496
+Primary microPET-flexible-large,0.00000194387904
+Primary microPET-rigid-large,0.00000194387904
+Primary microPET-rigid-small,0.00000194387904
+Primary microPP-flexible-large,0.0000015074208
+Primary microPP-rigid-large,0.0000015074208
+Primary microPP-rigid-small,0.0000015074208
+Primary microPS-flexible-large,0.00003902138496
+Primary microPS-rigid-large,0.00003902138496
+Primary microPS-rigid-small,0.00003902138496
+Primary microPVC-flexible-large,0.00003902138496
+Primary microPVC-rigid-large,0.00003902138496
+Primary microPVC-rigid-small,0.00003902138496
+"PS, Primary Microplastic to Marine Environment",0.00003902138496
+"PVC, Primary Microplastic to Marine Environment",0.00003902138496

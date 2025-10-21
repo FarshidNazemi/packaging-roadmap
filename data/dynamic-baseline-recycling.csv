@@ -1,0 +1,21 @@
+Provider name,Input parameters names,Baseline
+"Flakes, HDPE Drinking Bottles","Pyrolysis, HDPE Drinking Bottles",0
+"Flakes, HDPE Drinking Bottles","Mechanical Recycling, HDPE Drinking Bottles (Flakes)",1
+"Flakes, HDPE Food Bottles","Pyrolysis, HDPE Food Bottles",0
+"Flakes, HDPE Food Bottles","Mechanical Recycling, HDPE Food Bottles (Flakes)",1
+"Flakes, HDPE Non-food Bottles","Pyrolysis, HDPE Non-food Bottles",0
+"Flakes, HDPE Non-food Bottles","Mechanical Recycling, HDPE Non-food Bottles (Flakes)",1
+"Flakes, HDPE Other Food Rigid","Pyrolysis, HDPE Other Food Rigid",0
+"Flakes, HDPE Other Food Rigid","Mechanical Recycling, HDPE Other Food Rigid (Flakes)",1
+"Flakes, HDPE Other Non-food Rigid","Pyrolysis, HDPE Other Non-food Rigid",0
+"Flakes, HDPE Other Non-food Rigid","Mechanical Recycling, HDPE Other Non-food Rigid (Flakes)",1
+"Flakes, PET Drinking Bottles","Mechanical Recycling, PET Drinking Bottles (Flakes)",1
+"Flakes, PET Drinking Bottles","Depolymerization, Enzymatic Hydrolysis, PET Drinking Bottles (Flakes)",0
+"Flakes, PET Food Bottles","Mechanical Recycling, PET Food Bottles (Flakes)",1
+"Flakes, PET Food Bottles","Depolymerization, Enzymatic Hydrolysis, PET Food Bottles (Flakes)",0
+"Flakes, PET Non-food Bottles","Depolymerization, Enzymatic Hydrolysis, PET Non-food Bottles (Flakes)",0
+"Flakes, PET Non-food Bottles","Mechanical Recycling, PET Non-food Bottles (Flakes)",1
+"Flakes, PET Other Food Rigid","Depolymerization, Enzymatic Hydrolysis, PET Other Food Rigid (Flakes)",0
+"Flakes, PET Other Food Rigid","Mechanical Recycling, PET Other Food Rigid (Flakes)",1
+"Flakes, PET Other Non-food Rigid","Depolymerization, Enzymatic Hydrolysis, PET Other Non-food Rigid (Flakes)",0
+"Flakes, PET Other Non-food Rigid","Mechanical Recycling, PET Other Non-food Rigid (Flakes)",1
