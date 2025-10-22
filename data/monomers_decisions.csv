@@ -1,13 +1,13 @@
-Provider name,Input parameters names,Linear Economy
-Ethylene,"Ethylene production, from bio-ethanol dehydration",0
-Ethylene,"Ethylene production, fossil, steam cracker",1
-Ethylene dichloride-vinyl chloride,"Ethylene dichloride-vinyl chloride monomer, EDC-VCM; from fossil ethylene",1
-Ethylene dichloride-vinyl chloride,"Ethylene dichloride-vinyl chloride monomer, EDC-VCM; from bio-ethylene",0
-Ethylene glycol,"Ethylene glycol, hydration of bio-ethanol",0
-Ethylene glycol,"Ethylene glycol, fossil",1
-Propylene,"Propylene production, ethanol dehydration and metathesis",0
-Propylene,"Propylene production, fossil, steam cracker",1
-PTA,"PTA Production, from cyclohexa",0
-PTA,"Purified terephthalic acid, PTA, fossil",1
-Styrene,"Styrene production, fossil",1
-Styrene,"Styrene production, corn stover",0
+Provider name,Input parameters names,Linear Economy,Best
+Ethylene,"Ethylene production, from bio-ethanol dehydration",0,1
+Ethylene,"Ethylene production, fossil, steam cracker",1,0
+Ethylene dichloride-vinyl chloride,"Ethylene dichloride-vinyl chloride monomer, EDC-VCM; from fossil ethylene",1,0
+Ethylene dichloride-vinyl chloride,"Ethylene dichloride-vinyl chloride monomer, EDC-VCM; from bio-ethylene",0,1
+Ethylene glycol,"Ethylene glycol, hydration of bio-ethanol",0,1
+Ethylene glycol,"Ethylene glycol, fossil",1,0
+Propylene,"Propylene production, ethanol dehydration and metathesis",0,1
+Propylene,"Propylene production, fossil, steam cracker",1,0
+PTA,"PTA Production, from cyclohexa",0,1
+PTA,"Purified terephthalic acid, PTA, fossil",1,0
+Styrene,"Styrene production, fossil",1,0
+Styrene,"Styrene production, corn stover",0,1
