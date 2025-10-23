@@ -1,6 +1,6 @@
 Provider name,Input,baseline
-Ethanol (bio-mix),"Ethanol production, corn dry mill",0
+Ethanol (bio-mix),"Ethanol production, corn dry mill",-0.25
 Ethanol (bio-mix),"Ethanol production, corn stover, biochemical",-0.25
-Ethanol (bio-mix),"Ethanol production, forest residues, thermochem",-0.25
+Ethanol (bio-mix),"Ethanol production, forest residues, thermochem",0
 Ethanol (bio-mix),"Ethanol production, switchgrass, biochemical",-0.25
 Ethanol (bio-mix),"Ethanol production, wheat straw, biochemical",-0.25
