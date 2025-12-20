@@ -1,0 +1,25 @@
+Technology,lambda_per_year,cost_floor_fraction_of_C0
+Glucose from corn stover residues,0.01,0.7
+Glucose from forest residues woody,0.01,0.7
+Glucose from sugarcane,0.0,1.0
+Glucose from switchgrass,0.01,0.7
+"Cyclohexa-2,5-diene-1,4-dicarboxylate Diels-Alder",0.02,0.5
+Ethanol corn stover biochemical,0.008,0.75
+Ethanol forest residues thermochemical,0.008,0.75
+Ethanol switchgrass biochemical,0.008,0.75
+Ethanol wheat straw biochemical,0.008,0.75
+Ethylene glycol from bio-ethanol hydration,0.0,1.0
+Ethylene oxide from bio-ethanol dehydration,0.0,1.0
+Muconic acid fermentation of glucose,0.018,0.5
+PTA production from cyclohexa,0.02,0.5
+Styrene production from corn stover,0.015,0.55
+Sorting low-tech manual mechanical,0.0,1.0
+Sorting high-tech NIR HSI AI robotics,0.012,0.6
+Delamination multi-material food bottles,0.01,0.65
+STRAP multi-material food bottles,0.015,0.55
+Chemical depolymerization metal oxide PS,0.012,0.6
+Enzymatic depolymerization PET bottles,0.016,0.55
+Pyrolysis feedstock recycling HDPE mixed plastics,0.006,0.8
+Disposal HDPE microplastics filtered,0.0,1.0
+Plastic incineration CO2 capture,0.004,0.85
+Steam cracker CO2 capture,0.006,0.8

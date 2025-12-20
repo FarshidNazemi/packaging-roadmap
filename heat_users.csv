@@ -1,0 +1,17 @@
+heat_index,heat_name,user_index,value_in_A,user_name
+284,"Natural gas, combusted in industrial boiler, at hydrocracker, for ethylene",78,0.3260692796,"Disposal, Multi-material Food Bottles"
+284,"Natural gas, combusted in industrial boiler, at hydrocracker, for ethylene",98,0.3260692796,"Disposal, Multi-material Food Packaging Film (small format)"
+284,"Natural gas, combusted in industrial boiler, at hydrocracker, for ethylene",100,0.3260692796,"Low-tech Sorting, Collected LDPE Food Packaging Film (small format)"
+284,"Natural gas, combusted in industrial boiler, at hydrocracker, for ethylene",146,0.3260692796,"Disposal, PP Other Food Rigid"
+284,"Natural gas, combusted in industrial boiler, at hydrocracker, for ethylene",172,0.3260692796,"High-tech Sorting, Collected PP Food Bottles"
+302,"Lignite coal, combusted in industrial boiler",401,-32.0,"Ethanol, denatured, wheat straw, biochemical"
+302,"Lignite coal, combusted in industrial boiler",631,-0.0021476510067114,"Ethanol production, forest residues, thermochem"
+309,"Wood waste, unspecified, combusted in industrial boiler",559,0.28,"Transport, single unit truck, gasoline powered"
+331,"Liquefied petroleum gas, combusted in industrial boiler",236,-22.546,"Transport, single unit truck, diesel powered"
+331,"Liquefied petroleum gas, combusted in industrial boiler",354,-51.363,"Combustion, dry wood residue, AP-42"
+338,"Anthracite coal, combusted in industrial boiler",142,0.93,"High-tech Sorting, Collected PP Other Food Rigid"
+338,"Anthracite coal, combusted in industrial boiler",173,0.87,"Disposal, PET Drinking Bottles"
+577,"Wood fuel, hardwood, generated at lumber mill, combusted in industrial boiler, SE",364,-0.0065131595282433,"Polyethylene, linear low-density, LLDPE, virgin resin, at plant"
+577,"Wood fuel, hardwood, generated at lumber mill, combusted in industrial boiler, SE",365,-4.591351127663979e-05,"Heat, onsite boiler, hardwood mill, average, SE"
+578,"Wood fuel, hardwood, purchased, combusted in industrial boiler, SE",212,-1330.0,Fossil Electricity
+658,"Natural gas, combusted in industrial boiler, at hydrocracker, for pyrolysis gas",156,1.0,HDPE Food Bottles
