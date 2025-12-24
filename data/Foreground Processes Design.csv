@@ -310,7 +310,6 @@ d045a1a9-6953-4f5e-976d-42716e504038,PP Non-food Packaging Films,e57642e2-e5e2-4
 859f2f1b-af09-438d-a15f-18aaf447b706,"Mechanical Recycling, PVC Other Food Rigid (Flakes)",994c9c18-70a1-4924-91d2-774c1f394350,"Flakes, PVC Other Food Rigid",kg,waste
 37e122da-c6ba-402e-a280-aaf2b1e045a3,"Cyclohexa-2,5-diene-1,4-dicarboxylate Production, Diels-Alder process",ae6ea44a-0cae-4b43-b7f8-d0d6a4593c7f,"Cyclohexa-2,5-diene-1,4-dicarboxylate",kg,product
 01e3fe24-ddf0-4bf9-acf2-e31861f42610,"Ethanol production, switchgrass, biochemical",005db14f-6fc8-32d3-95a6-c7b8b8d30fb1,"Ethanol, denatured, switchgrass, biochemical",kg,product
-35b74507-4b2c-404e-a48c-f3873361cd9c,"Ethanol production, wheat straw, biochemical",4f541c34-ea5e-3580-a001-80ed28198120,"Ethanol, denatured, wheat straw, biochemical",kg,product
 1704b742-0ec2-46c1-849d-49944bf97c26,"Ethanol production, corn stover, biochemical",7f49cac3-84a7-345a-abaa-c3671a78c38f,"Ethanol, denatured, corn stover, biochemical",kg,product
 c0c13159-d849-4b87-940b-8adbb30a4744,"Ethanol production, forest residues, thermochem",2656bfd3-ed3c-3fb8-ab93-6597836a463b,"Ethanol, denatured, forest residues, thermochem",kg,product
 03391080-1d6c-4456-af6d-0bad08c2a0a2,"Ethanol production, corn dry mill",f4364ab6-cb8c-3b5c-a9d7-dfe57ac7bceb,"Ethanol, denatured, corn dry mill",kg,product
@@ -339,3 +338,8 @@ b2829206-7107-4f2f-a544-6ca748f45c13,"Disposal, PVC Microplastics Filtered",d8b2
 ,"Benzene, at plant",db548272-c05b-39c4-926e-ba9e10a29195,"Benzene, at plant",kg,product
 ,Clean Electricity,,,,
 ,Fossil Electricity,,,,
+,"Glucose, from corn stover (residues)",,,,
+,"Glucose, from forrest residues (woody)",,,,
+,"Glucose, from sugarcane",,,,
+,"Glucose, from switchgrass",,,,
+,"Ethanol production, sugarcane",,,,
