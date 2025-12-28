@@ -170,6 +170,6 @@ Electricity Mix (Global),Fossil Electricity,0,0,1,0,0,1,1,1
 "generated waste, PVC Other Food Rigid","Low-tech Sorting, Collected PVC Other Food Rigid",1,0,0,0,0,0,0,1
 "generated waste, PVC Other Food Rigid","High-tech Sorting, Collected PVC Other Food Rigid",1,0,0,0,0,0,0,1
 "generated waste, PVC Other Food Rigid","Disposal, PVC Other Food Rigid (copy)",1,0,0,0,0,0,0,1
-"generated waste, PVC Other Non-food Rigid","Low-tech Sorting, Collected PVC Other Non-food Rigid",,,,,,,,
-"generated waste, PVC Other Non-food Rigid","High-tech Sorting, Collected PVC Other Non-food Rigid",,,,,,,,
-"generated waste, PVC Other Non-food Rigid","Disposal, PVC Other Non-food Rigid (copy)",,,,,,,,
+"generated waste, PVC Other Non-food Rigid","Low-tech Sorting, Collected PVC Other Non-food Rigid",1,0,0,0,0,0,0,1
+"generated waste, PVC Other Non-food Rigid","High-tech Sorting, Collected PVC Other Non-food Rigid",1,0,0,0,0,0,0,1
+"generated waste, PVC Other Non-food Rigid","Disposal, PVC Other Non-food Rigid (copy)",1,0,0,0,0,0,0,1
