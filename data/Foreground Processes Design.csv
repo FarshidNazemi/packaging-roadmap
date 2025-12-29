@@ -107,11 +107,6 @@ dd16097f-e09f-42f7-9791-5e89f203a210,"Disposal, PET Non-food Bottles",11c1111f-d
 625deca5-c86f-441d-9933-b3143f906461,"Pyrolysis, HDPE Other Non-food Rigid",f2815aea-2af2-4d0b-81b4-cedde09d5ffa,"Flakes, HDPE Other Non-food Rigid",kg,waste
 ae8acae4-3515-42ae-88b1-f110ce95809d,"Mechanical Recycling, LDPE Non-food Packaging Films (Flakes)",4e823bc2-b3c4-46c8-b00d-9a87e04d54fb,"Flakes, LDPE Non-food Packaging Films",kg,waste
 d2a29fa9-cdda-457d-a793-554e1513ce59,"Pyrolysis, Feedstock Recycling, Multimaterial Non-food Packaging Film, Mixed Plastic (Flakes)",eda2b90b-aae1-4567-965f-8dec3b7efa01,"Multimaterial non-food packaging film, mixed plastics (flakes)",kg,waste
-,"Ethanol production, sugarcane",,,,
-0898854c-e38f-3d23-880f-f8da7d65ca0c,"Ethanol, denatured, switchgrass, biochemical",005db14f-6fc8-32d3-95a6-c7b8b8d30fb1,"Ethanol, denatured, switchgrass, biochemical",kg,product
-d9cadd89-4203-375a-903a-63197cd29c6a,"Ethanol, denatured, forest residues, thermochem",2656bfd3-ed3c-3fb8-ab93-6597836a463b,"Ethanol, denatured, forest residues, thermochem",kg,product
-0879167f-989b-3e3b-b9c5-3c07ea0a3f8e,"Ethanol, denatured, corn stover, biochemical",7f49cac3-84a7-345a-abaa-c3671a78c38f,"Ethanol, denatured, corn stover, biochemical",kg,product
-8e3e47ea-ed49-329e-8931-29115917bc81,"Ethanol, denatured, corn dry mill",f4364ab6-cb8c-3b5c-a9d7-dfe57ac7bceb,"Ethanol, denatured, corn dry mill",kg,product
 1c7b0ae7-7761-4c6e-8e25-c0f8f08d6e25,"Delamination, Multi-material Food Packaging Film (med-large format) (Flakes)",f2dba607-9850-4f97-a1c2-1676c71a4027,"Flakes, Multi-material Food Packaging Film (med-large format)",kg,waste
 fa3871c0-d563-3300-9ec7-f26aafdabfa5,"Propylene oxide, at plant",e3e36b0b-cd9f-3394-924d-2e565e97d38d,"Propylene oxide, at plant",kg,product
 6503cc9e-56e3-4f35-b27c-ea3a8e5b0842,"Disposal, PET Other Food Rigid",37d8ea56-58a9-4392-acd6-943e7c6173f3,"Disposal, PET Other Food Rigid",kg,waste
@@ -310,10 +305,10 @@ d045a1a9-6953-4f5e-976d-42716e504038,PP Non-food Packaging Films,e57642e2-e5e2-4
 859f2f1b-af09-438d-a15f-18aaf447b706,"Mechanical Recycling, PVC Other Food Rigid (Flakes)",994c9c18-70a1-4924-91d2-774c1f394350,"Flakes, PVC Other Food Rigid",kg,waste
 37e122da-c6ba-402e-a280-aaf2b1e045a3,"Cyclohexa-2,5-diene-1,4-dicarboxylate Production, Diels-Alder process",ae6ea44a-0cae-4b43-b7f8-d0d6a4593c7f,"Cyclohexa-2,5-diene-1,4-dicarboxylate",kg,product
 01e3fe24-ddf0-4bf9-acf2-e31861f42610,"Ethanol production, switchgrass, biochemical",005db14f-6fc8-32d3-95a6-c7b8b8d30fb1,"Ethanol, denatured, switchgrass, biochemical",kg,product
-35b74507-4b2c-404e-a48c-f3873361cd9c,"Ethanol production, wheat straw, biochemical",4f541c34-ea5e-3580-a001-80ed28198120,"Ethanol, denatured, wheat straw, biochemical",kg,product
 1704b742-0ec2-46c1-849d-49944bf97c26,"Ethanol production, corn stover, biochemical",7f49cac3-84a7-345a-abaa-c3671a78c38f,"Ethanol, denatured, corn stover, biochemical",kg,product
 c0c13159-d849-4b87-940b-8adbb30a4744,"Ethanol production, forest residues, thermochem",2656bfd3-ed3c-3fb8-ab93-6597836a463b,"Ethanol, denatured, forest residues, thermochem",kg,product
 03391080-1d6c-4456-af6d-0bad08c2a0a2,"Ethanol production, corn dry mill",f4364ab6-cb8c-3b5c-a9d7-dfe57ac7bceb,"Ethanol, denatured, corn dry mill",kg,product
+,"Ethanol production, sugarcane",,,,
 05b5adb8-c3ec-4951-9b36-c356377fc642,"Pyrolysis, PP Non-food Packaging Films",ef4c57fe-5315-456f-9aa2-8bf0961872f7,"Flakes, PP Non-food Packaging Films",kg,waste
 548e5d1b-d0dc-45af-8193-23e254a06904,"Reclaiming, Sorted HDPE Drinking Bottles",6a893497-2491-4fd0-a3ee-aceb80684cd9,Sorted HDPE Drinking Bottles,kg,waste
 f5fb57a3-20c4-47c9-8cf6-c37f78a9655e,"Open Burning, LDPE",cd624074-1cd8-41bd-b9c3-479185650763,"Open Burning, LDPE",kg,waste
