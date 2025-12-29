@@ -39,7 +39,12 @@ Ethanol (bio-mix),"Ethanol production, corn dry mill",0,1,0,0,0,0,0,1
 Ethanol (bio-mix),"Ethanol production, corn stover, biochemical",0,1,0,0,0,0,0,1
 Ethanol (bio-mix),"Ethanol production, forest residues, thermochem",0,1,0,0,0,0,0,1
 Ethanol (bio-mix),"Ethanol production, switchgrass, biochemical",0,1,0,0,0,0,0,1
-Ethanol (bio-mix),"Ethanol production, wheat straw, biochemical",0,1,0,0,0,0,0,1
+Ethanol (bio-mix),"Ethanol production, sugarcane",0,1,0,0,0,0,0,1
+Glucose,"Glucose, from corn",0,1,0,0,0,0,0,1
+Glucose,"Glucose, from corn stover (residues)",0,1,0,0,0,0,0,1
+Glucose,"Glucose, from forrest residues (woody)",0,1,0,0,0,0,0,1
+Glucose,"Glucose, from sugarcane",0,1,0,0,0,0,0,1
+Glucose,"Glucose, from switchgrass",0,1,0,0,0,0,0,1
 "Flakes, HDPE Drinking Bottles","Pyrolysis, HDPE Drinking Bottles",1,0,0,0,0,0,1,1
 "Flakes, HDPE Drinking Bottles","Mechanical Recycling, HDPE Drinking Bottles (Flakes)",1,0,0,0,0,0,1,1
 "Flakes, HDPE Food Bottles","Pyrolysis, HDPE Food Bottles",1,0,0,0,0,0,1,1
