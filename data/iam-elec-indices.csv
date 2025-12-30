@@ -1,0 +1,10 @@
+IAM Index,LCI Column Index,LCI Row Index
+Biomass,Electricity Mix (Global),"Electricity, biomass (life cycle)"
+Coal,Electricity Mix (Global),"Electricity, coal (life cycle)"
+Gas,Electricity Mix (Global),"Electricity, natural gas (life cycle)"
+Geothermal,Electricity Mix (Global),"Electricity, geothermal (life cycle)"
+Hydro,Electricity Mix (Global),"Electricity, hydropower (life cycle)"
+Nuclear,Electricity Mix (Global),"Electricity, nuclear (life cycle)"
+Oil,Electricity Mix (Global),"Electricity, oil (life cycle)"
+Solar,Electricity Mix (Global),"Electricity, solar (life cycle)"
+Wind,Electricity Mix (Global),"Electricity, wind (life cycle)"
