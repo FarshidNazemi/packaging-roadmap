@@ -6,7 +6,7 @@ Plastic Incineration CO2 to the atmosphere,1,10,0,0,0,0
 "Reclaiming, sorted mixed plastics, PET Other Non-food Rigid",0.7,10,0,0,0,0
 "Microplastics, PP, Marine Environment",1,10,0,0,0,0
 "Polyvinyl chloride resin, suspension grade PVC; non-food grade",0.75,10,0,0,0,0
-"Microplastics, PP, Filtration",0.9,4,0.15,0.05,-0.1,0.666666667
+"Microplastics, PP, Filtration",0.5,4,0.15,0.05,0.3,0.666666667
 "Incineration, multi-material food packaging film",1,10,0,0,0,0
 "Landfill, Sanitary (Controlled) - mixed plastic waste",1,10,0,0,0,0
 "Open Burning, multi-material food packaging film",1,10,0,0,0,0
