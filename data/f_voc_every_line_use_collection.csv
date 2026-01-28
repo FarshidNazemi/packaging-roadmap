@@ -71,7 +71,7 @@ PTA,0.75,10,0,0,0,0
 "Pyrolysis, HDPE Food Bottles",0.6,6,0.15,0.05,0.2,0.444444444
 "Reclaiming, sorted mixed plastics, HDPE Drinking Bottles",0.7,10,0,0,0,0
 "Disposal, Multi-material Food Packaging Film (small format)",1,10,0,0,0,0
-"Reclaiming, Sorted Multi-material Food Packaging Film (small format)",0.5,5,0.15,0.05,0.3,0.555555556
+"Reclaiming, Sorted Multi-material Food Packaging Film (small format)",0.7,10,0.15,0.05,0.3,0.555555556
 "Polyvinyl chloride resin, suspension grade PVC; food grade",0.75,10,0,0,0,0
 "Reclaiming, sorted mixed plastics, PP Non-food Bottles",0.7,10,0,0,0,0
 Ethanol (bio-mix),1,10,0,0,0,0
@@ -116,7 +116,6 @@ Ethylene,0.75,10,0,0,0,0
 "Disposal, PET Other Food Rigid",1,10,0,0,0,0
 "Reclaiming, Sorted PET Other Food Rigid",0.7,10,0,0,0,0
 "Ethylene production, fossil, steam cracker",0.75,10,0,0,0,0
-"Pyrolysis gasoline, at plant",0.6,6,0.15,0.05,0.2,0.444444444
 "Polyethylene, high density, HDPE, virgin resin, non-food non-bottle grade",0.75,10,0,0,0,0
 "Reclaiming, sorted mixed plastics, PP Other Non-food Rigid",0.7,10,0,0,0,0
 Steam Cracker CO2 to the atmosphere,1,10,0,0,0,0
