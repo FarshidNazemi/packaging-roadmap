@@ -1,180 +1,188 @@
-Provider name,Input parameters names,Circularity,Upstream Chemicals,Electricity Source,Carbon Capture,Microplastic Treatment,Carbon Capture / Electricity Source,Circularity / Electricity Source,All
-Ethylene,"Ethylene production, from bio-ethanol dehydration",0,1,0,0,0,0,0,1
-Ethylene,"Ethylene production, fossil, steam cracker",0,1,0,0,0,0,0,1
-Ethylene dichloride-vinyl chloride,"Ethylene dichloride-vinyl chloride monomer, EDC-VCM; from fossil ethylene",0,1,0,0,0,0,0,1
-Ethylene dichloride-vinyl chloride,"Ethylene dichloride-vinyl chloride monomer, EDC-VCM; from bio-ethylene",0,1,0,0,0,0,0,1
-Ethylene glycol,"Ethylene glycol, hydration of bio-ethanol",0,1,0,0,0,0,0,1
-Ethylene glycol,"Ethylene glycol, fossil",0,1,0,0,0,0,0,1
-Propylene,"Propylene production, ethanol dehydration and metathesis",0,1,0,0,0,0,0,1
-Propylene,"Propylene production, fossil, steam cracker",0,1,0,0,0,0,0,1
-PTA,"PTA Production, from cyclohexa",0,1,0,0,0,0,0,1
-PTA,"Purified terephthalic acid, PTA, fossil",0,1,0,0,0,0,0,1
-Styrene,"Styrene production, fossil",0,1,0,0,0,0,0,1
-Styrene,"Styrene production, corn stover",0,1,0,0,0,0,0,1
-Fermentation CO2,Fermentation CO2 to the atmosphere,0,0,0,1,0,1,0,1
-Fermentation CO2,Fermentation CO2 Capture,0,0,0,1,0,1,0,1
-Plastic Incineration CO2,Plastic Incineration CO2 Capture,0,0,0,1,0,1,0,1
-Plastic Incineration CO2,Plastic Incineration CO2 to the atmosphere,0,0,0,1,0,1,0,1
-Steam Cracker CO2,Steam Cracker CO2 Capture,0,0,0,1,0,1,0,1
-Steam Cracker CO2,Steam Cracker CO2 to the atmosphere,0,0,0,1,0,1,0,1
-"Microplastics, HDPE","Microplastics, HDPE, Filtration",0,0,0,0,1,0,0,1
-"Microplastics, HDPE","Microplastics, HDPE, Marine Environment",0,0,0,0,1,0,0,1
-"Microplastics, LDPE","Microplastics, LDPE, Filtration",0,0,0,0,1,0,0,1
-"Microplastics, LDPE","Microplastics, LDPE, Marine Environment",0,0,0,0,1,0,0,1
-"Microplastics, multimaterial food bottles","Microplastics, multimaterial food bottles, Filtration",0,0,0,0,1,0,0,1
-"Microplastics, multimaterial food bottles","Microplastics, multimaterial food bottles, Marine Environment",0,0,0,0,1,0,0,1
-"Microplastics, multimaterial food packaging film","Microplastics, multimaterial food packaging film, Filtration",0,0,0,0,1,0,0,1
-"Microplastics, multimaterial food packaging film","Microplastics, multimaterial food packaging film, Marine Environment",0,0,0,0,1,0,0,1
-"Microplastics, multimaterial non-food packaging film","Microplastics, multimaterial non-food packaging film, Filtration",0,0,0,0,1,0,0,1
-"Microplastics, multimaterial non-food packaging film","Microplastics, multimaterial non-food packaging film, Marine Environment",0,0,0,0,1,0,0,1
-"Microplastics, PET","Microplastics, PET, Filtration",0,0,0,0,1,0,0,1
-"Microplastics, PET","Microplastics, PET, Marine Environment",0,0,0,0,1,0,0,1
-"Microplastics, PP","Microplastics, PP, Filtration",0,0,0,0,1,0,0,1
-"Microplastics, PP","Microplastics, PP, Marine Environment",0,0,0,0,1,0,0,1
-"Microplastics, PS","Microplastics, PS, Filtration",0,0,0,0,1,0,0,1
-"Microplastics, PS","Microplastics, PS, Marine Environment",0,0,0,0,1,0,0,1
-"Microplastics, PVC","Microplastics, PVC, Filtration",0,0,0,0,1,0,0,1
-"Microplastics, PVC","Microplastics, PVC, Marine Environment",0,0,0,0,1,0,0,1
-Ethanol (bio-mix),"Ethanol production, corn dry mill",0,1,0,0,0,0,0,1
-Ethanol (bio-mix),"Ethanol production, corn stover, biochemical",0,1,0,0,0,0,0,1
-Ethanol (bio-mix),"Ethanol production, forest residues, thermochem",0,1,0,0,0,0,0,1
-Ethanol (bio-mix),"Ethanol production, switchgrass, biochemical",0,1,0,0,0,0,0,1
-Ethanol (bio-mix),"Ethanol production, sugarcane",0,1,0,0,0,0,0,1
-Glucose,"Glucose, from corn",0,1,0,0,0,0,0,1
-Glucose,"Glucose, from corn stover (residues)",0,1,0,0,0,0,0,1
-Glucose,"Glucose, from forrest residues (woody)",0,1,0,0,0,0,0,1
-Glucose,"Glucose, from sugarcane",0,1,0,0,0,0,0,1
-Glucose,"Glucose, from switchgrass",0,1,0,0,0,0,0,1
-"Flakes, HDPE Drinking Bottles","Pyrolysis, HDPE Drinking Bottles",1,0,0,0,0,0,1,1
-"Flakes, HDPE Drinking Bottles","Mechanical Recycling, HDPE Drinking Bottles (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, HDPE Food Bottles","Pyrolysis, HDPE Food Bottles",1,0,0,0,0,0,1,1
-"Flakes, HDPE Food Bottles","Mechanical Recycling, HDPE Food Bottles (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, HDPE Non-food Bottles","Pyrolysis, HDPE Non-food Bottles",1,0,0,0,0,0,1,1
-"Flakes, HDPE Non-food Bottles","Mechanical Recycling, HDPE Non-food Bottles (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, HDPE Other Food Rigid","Pyrolysis, HDPE Other Food Rigid",1,0,0,0,0,0,1,1
-"Flakes, HDPE Other Food Rigid","Mechanical Recycling, HDPE Other Food Rigid (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, HDPE Other Non-food Rigid","Pyrolysis, HDPE Other Non-food Rigid",1,0,0,0,0,0,1,1
-"Flakes, HDPE Other Non-food Rigid","Mechanical Recycling, HDPE Other Non-food Rigid (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, LDPE Food Packaging Film (med-large format)","Pyrolysis, LDPE Food Packaging Film (med-large format)",1,0,0,0,0,0,1,1
-"Flakes, LDPE Food Packaging Film (med-large format)","Mechanical Recycling, LDPE Food Packaging Film (med-large format) (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, LDPE Food Packaging Film (small format)","Pyrolysis, LDPE Food Packaging Film (small format)",1,0,0,0,0,0,1,1
-"Flakes, LDPE Food Packaging Film (small format)","Mechanical Recycling, LDPE Food Packaging Film (small format) (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, LDPE Non-food Packaging Films","Pyrolysis, LDPE Non-food Packaging Films",1,0,0,0,0,0,1,1
-"Flakes, LDPE Non-food Packaging Films","Mechanical Recycling, LDPE Non-food Packaging Films (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, Multi-material Food Bottles","STRAP, Multi-material Food Bottles (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, Multi-material Food Bottles","Delamination, Multi-material Food Bottles (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, Multi-material Food Packaging Film (med-large format)","Delamination, Multi-material Food Packaging Film (med-large format) (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, Multi-material Food Packaging Film (med-large format)","STRAP, Multi-material Food Packaging Film (med-large format) (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, Multi-material Food Packaging Film (small format)","STRAP, Multi-material Food Packaging Film (small format) (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, Multi-material Food Packaging Film (small format)","Delamination, Multi-material Food Packaging Film (small format) (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, Multi-material Non-food Packaging Film","Delamination, Multi-material Non-food Packaging Film (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, Multi-material Non-food Packaging Film","STRAP, Multi-material Non-food Packaging Film (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, PET Drinking Bottles","Mechanical Recycling, PET Drinking Bottles (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, PET Drinking Bottles","Depolymerization, Enzymatic Hydrolysis, PET Drinking Bottles (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, PET Food Bottles","Mechanical Recycling, PET Food Bottles (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, PET Food Bottles","Depolymerization, Enzymatic Hydrolysis, PET Food Bottles (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, PET Non-food Bottles","Depolymerization, Enzymatic Hydrolysis, PET Non-food Bottles (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, PET Non-food Bottles","Mechanical Recycling, PET Non-food Bottles (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, PET Other Food Rigid","Depolymerization, Enzymatic Hydrolysis, PET Other Food Rigid (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, PET Other Food Rigid","Mechanical Recycling, PET Other Food Rigid (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, PET Other Non-food Rigid","Depolymerization, Enzymatic Hydrolysis, PET Other Non-food Rigid (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, PET Other Non-food Rigid","Mechanical Recycling, PET Other Non-food Rigid (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, PP Food Bottles","Mechanical Recycling, PP Food Bottles (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, PP Food Bottles","Pyrolysis, PP Food Bottles",1,0,0,0,0,0,1,1
-"Flakes, PP Food Packaging Film (med-large format)","Pyrolysis, PP Food Packaging Film (med-large format)",1,0,0,0,0,0,1,1
-"Flakes, PP Food Packaging Film (med-large format)","Mechanical Recycling, PP Food Packaging Film (med-large format) (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, PP Food Packaging Film (small format)","Mechanical Recycling, PP Food Packaging Film (small format) (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, PP Food Packaging Film (small format)","Pyrolysis, PP Food Packaging Film (small format)",1,0,0,0,0,0,1,1
-"Flakes, PP Non-food Bottles","Mechanical Recycling, PP Non-food Bottles (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, PP Non-food Bottles","Pyrolysis, PP Non-food Bottles",1,0,0,0,0,0,1,1
-"Flakes, PP Non-food Packaging Films","Pyrolysis, PP Non-food Packaging Films",1,0,0,0,0,0,1,1
-"Flakes, PP Non-food Packaging Films","Mechanical Recycling, PP Non-food Packaging Films (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, PP Other Food Rigid","Mechanical Recycling, PP Other Food Rigid (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, PP Other Food Rigid","Pyrolysis, PP Other Food Rigid",1,0,0,0,0,0,1,1
-"Flakes, PP Other Non-food Rigid","Mechanical Recycling, PP Other Non-food Rigid (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, PP Other Non-food Rigid","Pyrolysis, PP Other Non-food Rigid",1,0,0,0,0,0,1,1
-"Flakes, PS Other Food Rigid","Mechanical Recycling, PS Other Food Rigid (Flakes)",1,0,0,0,0,0,1,1
-"Flakes, PS Other Food Rigid","Depolymerization, Chemical Recycling with Metal Oxide, PS Other Food Rigid (Flakes)",1,0,0,0,0,0,1,1
-Electricity Mix (Global),Clean Electricity,0,0,1,0,0,1,1,1
-Electricity Mix (Global),Fossil Electricity,0,0,1,0,0,1,1,1
-"generated waste, HDPE drinking bottles","High-tech Sorting, Collected HDPE Drinking Bottles",1,0,0,0,0,0,0,1
-"generated waste, HDPE drinking bottles","Low-tech Sorting, Collected HDPE Drinking Bottles",1,0,0,0,0,0,0,1
-"generated waste, HDPE drinking bottles","Disposal, HDPE Drinking Bottles (copy)",1,0,0,0,0,0,0,1
-"generated waste, HDPE food bottles","Low-tech Sorting, Collected HDPE Food Bottles",1,0,0,0,0,0,0,1
-"generated waste, HDPE food bottles","High-tech Sorting, Collected HDPE Food Bottles",1,0,0,0,0,0,0,1
-"generated waste, HDPE food bottles","Disposal, HDPE Food Bottles (copy)",1,0,0,0,0,0,0,1
-"generated waste, HDPE non-food bottles","Low-tech Sorting, Collected HDPE Non-food Bottles",1,0,0,0,0,0,0,1
-"generated waste, HDPE non-food bottles","High-tech Sorting, Collected HDPE Non-food Bottles",1,0,0,0,0,0,0,1
-"generated waste, HDPE non-food bottles","Disposal, HDPE Non-food Bottles (copy)",1,0,0,0,0,0,0,1
-"generated waste, HDPE other food rigid","Low-tech Sorting, Collected HDPE Other Food Rigid",1,0,0,0,0,0,0,1
-"generated waste, HDPE other food rigid","High-tech Sorting, Collected HDPE Other Food Rigid",1,0,0,0,0,0,0,1
-"generated waste, HDPE other food rigid","Disposal, HDPE Other Food Rigid (copy)",1,0,0,0,0,0,0,1
-"generated waste, HDPE Other Non-food Rigid","Low-tech Sorting, Collected HDPE Other Non-food Rigid",1,0,0,0,0,0,0,1
-"generated waste, HDPE Other Non-food Rigid","High-tech Sorting, Collected HDPE Other Non-food Rigid",1,0,0,0,0,0,0,1
-"generated waste, HDPE Other Non-food Rigid","Disposal, HDPE Other Non-food Rigid (copy)",1,0,0,0,0,0,0,1
-"generated waste, LDPE Food Packaging Film (med-large format)","Low-tech Sorting, Collected LDPE Food Packaging Film (med-large format)",1,0,0,0,0,0,0,1
-"generated waste, LDPE Food Packaging Film (med-large format)","High-tech Sorting, Collected LDPE Food Packaging Film (med-large format)",1,0,0,0,0,0,0,1
-"generated waste, LDPE Food Packaging Film (med-large format)","Disposal, LDPE Food Packaging Film (med-large format) (copy)",1,0,0,0,0,0,0,1
-"generated waste, LDPE Food Packaging Film (small format)","Low-tech Sorting, Collected LDPE Food Packaging Film (small format)",1,0,0,0,0,0,0,1
-"generated waste, LDPE Food Packaging Film (small format)","High-tech Sorting, Collected LDPE Food Packaging Film (small format)",1,0,0,0,0,0,0,1
-"generated waste, LDPE Food Packaging Film (small format)","Disposal, LDPE Food Packaging Film (small format) (copy)",1,0,0,0,0,0,0,1
-"generated waste, LDPE Non-food Packaging Film","Low-tech Sorting, Collected LDPE Non-food Packaging Film",1,0,0,0,0,0,0,1
-"generated waste, LDPE Non-food Packaging Film","High-tech Sorting, Collected LDPE Non-food Packaging Film",1,0,0,0,0,0,0,1
-"generated waste, LDPE Non-food Packaging Film","Disposal, LDPE Non-food Packaging Films (copy)",1,0,0,0,0,0,0,1
-"generated waste, Multi-material Food Bottles","Low-tech Sorting, Collected Multi-material Food Bottles",1,0,0,0,0,0,0,1
-"generated waste, Multi-material Food Bottles","High-tech Sorting, Collected Multi-material Food Bottles",1,0,0,0,0,0,0,1
-"generated waste, Multi-material Food Bottles","Disposal, Multi-material Food Bottles (copy)",1,0,0,0,0,0,0,1
-"generated waste, Multi-material Food Packaging Film (med-large format)","Low-tech Sorting, Collected Multi-material Food Packaging Film (med-large format)",1,0,0,0,0,0,0,1
-"generated waste, Multi-material Food Packaging Film (med-large format)","High-tech Sorting, Collected Multi-material Food Packaging Film (med-large format)",1,0,0,0,0,0,0,1
-"generated waste, Multi-material Food Packaging Film (med-large format)","Disposal, Multi-material Food Packaging Film (med-large format) (copy)",1,0,0,0,0,0,0,1
-"generated waste, Multi-material Food Packaging Film (small format)","Low-tech Sorting, Collected Multi-material Food Packaging Film (small format)",1,0,0,0,0,0,0,1
-"generated waste, Multi-material Food Packaging Film (small format)","High-tech Sorting, Collected Multi-material Food Packaging Film (small format)",1,0,0,0,0,0,0,1
-"generated waste, Multi-material Food Packaging Film (small format)","Disposal, Multi-material Food Packaging Film (small format) (copy)",1,0,0,0,0,0,0,1
-"generated waste, Multi-material Non-food Packaging Film","Low-tech Sorting, Collected Multi-material Non-food Packaging Film",1,0,0,0,0,0,0,1
-"generated waste, Multi-material Non-food Packaging Film","High-tech Sorting, Collected Multi-material Non-food Packaging Film",1,0,0,0,0,0,0,1
-"generated waste, Multi-material Non-food Packaging Film","Disposal, Multi-material Non-food Packaging Film (copy)",1,0,0,0,0,0,0,1
-"generated waste, PET Drinking Bottles","Low-tech Sorting, Collected PET Drinking Bottles",1,0,0,0,0,0,0,1
-"generated waste, PET Drinking Bottles","High-tech Sorting, Collected PET Drinking Bottles",1,0,0,0,0,0,0,1
-"generated waste, PET Drinking Bottles","Disposal, PET Drinking Bottles (copy)",1,0,0,0,0,0,0,1
-"generated waste, PET Food Bottles","Low-tech Sorting, Collected PET Food Bottles",1,0,0,0,0,0,0,1
-"generated waste, PET Food Bottles","High-tech Sorting, Collected PET Food Bottles",1,0,0,0,0,0,0,1
-"generated waste, PET Food Bottles","Disposal, PET Food Bottles (copy)",1,0,0,0,0,0,0,1
-"generated waste, PET Non-food Bottles","Low-tech Sorting, Collected PET Non-food Bottles",1,0,0,0,0,0,0,1
-"generated waste, PET Non-food Bottles","High-tech Sorting, Collected PET Non-food Bottles",1,0,0,0,0,0,0,1
-"generated waste, PET Non-food Bottles","Disposal, PET Non-food Bottles (copy)",1,0,0,0,0,0,0,1
-"generated waste, PET Other Food Rigid","Low-tech Sorting, Collected PET Other Food Rigid",1,0,0,0,0,0,0,1
-"generated waste, PET Other Food Rigid","High-tech Sorting, Collected PET Other Food Rigid",1,0,0,0,0,0,0,1
-"generated waste, PET Other Food Rigid","Disposal, PET Other Food Rigid (copy)",1,0,0,0,0,0,0,1
-"generated waste, PET Other Non-Food Rigid","Low-tech Sorting, Collected PET Other Non-Food Rigid",1,0,0,0,0,0,0,1
-"generated waste, PET Other Non-Food Rigid","High-tech Sorting, Collected PET Other Non-Food Rigid",1,0,0,0,0,0,0,1
-"generated waste, PET Other Non-Food Rigid","Disposal, PET Other Non-food Rigid (copy)",1,0,0,0,0,0,0,1
-"generated waste, PP Food Bottles","Low-tech Sorting, Collected PP Food Bottles",1,0,0,0,0,0,0,1
-"generated waste, PP Food Bottles","High-tech Sorting, Collected PP Food Bottles",1,0,0,0,0,0,0,1
-"generated waste, PP Food Bottles","Disposal, PP Food Bottles (copy)",1,0,0,0,0,0,0,1
-"generated waste, PP Food Packaging Film (med-large format)","Low-tech Sorting, Collected PP Food Packaging Film (med-large format)",1,0,0,0,0,0,0,1
-"generated waste, PP Food Packaging Film (med-large format)","High-tech Sorting, Collected PP Food Packaging Film (med-large format)",1,0,0,0,0,0,0,1
-"generated waste, PP Food Packaging Film (med-large format)","Disposal, PP Food Packaging Film (med-large format) (copy)",1,0,0,0,0,0,0,1
-"generated waste, PP Food Packaging Film (small format)","Low-tech Sorting, Collected PP Food Packaging Film (small format)",1,0,0,0,0,0,0,1
-"generated waste, PP Food Packaging Film (small format)","High-tech Sorting, Collected PP Food Packaging Film (small format)",1,0,0,0,0,0,0,1
-"generated waste, PP Food Packaging Film (small format)","Disposal, PP Food Packaging Film (small format) (copy)",1,0,0,0,0,0,0,1
-"generated waste, PP Non-food Bottles","Low-tech Sorting, Collected PP Non-food Bottles",1,0,0,0,0,0,0,1
-"generated waste, PP Non-food Bottles","High-tech Sorting, Collected PP Non-food Bottles",1,0,0,0,0,0,0,1
-"generated waste, PP Non-food Bottles","Disposal, PP Non-food Bottles (copy)",1,0,0,0,0,0,0,1
-"generated waste, PP Non-food Packaging Film","Low-tech Sorting, Collected PP Non-food Packaging Film",1,0,0,0,0,0,0,1
-"generated waste, PP Non-food Packaging Film","High-tech Sorting, Collected PP Non-food Packaging Film",1,0,0,0,0,0,0,1
-"generated waste, PP Non-food Packaging Film","Disposal, PP Non-food Packaging Films (copy)",1,0,0,0,0,0,0,1
-"generated waste, PP Other Food Rigid","Low-tech Sorting, Collected PP Other Food Rigid",1,0,0,0,0,0,0,1
-"generated waste, PP Other Food Rigid","High-tech Sorting, Collected PP Other Food Rigid",1,0,0,0,0,0,0,1
-"generated waste, PP Other Food Rigid","Disposal, PP Other Food Rigid (copy)",1,0,0,0,0,0,0,1
-"generated waste, PP Other Non-food Rigid","Low-tech Sorting, Collected PP Other Non-food Rigid",1,0,0,0,0,0,0,1
-"generated waste, PP Other Non-food Rigid","High-tech Sorting, Collected PP Other Non-food Rigid",1,0,0,0,0,0,0,1
-"generated waste, PP Other Non-food Rigid","Disposal, PP Other Non-food Rigid (copy)",1,0,0,0,0,0,0,1
-"generated waste, PS Other Food Rigid","Low-tech Sorting, Collected PS Other Food Rigid",1,0,0,0,0,0,0,1
-"generated waste, PS Other Food Rigid","High-tech Sorting, Collected PS Other Food Rigid",1,0,0,0,0,0,0,1
-"generated waste, PS Other Food Rigid","Disposal, PS Other Food Rigid (copy)",1,0,0,0,0,0,0,1
-"generated waste, PVC Other Food Rigid","Low-tech Sorting, Collected PVC Other Food Rigid",1,0,0,0,0,0,0,1
-"generated waste, PVC Other Food Rigid","High-tech Sorting, Collected PVC Other Food Rigid",1,0,0,0,0,0,0,1
-"generated waste, PVC Other Food Rigid","Disposal, PVC Other Food Rigid (copy)",1,0,0,0,0,0,0,1
-"generated waste, PVC Other Non-food Rigid","Low-tech Sorting, Collected PVC Other Non-food Rigid",1,0,0,0,0,0,0,1
-"generated waste, PVC Other Non-food Rigid","High-tech Sorting, Collected PVC Other Non-food Rigid",1,0,0,0,0,0,0,1
-"generated waste, PVC Other Non-food Rigid","Disposal, PVC Other Non-food Rigid (copy)",1,0,0,0,0,0,0,1
+Provider name,Input parameters names,Base Case,Circularity,Upstream Chemicals,Electricity Source,Heat Source,Carbon Capture,Microplastic Treatment,Carbon Capture / Electricity Source,Circularity / Electricity Source,All
+Ethylene,"Ethylene production, from bio-ethanol dehydration",0,0,1,0,0,0,0,0,0,1
+Ethylene,"Ethylene production, fossil, steam cracker",1,0,1,0,0,0,0,0,0,1
+Ethylene dichloride-vinyl chloride,"Ethylene dichloride-vinyl chloride monomer, EDC-VCM; from fossil ethylene",1,0,1,0,0,0,0,0,0,1
+Ethylene dichloride-vinyl chloride,"Ethylene dichloride-vinyl chloride monomer, EDC-VCM; from bio-ethylene",0,0,1,0,0,0,0,0,0,1
+Ethylene glycol,"Ethylene glycol, hydration of bio-ethanol",0,0,1,0,0,0,0,0,0,1
+Ethylene glycol,"Ethylene glycol, fossil",1,0,1,0,0,0,0,0,0,1
+Propylene,"Propylene production, ethanol dehydration and metathesis",0,0,1,0,0,0,0,0,0,1
+Propylene,"Propylene production, fossil, steam cracker",1,0,1,0,0,0,0,0,0,1
+PTA,"PTA Production, from cyclohexa",0,0,1,0,0,0,0,0,0,1
+PTA,"Purified terephthalic acid, PTA, fossil",1,0,1,0,0,0,0,0,0,1
+Styrene,"Styrene production, fossil",1,0,1,0,0,0,0,0,0,1
+Styrene,"Styrene production, corn stover",0,0,1,0,0,0,0,0,0,1
+Fermentation CO2,Fermentation CO2 to the atmosphere,1,0,0,0,0,1,0,1,0,1
+Fermentation CO2,Fermentation CO2 Capture,0,0,0,0,0,1,0,1,0,1
+Plastic Incineration CO2,Plastic Incineration CO2 Capture,0,0,0,0,0,1,0,1,0,1
+Plastic Incineration CO2,Plastic Incineration CO2 to the atmosphere,1,0,0,0,0,1,0,1,0,1
+Steam Cracker CO2,Steam Cracker CO2 Capture,0,0,0,0,0,1,0,1,0,1
+Steam Cracker CO2,Steam Cracker CO2 to the atmosphere,1,0,0,0,0,1,0,1,0,1
+"Microplastics, HDPE","Microplastics, HDPE, Filtration",0,0,0,0,0,0,1,0,0,1
+"Microplastics, HDPE","Microplastics, HDPE, Marine Environment",1,0,0,0,0,0,1,0,0,1
+"Microplastics, LDPE","Microplastics, LDPE, Filtration",0,0,0,0,0,0,1,0,0,1
+"Microplastics, LDPE","Microplastics, LDPE, Marine Environment",1,0,0,0,0,0,1,0,0,1
+"Microplastics, multimaterial food bottles","Microplastics, multimaterial food bottles, Filtration",0,0,0,0,0,0,1,0,0,1
+"Microplastics, multimaterial food bottles","Microplastics, multimaterial food bottles, Marine Environment",1,0,0,0,0,0,1,0,0,1
+"Microplastics, multimaterial food packaging film","Microplastics, multimaterial food packaging film, Filtration",0,0,0,0,0,0,1,0,0,1
+"Microplastics, multimaterial food packaging film","Microplastics, multimaterial food packaging film, Marine Environment",1,0,0,0,0,0,1,0,0,1
+"Microplastics, multimaterial non-food packaging film","Microplastics, multimaterial non-food packaging film, Filtration",0,0,0,0,0,0,1,0,0,1
+"Microplastics, multimaterial non-food packaging film","Microplastics, multimaterial non-food packaging film, Marine Environment",1,0,0,0,0,0,1,0,0,1
+"Microplastics, PET","Microplastics, PET, Filtration",0,0,0,0,0,0,1,0,0,1
+"Microplastics, PET","Microplastics, PET, Marine Environment",1,0,0,0,0,0,1,0,0,1
+"Microplastics, PP","Microplastics, PP, Filtration",0,0,0,0,0,0,1,0,0,1
+"Microplastics, PP","Microplastics, PP, Marine Environment",1,0,0,0,0,0,1,0,0,1
+"Microplastics, PS","Microplastics, PS, Filtration",0,0,0,0,0,0,1,0,0,1
+"Microplastics, PS","Microplastics, PS, Marine Environment",1,0,0,0,0,0,1,0,0,1
+"Microplastics, PVC","Microplastics, PVC, Filtration",0,0,0,0,0,0,1,0,0,1
+"Microplastics, PVC","Microplastics, PVC, Marine Environment",1,0,0,0,0,0,1,0,0,1
+Ethanol (bio-mix),"Ethanol production, corn dry mill",0,0,1,0,0,0,0,0,0,1
+Ethanol (bio-mix),"Ethanol production, corn stover, biochemical",0,0,1,0,0,0,0,0,0,1
+Ethanol (bio-mix),"Ethanol production, forest residues, thermochem",0,0,1,0,0,0,0,0,0,1
+Ethanol (bio-mix),"Ethanol production, switchgrass, biochemical",0,0,1,0,0,0,0,0,0,1
+Ethanol (bio-mix),"Ethanol production, sugarcane",0,0,1,0,0,0,0,0,0,1
+Glucose,"Glucose, from corn",0,0,1,0,0,0,0,0,0,1
+Glucose,"Glucose, from corn stover (residues)",0,0,1,0,0,0,0,0,0,1
+Glucose,"Glucose, from forrest residues (woody)",0,0,1,0,0,0,0,0,0,1
+Glucose,"Glucose, from sugarcane",0,0,1,0,0,0,0,0,0,1
+Glucose,"Glucose, from switchgrass",0,0,1,0,0,0,0,0,0,1
+"Flakes, HDPE Drinking Bottles","Pyrolysis, HDPE Drinking Bottles",0,1,0,0,0,0,0,0,1,1
+"Flakes, HDPE Drinking Bottles","Mechanical Recycling, HDPE Drinking Bottles (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, HDPE Food Bottles","Pyrolysis, HDPE Food Bottles",0,1,0,0,0,0,0,0,1,1
+"Flakes, HDPE Food Bottles","Mechanical Recycling, HDPE Food Bottles (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, HDPE Non-food Bottles","Pyrolysis, HDPE Non-food Bottles",0,1,0,0,0,0,0,0,1,1
+"Flakes, HDPE Non-food Bottles","Mechanical Recycling, HDPE Non-food Bottles (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, HDPE Other Food Rigid","Pyrolysis, HDPE Other Food Rigid",0,1,0,0,0,0,0,0,1,1
+"Flakes, HDPE Other Food Rigid","Mechanical Recycling, HDPE Other Food Rigid (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, HDPE Other Non-food Rigid","Pyrolysis, HDPE Other Non-food Rigid",0,1,0,0,0,0,0,0,1,1
+"Flakes, HDPE Other Non-food Rigid","Mechanical Recycling, HDPE Other Non-food Rigid (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, LDPE Food Packaging Film (med-large format)","Pyrolysis, LDPE Food Packaging Film (med-large format)",0,1,0,0,0,0,0,0,1,1
+"Flakes, LDPE Food Packaging Film (med-large format)","Mechanical Recycling, LDPE Food Packaging Film (med-large format) (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, LDPE Food Packaging Film (small format)","Pyrolysis, LDPE Food Packaging Film (small format)",0,1,0,0,0,0,0,0,1,1
+"Flakes, LDPE Food Packaging Film (small format)","Mechanical Recycling, LDPE Food Packaging Film (small format) (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, LDPE Non-food Packaging Films","Pyrolysis, LDPE Non-food Packaging Films",0,1,0,0,0,0,0,0,1,1
+"Flakes, LDPE Non-food Packaging Films","Mechanical Recycling, LDPE Non-food Packaging Films (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, Multi-material Food Bottles","STRAP, Multi-material Food Bottles (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, Multi-material Food Bottles","Delamination, Multi-material Food Bottles (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, Multi-material Food Packaging Film (med-large format)","Delamination, Multi-material Food Packaging Film (med-large format) (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, Multi-material Food Packaging Film (med-large format)","STRAP, Multi-material Food Packaging Film (med-large format) (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, Multi-material Food Packaging Film (small format)","STRAP, Multi-material Food Packaging Film (small format) (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, Multi-material Food Packaging Film (small format)","Delamination, Multi-material Food Packaging Film (small format) (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, Multi-material Non-food Packaging Film","Delamination, Multi-material Non-food Packaging Film (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, Multi-material Non-food Packaging Film","STRAP, Multi-material Non-food Packaging Film (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, PET Drinking Bottles","Mechanical Recycling, PET Drinking Bottles (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, PET Drinking Bottles","Depolymerization, Enzymatic Hydrolysis, PET Drinking Bottles (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, PET Food Bottles","Mechanical Recycling, PET Food Bottles (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, PET Food Bottles","Depolymerization, Enzymatic Hydrolysis, PET Food Bottles (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, PET Non-food Bottles","Depolymerization, Enzymatic Hydrolysis, PET Non-food Bottles (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, PET Non-food Bottles","Mechanical Recycling, PET Non-food Bottles (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, PET Other Food Rigid","Depolymerization, Enzymatic Hydrolysis, PET Other Food Rigid (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, PET Other Food Rigid","Mechanical Recycling, PET Other Food Rigid (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, PET Other Non-food Rigid","Depolymerization, Enzymatic Hydrolysis, PET Other Non-food Rigid (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, PET Other Non-food Rigid","Mechanical Recycling, PET Other Non-food Rigid (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, PP Food Bottles","Mechanical Recycling, PP Food Bottles (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, PP Food Bottles","Pyrolysis, PP Food Bottles",0,1,0,0,0,0,0,0,1,1
+"Flakes, PP Food Packaging Film (med-large format)","Pyrolysis, PP Food Packaging Film (med-large format)",0,1,0,0,0,0,0,0,1,1
+"Flakes, PP Food Packaging Film (med-large format)","Mechanical Recycling, PP Food Packaging Film (med-large format) (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, PP Food Packaging Film (small format)","Mechanical Recycling, PP Food Packaging Film (small format) (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, PP Food Packaging Film (small format)","Pyrolysis, PP Food Packaging Film (small format)",0,1,0,0,0,0,0,0,1,1
+"Flakes, PP Non-food Bottles","Mechanical Recycling, PP Non-food Bottles (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, PP Non-food Bottles","Pyrolysis, PP Non-food Bottles",0,1,0,0,0,0,0,0,1,1
+"Flakes, PP Non-food Packaging Films","Pyrolysis, PP Non-food Packaging Films",0,1,0,0,0,0,0,0,1,1
+"Flakes, PP Non-food Packaging Films","Mechanical Recycling, PP Non-food Packaging Films (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, PP Other Food Rigid","Mechanical Recycling, PP Other Food Rigid (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, PP Other Food Rigid","Pyrolysis, PP Other Food Rigid",0,1,0,0,0,0,0,0,1,1
+"Flakes, PP Other Non-food Rigid","Mechanical Recycling, PP Other Non-food Rigid (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, PP Other Non-food Rigid","Pyrolysis, PP Other Non-food Rigid",0,1,0,0,0,0,0,0,1,1
+"Flakes, PS Other Food Rigid","Mechanical Recycling, PS Other Food Rigid (Flakes)",0,1,0,0,0,0,0,0,1,1
+"Flakes, PS Other Food Rigid","Depolymerization, Chemical Recycling with Metal Oxide, PS Other Food Rigid (Flakes)",0,1,0,0,0,0,0,0,1,1
+Electricity Mix (Global),Clean Electricity,0,0,0,1,0,0,0,1,1,1
+Electricity Mix (Global),Fossil Electricity,1,0,0,1,0,0,0,1,1,1
+"generated waste, HDPE drinking bottles","High-tech Sorting, Collected HDPE Drinking Bottles",0,1,0,0,0,0,0,0,0,1
+"generated waste, HDPE drinking bottles","Low-tech Sorting, Collected HDPE Drinking Bottles",0,1,0,0,0,0,0,0,0,1
+"generated waste, HDPE drinking bottles","Disposal, HDPE Drinking Bottles (copy)",1,1,0,0,0,0,0,0,0,1
+"generated waste, HDPE food bottles","Low-tech Sorting, Collected HDPE Food Bottles",0,1,0,0,0,0,0,0,0,1
+"generated waste, HDPE food bottles","High-tech Sorting, Collected HDPE Food Bottles",0,1,0,0,0,0,0,0,0,1
+"generated waste, HDPE food bottles","Disposal, HDPE Food Bottles (copy)",1,1,0,0,0,0,0,0,0,1
+"generated waste, HDPE non-food bottles","Low-tech Sorting, Collected HDPE Non-food Bottles",0,1,0,0,0,0,0,0,0,1
+"generated waste, HDPE non-food bottles","High-tech Sorting, Collected HDPE Non-food Bottles",0,1,0,0,0,0,0,0,0,1
+"generated waste, HDPE non-food bottles","Disposal, HDPE Non-food Bottles (copy)",1,1,0,0,0,0,0,0,0,1
+"generated waste, HDPE other food rigid","Low-tech Sorting, Collected HDPE Other Food Rigid",0,1,0,0,0,0,0,0,0,1
+"generated waste, HDPE other food rigid","High-tech Sorting, Collected HDPE Other Food Rigid",0,1,0,0,0,0,0,0,0,1
+"generated waste, HDPE other food rigid","Disposal, HDPE Other Food Rigid (copy)",1,1,0,0,0,0,0,0,0,1
+"generated waste, HDPE Other Non-food Rigid","Low-tech Sorting, Collected HDPE Other Non-food Rigid",0,1,0,0,0,0,0,0,0,1
+"generated waste, HDPE Other Non-food Rigid","High-tech Sorting, Collected HDPE Other Non-food Rigid",0,1,0,0,0,0,0,0,0,1
+"generated waste, HDPE Other Non-food Rigid","Disposal, HDPE Other Non-food Rigid (copy)",1,1,0,0,0,0,0,0,0,1
+"generated waste, LDPE Food Packaging Film (med-large format)","Low-tech Sorting, Collected LDPE Food Packaging Film (med-large format)",0,1,0,0,0,0,0,0,0,1
+"generated waste, LDPE Food Packaging Film (med-large format)","High-tech Sorting, Collected LDPE Food Packaging Film (med-large format)",0,1,0,0,0,0,0,0,0,1
+"generated waste, LDPE Food Packaging Film (med-large format)","Disposal, LDPE Food Packaging Film (med-large format) (copy)",1,1,0,0,0,0,0,0,0,1
+"generated waste, LDPE Food Packaging Film (small format)","Low-tech Sorting, Collected LDPE Food Packaging Film (small format)",0,1,0,0,0,0,0,0,0,1
+"generated waste, LDPE Food Packaging Film (small format)","High-tech Sorting, Collected LDPE Food Packaging Film (small format)",0,1,0,0,0,0,0,0,0,1
+"generated waste, LDPE Food Packaging Film (small format)","Disposal, LDPE Food Packaging Film (small format) (copy)",1,1,0,0,0,0,0,0,0,1
+"generated waste, LDPE Non-food Packaging Film","Low-tech Sorting, Collected LDPE Non-food Packaging Film",0,1,0,0,0,0,0,0,0,1
+"generated waste, LDPE Non-food Packaging Film","High-tech Sorting, Collected LDPE Non-food Packaging Film",0,1,0,0,0,0,0,0,0,1
+"generated waste, LDPE Non-food Packaging Film","Disposal, LDPE Non-food Packaging Films (copy)",1,1,0,0,0,0,0,0,0,1
+"generated waste, Multi-material Food Bottles","Low-tech Sorting, Collected Multi-material Food Bottles",0,1,0,0,0,0,0,0,0,1
+"generated waste, Multi-material Food Bottles","High-tech Sorting, Collected Multi-material Food Bottles",0,1,0,0,0,0,0,0,0,1
+"generated waste, Multi-material Food Bottles","Disposal, Multi-material Food Bottles (copy)",1,1,0,0,0,0,0,0,0,1
+"generated waste, Multi-material Food Packaging Film (med-large format)","Low-tech Sorting, Collected Multi-material Food Packaging Film (med-large format)",0,1,0,0,0,0,0,0,0,1
+"generated waste, Multi-material Food Packaging Film (med-large format)","High-tech Sorting, Collected Multi-material Food Packaging Film (med-large format)",0,1,0,0,0,0,0,0,0,1
+"generated waste, Multi-material Food Packaging Film (med-large format)","Disposal, Multi-material Food Packaging Film (med-large format) (copy)",1,1,0,0,0,0,0,0,0,1
+"generated waste, Multi-material Food Packaging Film (small format)","Low-tech Sorting, Collected Multi-material Food Packaging Film (small format)",0,1,0,0,0,0,0,0,0,1
+"generated waste, Multi-material Food Packaging Film (small format)","High-tech Sorting, Collected Multi-material Food Packaging Film (small format)",0,1,0,0,0,0,0,0,0,1
+"generated waste, Multi-material Food Packaging Film (small format)","Disposal, Multi-material Food Packaging Film (small format) (copy)",1,1,0,0,0,0,0,0,0,1
+"generated waste, Multi-material Non-food Packaging Film","Low-tech Sorting, Collected Multi-material Non-food Packaging Film",0,1,0,0,0,0,0,0,0,1
+"generated waste, Multi-material Non-food Packaging Film","High-tech Sorting, Collected Multi-material Non-food Packaging Film",0,1,0,0,0,0,0,0,0,1
+"generated waste, Multi-material Non-food Packaging Film","Disposal, Multi-material Non-food Packaging Film (copy)",1,1,0,0,0,0,0,0,0,1
+"generated waste, PET Drinking Bottles","Low-tech Sorting, Collected PET Drinking Bottles",0,1,0,0,0,0,0,0,0,1
+"generated waste, PET Drinking Bottles","High-tech Sorting, Collected PET Drinking Bottles",0,1,0,0,0,0,0,0,0,1
+"generated waste, PET Drinking Bottles","Disposal, PET Drinking Bottles (copy)",1,1,0,0,0,0,0,0,0,1
+"generated waste, PET Food Bottles","Low-tech Sorting, Collected PET Food Bottles",0,1,0,0,0,0,0,0,0,1
+"generated waste, PET Food Bottles","High-tech Sorting, Collected PET Food Bottles",0,1,0,0,0,0,0,0,0,1
+"generated waste, PET Food Bottles","Disposal, PET Food Bottles (copy)",1,1,0,0,0,0,0,0,0,1
+"generated waste, PET Non-food Bottles","Low-tech Sorting, Collected PET Non-food Bottles",0,1,0,0,0,0,0,0,0,1
+"generated waste, PET Non-food Bottles","High-tech Sorting, Collected PET Non-food Bottles",0,1,0,0,0,0,0,0,0,1
+"generated waste, PET Non-food Bottles","Disposal, PET Non-food Bottles (copy)",1,1,0,0,0,0,0,0,0,1
+"generated waste, PET Other Food Rigid","Low-tech Sorting, Collected PET Other Food Rigid",0,1,0,0,0,0,0,0,0,1
+"generated waste, PET Other Food Rigid","High-tech Sorting, Collected PET Other Food Rigid",0,1,0,0,0,0,0,0,0,1
+"generated waste, PET Other Food Rigid","Disposal, PET Other Food Rigid (copy)",1,1,0,0,0,0,0,0,0,1
+"generated waste, PET Other Non-Food Rigid","Low-tech Sorting, Collected PET Other Non-Food Rigid",0,1,0,0,0,0,0,0,0,1
+"generated waste, PET Other Non-Food Rigid","High-tech Sorting, Collected PET Other Non-Food Rigid",0,1,0,0,0,0,0,0,0,1
+"generated waste, PET Other Non-Food Rigid","Disposal, PET Other Non-food Rigid (copy)",1,1,0,0,0,0,0,0,0,1
+"generated waste, PP Food Bottles","Low-tech Sorting, Collected PP Food Bottles",0,1,0,0,0,0,0,0,0,1
+"generated waste, PP Food Bottles","High-tech Sorting, Collected PP Food Bottles",0,1,0,0,0,0,0,0,0,1
+"generated waste, PP Food Bottles","Disposal, PP Food Bottles (copy)",1,1,0,0,0,0,0,0,0,1
+"generated waste, PP Food Packaging Film (med-large format)","Low-tech Sorting, Collected PP Food Packaging Film (med-large format)",0,1,0,0,0,0,0,0,0,1
+"generated waste, PP Food Packaging Film (med-large format)","High-tech Sorting, Collected PP Food Packaging Film (med-large format)",0,1,0,0,0,0,0,0,0,1
+"generated waste, PP Food Packaging Film (med-large format)","Disposal, PP Food Packaging Film (med-large format) (copy)",1,1,0,0,0,0,0,0,0,1
+"generated waste, PP Food Packaging Film (small format)","Low-tech Sorting, Collected PP Food Packaging Film (small format)",0,1,0,0,0,0,0,0,0,1
+"generated waste, PP Food Packaging Film (small format)","High-tech Sorting, Collected PP Food Packaging Film (small format)",0,1,0,0,0,0,0,0,0,1
+"generated waste, PP Food Packaging Film (small format)","Disposal, PP Food Packaging Film (small format) (copy)",1,1,0,0,0,0,0,0,0,1
+"generated waste, PP Non-food Bottles","Low-tech Sorting, Collected PP Non-food Bottles",0,1,0,0,0,0,0,0,0,1
+"generated waste, PP Non-food Bottles","High-tech Sorting, Collected PP Non-food Bottles",0,1,0,0,0,0,0,0,0,1
+"generated waste, PP Non-food Bottles","Disposal, PP Non-food Bottles (copy)",1,1,0,0,0,0,0,0,0,1
+"generated waste, PP Non-food Packaging Film","Low-tech Sorting, Collected PP Non-food Packaging Film",0,1,0,0,0,0,0,0,0,1
+"generated waste, PP Non-food Packaging Film","High-tech Sorting, Collected PP Non-food Packaging Film",0,1,0,0,0,0,0,0,0,1
+"generated waste, PP Non-food Packaging Film","Disposal, PP Non-food Packaging Films (copy)",1,1,0,0,0,0,0,0,0,1
+"generated waste, PP Other Food Rigid","Low-tech Sorting, Collected PP Other Food Rigid",0,1,0,0,0,0,0,0,0,1
+"generated waste, PP Other Food Rigid","High-tech Sorting, Collected PP Other Food Rigid",0,1,0,0,0,0,0,0,0,1
+"generated waste, PP Other Food Rigid","Disposal, PP Other Food Rigid (copy)",1,1,0,0,0,0,0,0,0,1
+"generated waste, PP Other Non-food Rigid","Low-tech Sorting, Collected PP Other Non-food Rigid",0,1,0,0,0,0,0,0,0,1
+"generated waste, PP Other Non-food Rigid","High-tech Sorting, Collected PP Other Non-food Rigid",0,1,0,0,0,0,0,0,0,1
+"generated waste, PP Other Non-food Rigid","Disposal, PP Other Non-food Rigid (copy)",1,1,0,0,0,0,0,0,0,1
+"generated waste, PS Other Food Rigid","Low-tech Sorting, Collected PS Other Food Rigid",0,1,0,0,0,0,0,0,0,1
+"generated waste, PS Other Food Rigid","High-tech Sorting, Collected PS Other Food Rigid",0,1,0,0,0,0,0,0,0,1
+"generated waste, PS Other Food Rigid","Disposal, PS Other Food Rigid (copy)",1,1,0,0,0,0,0,0,0,1
+"generated waste, PVC Other Food Rigid","Low-tech Sorting, Collected PVC Other Food Rigid",0,1,0,0,0,0,0,0,0,1
+"generated waste, PVC Other Food Rigid","High-tech Sorting, Collected PVC Other Food Rigid",0,1,0,0,0,0,0,0,0,1
+"generated waste, PVC Other Food Rigid","Disposal, PVC Other Food Rigid (copy)",1,1,0,0,0,0,0,0,0,1
+"generated waste, PVC Other Non-food Rigid","Low-tech Sorting, Collected PVC Other Non-food Rigid",0,1,0,0,0,0,0,0,0,1
+"generated waste, PVC Other Non-food Rigid","High-tech Sorting, Collected PVC Other Non-food Rigid",0,1,0,0,0,0,0,0,0,1
+"generated waste, PVC Other Non-food Rigid","Disposal, PVC Other Non-food Rigid (copy)",1,1,0,0,0,0,0,0,0,1
+Heat (Boiler),"Heat, Coal",0,0,0,0,1,0,0,0,0,1
+Heat (Boiler),"Heat, Coke & Breeze",0,0,0,0,1,0,0,0,0,1
+Heat (Boiler),"Heat, Diesel",0,0,0,0,1,0,0,0,0,1
+Heat (Boiler),"Heat, Electric Heater",0,0,0,0,1,0,0,0,0,1
+Heat (Boiler),"Heat, LPG & NGL",0,0,0,0,1,0,0,0,0,1
+Heat (Boiler),"Heat, Natural Gas",1,0,0,0,1,0,0,0,0,1
+Heat (Boiler),"Heat, Other",0,0,0,0,1,0,0,0,0,1
+Heat (Boiler),"Heat, Residual Fuel Oil",0,0,0,0,1,0,0,0,0,1
