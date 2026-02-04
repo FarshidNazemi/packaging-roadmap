@@ -176,11 +176,5 @@ Glucose,"Glucose, from switchgrass",0,0,1,0,0,0,0,0,1
 "generated waste, PVC Other Non-food Rigid","Low-tech Sorting, Collected PVC Other Non-food Rigid",0,1,0,0,0,0,0,0,1
 "generated waste, PVC Other Non-food Rigid","High-tech Sorting, Collected PVC Other Non-food Rigid",0,1,0,0,0,0,0,0,1
 "generated waste, PVC Other Non-food Rigid","Disposal, PVC Other Non-food Rigid (copy)",1,1,0,0,0,0,0,0,1
-Heat (Boiler),"Heat, Coal",0,0,0,1,0,0,0,0,1
-Heat (Boiler),"Heat, Coke & Breeze",0,0,0,1,0,0,0,0,1
-Heat (Boiler),"Heat, Diesel",0,0,0,1,0,0,0,0,1
 Heat (Boiler),"Heat, Electric Heater",0,0,0,1,0,0,0,0,1
-Heat (Boiler),"Heat, LPG & NGL",0,0,0,1,0,0,0,0,1
 Heat (Boiler),"Heat, Natural Gas",1,0,0,1,0,0,0,0,1
-Heat (Boiler),"Heat, Other",0,0,0,1,0,0,0,0,1
-Heat (Boiler),"Heat, Residual Fuel Oil",0,0,0,1,0,0,0,0,1
