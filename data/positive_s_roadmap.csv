@@ -309,10 +309,6 @@ d045a1a9-6953-4f5e-976d-42716e504038,PP Non-food Packaging Films,e57642e2-e5e2-4
 37aa86f4-ceda-48a7-a2cd-0d7975436456,"High-tech Sorting, Collected PET Drinking Bottles",50d86ad9-332e-4038-ab62-40edfcd3472e,Collected PET Drinking Bottles,kg,waste
 859f2f1b-af09-438d-a15f-18aaf447b706,"Mechanical Recycling, PVC Other Food Rigid (Flakes)",994c9c18-70a1-4924-91d2-774c1f394350,"Flakes, PVC Other Food Rigid",kg,waste
 37e122da-c6ba-402e-a280-aaf2b1e045a3,"Cyclohexa-2,5-diene-1,4-dicarboxylate Production, Diels-Alder process",ae6ea44a-0cae-4b43-b7f8-d0d6a4593c7f,"Cyclohexa-2,5-diene-1,4-dicarboxylate",kg,product
-01e3fe24-ddf0-4bf9-acf2-e31861f42610,"Ethanol production, switchgrass, biochemical",005db14f-6fc8-32d3-95a6-c7b8b8d30fb1,"Ethanol, denatured, switchgrass, biochemical",kg,product
-1704b742-0ec2-46c1-849d-49944bf97c26,"Ethanol production, corn stover, biochemical",7f49cac3-84a7-345a-abaa-c3671a78c38f,"Ethanol, denatured, corn stover, biochemical",kg,product
-c0c13159-d849-4b87-940b-8adbb30a4744,"Ethanol production, forest residues, thermochem",2656bfd3-ed3c-3fb8-ab93-6597836a463b,"Ethanol, denatured, forest residues, thermochem",kg,product
-03391080-1d6c-4456-af6d-0bad08c2a0a2,"Ethanol production, corn dry mill",f4364ab6-cb8c-3b5c-a9d7-dfe57ac7bceb,"Ethanol, denatured, corn dry mill",kg,product
 05b5adb8-c3ec-4951-9b36-c356377fc642,"Pyrolysis, PP Non-food Packaging Films",ef4c57fe-5315-456f-9aa2-8bf0961872f7,"Flakes, PP Non-food Packaging Films",kg,waste
 548e5d1b-d0dc-45af-8193-23e254a06904,"Reclaiming, Sorted HDPE Drinking Bottles",6a893497-2491-4fd0-a3ee-aceb80684cd9,Sorted HDPE Drinking Bottles,kg,waste
 f5fb57a3-20c4-47c9-8cf6-c37f78a9655e,"Open Burning, LDPE",cd624074-1cd8-41bd-b9c3-479185650763,"Open Burning, LDPE",kg,waste
@@ -335,18 +331,6 @@ e330eea9-fd39-4b6c-99ee-b136784532a4,"Styrene production, corn stover",4a72778b-
 0bb79f5b-2df0-4a41-9d3d-298c0b3804f8,"Propylene production, fossil, steam cracker",e86e8b04-8e64-3a17-95c3-04c07229f0ac,"Propylene, at plant",kg,product
 79a475cf-3132-489b-b2e7-b0fd9eca3b1e,"Propylene production, ethanol dehydration and metathesis",e86e8b04-8e64-3a17-95c3-04c07229f0ac,"Propylene, at plant",kg,product
 b2829206-7107-4f2f-a544-6ca748f45c13,"Disposal, PVC Microplastics Filtered",d8b2399c-ef3d-46c8-9d57-765589956d97,"Disposal, PVC Microplastics Filtered",kg,waste
-,"Benzene, at plant",db548272-c05b-39c4-926e-ba9e10a29195,"Benzene, at plant",kg,product
-,Cooling water,,,,
-,Process water (cut-off),,,,
-,"Electricity, biomass (life cycle)",,,,
-,"Electricity, coal (life cycle)",,,,
-,"Electricity, geothermal (life cycle)",,,,
-,"Electricity, hydropower (life cycle)",,,,
-,"Electricity, natural gas (life cycle)",,,,
-,"Electricity, nuclear (life cycle)",,,,
-,"Electricity, oil (life cycle)",,,,
-,"Electricity, solar (life cycle)",,,,
-,"Electricity, wind (life cycle)",,,,
 ,Fermentation CO2,,,,
 ,Plastic Incineration CO2,,,,
 ,Steam Cracker CO2,,,,
@@ -409,14 +393,3 @@ b2829206-7107-4f2f-a544-6ca748f45c13,"Disposal, PVC Microplastics Filtered",d8b2
 ,"Disposal, PS Other Food Rigid (copy)",,,,
 ,"Disposal, PVC Other Food Rigid (copy)",,,,
 ,"Disposal, PVC Other Non-food Rigid (copy)",,,,
-,"Heat, Coal",,,,
-,"Heat, Coke & Breeze",,,,
-,"Heat, Diesel",,,,
-,"Heat, Electric Heater",,,,
-,"Heat, LPG & NGL",,,,
-,"Heat, Natural Gas",,,,
-,"Heat, Other",,,,
-,"Heat, Residual Fuel Oil",,,,
-,Electricity Mix (Global),,,,
-,Heat (Boiler),,,,
-,"Natural gas, combusted in industrial equipment",,,,
