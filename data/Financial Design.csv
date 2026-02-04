@@ -1,8 +1,6 @@
 Category,Variable,Flow,LCI Flow Index,LCI Column Index,Value,Units (USD / unit),Original Value,Original Cost Year,Notes
 VOC,utility,diesel,"Diesel, combusted in industrial equipment","Diesel, combusted in industrial equipment",1230,m3,1230,2025,https://www.globalpetrolprices.com/diesel_prices/?utm_source=chatgpt.com
 VOC,raw material,natural gas,"Natural gas, production mixture, to material use","Natural gas, processed, for material use, at plant",0.17,kg,0.17,2025,https://fred.stlouisfed.org/series/PNGASUSUSDM?utm_source=chatgpt.com
-VOC,utility,natural gas,"Heat, Natural Gas","Heat, Natural Gas",0.0062,MJ,0.0062,2025,Chatgpt
-VOC,utility,LPG,"Heat, LPG & NGL","Heat, LPG & NGL",0.011,MJ,0.011,2025,Chatgpt
 VOC,raw material,HCL,"Hydrochloric acid, at plant, kg","Hydrochloric acid, HCl; MDI coproduct; at plant, 100% HCl",0.26,kg,0.26,2025,https://www.sanudotrade.com/chemicals/hydrochloric-acid?utm_source=chatgpt.com
 VOC,raw material,sodium hydroxide,Sodium hydroxide; at plant,Chlorine; chlor-alkali electrolysis; at plant,0.35,kg,0.35,2025,https://businessanalytiq.com/procurementanalytics/index/sodium-hydroxide-price-index/?utm_source=chatgpt.com
 VOC,raw material,sodium hypochlorite,"Sodium hypochlorite, 15% in H2O, at plant","Sodium hypochlorite, 15% in H2O, at plant Bridge; USLCI to USEEIO",0.4,kg,0.4,2025,https://www.imarcgroup.com/sodium-hypochlorite-pricing-report?utm_source=chatgpt.com
@@ -18,9 +16,6 @@ VOC,raw material,ethylene,"Ethylene, at plant, kg","Ethylene, materials producti
 VOC,raw material,chlorine,Chlorine; chlor-alkali electrolysis; at plant,Chlorine; chlor-alkali electrolysis; at plant,0.31,kg,0.31,2025,https://businessanalytiq.com/procurementanalytics/index/chlorine-price-index/?utm_source=chatgpt.com
 VOC,raw material,aniline,"Aniline, at plant",Aniline; at plant,1.02,kg,1.02,2025,https://businessanalytiq.com/procurementanalytics/index/aniline-price-index/?utm_source=chatgpt.com
 VOC,raw material,carbon monoxide,"Carbon monoxide, at plant","Carbon monoxide, at plant",0.436,kg,0.436,2025,https://www.imarcgroup.com/carbon-monoxide-price-trend?utm_source=chatgpt.com
-VOC,utility,diesel,"Heat, Diesel","Heat, Diesel",0.015,MJ,0.015,2025,Chatgpt
-VOC,utility,coal,"Heat, Coal","Heat, Coal",0.005,MJ,0.005,2025,Chatgpt
-VOC,utility,residual fuel oil,"Heat, Residual Fuel Oil","Heat, Residual Fuel Oil",0.015,MJ,0.015,2025,Chatgpt
 VOC,raw mateiral,oxygen,"Oxygen, liquid, at plant","Oxygen, liquid, at plant",0.355,kg,0.355,2025,https://www.chemanalyst.com/Pricing-data/oxygen-1575?utm_source=chatgpt.com
 VOC,waste managemet,waste water treatment,"Wastewater treatment level 1; Conventional plug flow activated sludge aggregate, solids reduction; at plant","Wastewater treatment; Conventional plug flow activated sludge, Level 1; at plant",0.39,m3,0.39,2022,https://www.deswater.com/DWT_articles/vol_264_papers/264_2022_91.pdf?utm_source=chatgpt.com
 VOC,raw material,gasoline,"Gasoline, at refinery","Petroleum refining, at refinery",110,m3,110,2024,https://www.iea.org/data-and-statistics/data-tools/end-use-prices-data-explorer?utm_source=chatgpt.com&tab=Overview
@@ -39,7 +34,6 @@ VOC,raw material,Nitrogen fertilizer,"Nitrogen fertilizer, production mix, at pl
 VOC,raw material,soy meal,"Soy meal, at plant","Soybean oil, crude, degummed, at plant",0.319,kg,0.319,2025,https://fred.stlouisfed.org/series/PSMEAUSDM?utm_source=chatgpt.com
 VOC,raw material,"Enzyme, Alpha-amylase","Enzyme, Alpha-amylase, Novozyme Liquozyme","Enzyme, Alpha-amylase, Novozyme Liquozyme",5,kg,5,2025,https://www.alibaba.com/showroom/industrial-grade-alpha-amylase.html?utm_source=chatgpt.com
 VOC,utility,Residual fuel oil,"Residual fuel oil, at refinery","Petroleum refining, at refinery",465,m3,465,2025,https://www.oilpriceapi.com/blog/bunker-fuel-cost-analysis-hfo-vs-vlsfo-vs-mgo-price-comparison-roi-calculator?utm_source=chatgpt.com
-VOC,utility,Wood waste,"Heat, Other","Heat, Other",0.005,MJ,0.005,2024,Chatgpt
 VOC,raw material,"Enzyme, Glucoamylase","Enzyme, Glucoamylase, Novozyme Spirizyme","Enzyme, Glucoamylase, Novozyme Spirizyme",25,kg,25,2025,https://shop-us.lallemandbrewing.com/glucoamylase-1-kg-gag51--15--10?srsltid=AfmBOopg9I16HA0hljQUmeke4Td0xmcky-tvrwCkB2j8fmgoLjkPHxrc&utm_source=chatgpt.com
 VOC,utility,dry wood residue,"Combustion, dry wood residue, AP-42","Combustion, dry wood residue, AP-42",0.00235,MJ,0.00235,2024,https://www.energy.gov/sites/default/files/2024-03/beto-2023-billion-ton-report_4-forestry.pdf?utm_source=chatgpt.com
 VOC,raw material,zeolite,"Zeolite, powder, at plant",Zeolite Bridge; USLCI to USEEIO,0.646,kg,0.646,2025,https://www.imarcgroup.com/zeolites-pricing-report?utm_source=chatgpt.com
@@ -62,5 +56,6 @@ VOC,raw material,forest residue,"Forest residue, preprocessed, at conversion fac
 VOC,raw material,switchgrass,"Switchgrass, at conversion plant","Switchgrass, at conversion plant, 2022",0.04,kg,0.04,2025,https://www.energy.gov/sites/default/files/2024-03/beto-2023-billion-ton-report_4-forestry.pdf?utm_source=chatgpt.com
 VOC,raw material,wheat straw,"Wheat straw, at conversion plant","Wheat straw, at conversion plant, 2022",0.04,kg,0.04,2025,https://www.energy.gov/sites/default/files/2024-03/beto-2023-billion-ton-report_4-forestry.pdf?utm_source=chatgpt.com
 VOC,raw material,crude oil,"Crude oil, production mixture, at extraction","Crude oil, production mixture, at extraction",0.49,kg,0.49,2025,https://thedocs.worldbank.org/en/doc/18675f1d1639c7a34d463f59263ba0a2-0050012025/related/CMO-Pink-Sheet-September-2025.pdf
-VOC,utility,"heat, electric","Heat, Electric Heater","Heat, Electric Heater",0.024,MJ,0.024,2025,Chatgpt
+VOC,utility,"heat, electric","Heat, Electric Heater","Heat, Electric Heater",0.0062,MJ,0.0062,2025,Chatgpt
 VOC,utility,electricity,"Electricity, at grid",Electricity Mix (Global),0.02928161041,MJ,0.02928161041,2025,IAM - SSP1 2025
+,,,"Heat, Natural Gas","Heat, Natural Gas",0.0062,MJ,0.0062,2025,
