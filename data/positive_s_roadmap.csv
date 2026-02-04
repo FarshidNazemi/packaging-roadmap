@@ -107,11 +107,6 @@ dd16097f-e09f-42f7-9791-5e89f203a210,"Disposal, PET Non-food Bottles",11c1111f-d
 625deca5-c86f-441d-9933-b3143f906461,"Pyrolysis, HDPE Other Non-food Rigid",f2815aea-2af2-4d0b-81b4-cedde09d5ffa,"Flakes, HDPE Other Non-food Rigid",kg,waste
 ae8acae4-3515-42ae-88b1-f110ce95809d,"Mechanical Recycling, LDPE Non-food Packaging Films (Flakes)",4e823bc2-b3c4-46c8-b00d-9a87e04d54fb,"Flakes, LDPE Non-food Packaging Films",kg,waste
 d2a29fa9-cdda-457d-a793-554e1513ce59,"Pyrolysis, Feedstock Recycling, Multimaterial Non-food Packaging Film, Mixed Plastic (Flakes)",eda2b90b-aae1-4567-965f-8dec3b7efa01,"Multimaterial non-food packaging film, mixed plastics (flakes)",kg,waste
-0898854c-e38f-3d23-880f-f8da7d65ca0c,"Ethanol, denatured, switchgrass, biochemical",005db14f-6fc8-32d3-95a6-c7b8b8d30fb1,"Ethanol, denatured, switchgrass, biochemical",kg,product
-d9cadd89-4203-375a-903a-63197cd29c6a,"Ethanol, denatured, forest residues, thermochem",2656bfd3-ed3c-3fb8-ab93-6597836a463b,"Ethanol, denatured, forest residues, thermochem",kg,product
-0879167f-989b-3e3b-b9c5-3c07ea0a3f8e,"Ethanol, denatured, corn stover, biochemical",7f49cac3-84a7-345a-abaa-c3671a78c38f,"Ethanol, denatured, corn stover, biochemical",kg,product
-7aa8e2ff-0e2f-3e6c-b168-ec5168b4be6a,"Ethanol, denatured, wheat straw, biochemical",4f541c34-ea5e-3580-a001-80ed28198120,"Ethanol, denatured, wheat straw, biochemical",kg,product
-8e3e47ea-ed49-329e-8931-29115917bc81,"Ethanol, denatured, corn dry mill",f4364ab6-cb8c-3b5c-a9d7-dfe57ac7bceb,"Ethanol, denatured, corn dry mill",kg,product
 1c7b0ae7-7761-4c6e-8e25-c0f8f08d6e25,"Delamination, Multi-material Food Packaging Film (med-large format) (Flakes)",f2dba607-9850-4f97-a1c2-1676c71a4027,"Flakes, Multi-material Food Packaging Film (med-large format)",kg,waste
 fa3871c0-d563-3300-9ec7-f26aafdabfa5,"Propylene oxide, at plant",e3e36b0b-cd9f-3394-924d-2e565e97d38d,"Propylene oxide, at plant",kg,product
 6503cc9e-56e3-4f35-b27c-ea3a8e5b0842,"Disposal, PET Other Food Rigid",37d8ea56-58a9-4392-acd6-943e7c6173f3,"Disposal, PET Other Food Rigid",kg,waste
@@ -338,7 +333,6 @@ b2829206-7107-4f2f-a544-6ca748f45c13,"Disposal, PVC Microplastics Filtered",d8b2
 ,"Glucose, from forrest residues (woody)",,,,
 ,"Glucose, from sugarcane",,,,
 ,"Glucose, from switchgrass",,,,
-,"Ethanol production, sugarcane",,,,
 ,"generated waste, HDPE drinking bottles",,,,
 ,"generated waste, HDPE food bottles",,,,
 ,"generated waste, HDPE non-food bottles",,,,
@@ -393,3 +387,12 @@ b2829206-7107-4f2f-a544-6ca748f45c13,"Disposal, PVC Microplastics Filtered",d8b2
 ,"Disposal, PS Other Food Rigid (copy)",,,,
 ,"Disposal, PVC Other Food Rigid (copy)",,,,
 ,"Disposal, PVC Other Non-food Rigid (copy)",,,,
+,"Ethanol, denatured, switchgrass, biochemical",,,,
+,"Ethanol, denatured, forest residues, thermochem",,,,
+,"Ethanol, denatured, corn stover, biochemical",,,,
+,"Ethanol, denatured, wheat straw, biochemical",,,,
+,"Ethanol, denatured, corn dry mill",,,,
+,"Glucose, from corn stover (residues)",,,,
+,"Glucose, from forrest residues (woody)",,,,
+,"Glucose, from sugarcane",,,,
+,"Glucose, from switchgrass",,,,
