@@ -1,24 +1,24 @@
 LCI Column Index,Unit,New LCI Column Index,Fuel Heat Content (MJ/unit),Boiler Efficiency
-"Natural gas, combusted in industrial boiler",m3,"Heat, Natural Gas",38,0.75
-"LPG, combusted in industrial boiler, at pulp and paper mill (EXCL.)",m3,"Heat, LPG & NGL",46,0.82
-"Natural gas, combusted in industrial boiler, at hydrocracker, for butadiene",m3,"Heat, Natural Gas",38,0.75
-"Diesel, combusted in industrial boiler",m3,"Heat, Diesel",36000,0.83
-"Bituminous coal, combusted in industrial boiler",kg,"Heat, Coal",25,0.81
-"Residual fuel oil, combusted in industrial boiler",m3,"Heat, Residual Fuel Oil",40000,0.83
-"Natural gas, combusted in industrial boiler, at hydrocracker, for ethylene",m3,"Heat, Natural Gas",38,0.75
-"Lignite coal, combusted in industrial boiler",kg,"Heat, Coal",25,0.81
-"Wood waste, unspecified, combusted in industrial boiler",kg,"Heat, Other",15,0.7
-"Hog fuel, pur., combusted in industrial boiler, at pulp and paper mill (EXCL.)",kg,"Heat, Other",9,0.7
-"RFO, combusted in industrial boiler, at pulp and paper mill (EXCL.)",m3,"Heat, Residual Fuel Oil",40000,0.83
-"Natural gas, combusted in industrial boiler, at pulp and paper mill (EXCL.)",m3,"Heat, Natural Gas",38,0.75
-"Liquefied petroleum gas, combusted in industrial boiler",m3,"Heat, LPG & NGL",46,0.82
-"Bituminous coal, combusted in industrial boiler, at pulp and paper mill (EXCL.)",kg,"Heat, Coal",25,0.81
-"TDF, combusted in industrial boiler, at pulp and paper mill (EXCL.)",kg,"Heat, Other",31,0.7
-"Hog fuel, self-gen., combusted in ind. boiler, at pulp and paper mill (EXCL.)",kg,"Heat, Other",9,0.7
-"Diesel, combusted in industrial boiler, at pulp and paper mill (EXCL.)",m3,"Heat, Diesel",36000,0.83
-"Anthracite coal, combusted in industrial boiler",kg,"Heat, Coal",25,0.81
-"Heat, onsite boiler, hardwood mill, average, SE",MJ,"Heat, Other",1,0.7
-"Wood fuel, hardwood, generated at lumber mill, combusted in industrial boiler, SE",kg,"Heat, Other",15,0.7
-"Wood fuel, hardwood, purchased, combusted in industrial boiler, SE",kg,"Heat, Other",15,0.7
-"Natural gas, combusted in industrial boiler, at hydrocracker, for pyrolysis gas",m3,"Heat, Natural Gas",38,0.75
-"Steam, purchased by containerboard mills",MJ,"Heat, Natural Gas",1,0.75
+"Natural gas, combusted in industrial boiler",m3,Heat (Boiler),38,0.75
+"LPG, combusted in industrial boiler, at pulp and paper mill (EXCL.)",m3,Heat (Boiler),46,0.82
+"Natural gas, combusted in industrial boiler, at hydrocracker, for butadiene",m3,Heat (Boiler),38,0.75
+"Diesel, combusted in industrial boiler",m3,Heat (Boiler),36000,0.83
+"Bituminous coal, combusted in industrial boiler",kg,Heat (Boiler),25,0.81
+"Residual fuel oil, combusted in industrial boiler",m3,Heat (Boiler),40000,0.83
+"Natural gas, combusted in industrial boiler, at hydrocracker, for ethylene",m3,Heat (Boiler),38,0.75
+"Lignite coal, combusted in industrial boiler",kg,Heat (Boiler),25,0.81
+"Wood waste, unspecified, combusted in industrial boiler",kg,Heat (Boiler),15,0.7
+"Hog fuel, pur., combusted in industrial boiler, at pulp and paper mill (EXCL.)",kg,Heat (Boiler),9,0.7
+"RFO, combusted in industrial boiler, at pulp and paper mill (EXCL.)",m3,Heat (Boiler),40000,0.83
+"Natural gas, combusted in industrial boiler, at pulp and paper mill (EXCL.)",m3,Heat (Boiler),38,0.75
+"Liquefied petroleum gas, combusted in industrial boiler",m3,Heat (Boiler),46,0.82
+"Bituminous coal, combusted in industrial boiler, at pulp and paper mill (EXCL.)",kg,Heat (Boiler),25,0.81
+"TDF, combusted in industrial boiler, at pulp and paper mill (EXCL.)",kg,Heat (Boiler),31,0.7
+"Hog fuel, self-gen., combusted in ind. boiler, at pulp and paper mill (EXCL.)",kg,Heat (Boiler),9,0.7
+"Diesel, combusted in industrial boiler, at pulp and paper mill (EXCL.)",m3,Heat (Boiler),36000,0.83
+"Anthracite coal, combusted in industrial boiler",kg,Heat (Boiler),25,0.81
+"Heat, onsite boiler, hardwood mill, average, SE",MJ,Heat (Boiler),1,0.7
+"Wood fuel, hardwood, generated at lumber mill, combusted in industrial boiler, SE",kg,Heat (Boiler),15,0.7
+"Wood fuel, hardwood, purchased, combusted in industrial boiler, SE",kg,Heat (Boiler),15,0.7
+"Natural gas, combusted in industrial boiler, at hydrocracker, for pyrolysis gas",m3,Heat (Boiler),38,0.75
+"Steam, purchased by containerboard mills",MJ,Heat (Boiler),1,0.75
