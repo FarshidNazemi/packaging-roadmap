@@ -21,3 +21,4 @@ LCI Column Index,Unit,New LCI Column Index,Fuel Heat Content (MJ/unit),Boiler Ef
 "Wood fuel, hardwood, generated at lumber mill, combusted in industrial boiler, SE",kg,"Heat, Other",15,0.7
 "Wood fuel, hardwood, purchased, combusted in industrial boiler, SE",kg,"Heat, Other",15,0.7
 "Natural gas, combusted in industrial boiler, at hydrocracker, for pyrolysis gas",m3,"Heat, Natural Gas",38,0.75
+"Steam, purchased by containerboard mills",MJ,"Heat, Natural Gas",1,0.75

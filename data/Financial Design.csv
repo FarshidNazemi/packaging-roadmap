@@ -1,6 +1,5 @@
 Category,Variable,Flow,LCI Flow Index,LCI Column Index,Value,Units (USD / unit),Original Value,Original Cost Year,Notes
 VOC,utility,diesel,"Diesel, combusted in industrial equipment","Diesel, combusted in industrial equipment",1230,m3,1230,2025,https://www.globalpetrolprices.com/diesel_prices/?utm_source=chatgpt.com
-VOC,utility,"steam, industrial, average","Steam, purchased by containerboard mills","Steam, purchased by containerboard mills",0.003,MJ,0.003,2025,assuming medium pressure steam (with energy content of 2.75 MJ/kg of steam) https://www.energystar.gov/sites/default/files/buildings/tools/bnch_cost.pdf?utm_source=chatgpt.com
 VOC,raw material,natural gas,"Natural gas, production mixture, to material use","Natural gas, processed, for material use, at plant",0.17,kg,0.17,2025,https://fred.stlouisfed.org/series/PNGASUSUSDM?utm_source=chatgpt.com
 VOC,utility,natural gas,"Heat, Natural Gas","Heat, Natural Gas",0.0062,MJ,0.0062,2025,Chatgpt
 VOC,utility,LPG,"Heat, LPG & NGL","Heat, LPG & NGL",0.011,MJ,0.011,2025,Chatgpt
