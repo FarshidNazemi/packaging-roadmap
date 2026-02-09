@@ -1,4 +1,9 @@
 index,indicator ID,indicator name,indicator unit
 0,a6206006-65bc-395c-8dc9-f12262f45a04,AR6-100,kg CO2 eq
-1,a0562cb1-15d8-423b-8245-251cc8f0c409,Marine Biodiversity Loss (Plastic Pollution),
-2,8a2e4bda-fd72-44fc-95df-28926ad48b84,human health impact,DALLY
+1,521a864a-7a92-48b1-a9dd-98ddaf054160,plastic-caused biodiversity loss - total,
+2,af4658cc-8eae-4a05-8115-c73e813fc754,plastic-caused biodiversity loss - terrestrial,
+3,478f9a3e-70a2-4198-a13b-6b995c1cc826,plastic-caused biodiversity loss - marine,
+4,b65a68cd-d219-4bc1-a421-8dd8d3b3241d,plastic pollution - mircoplastics total,
+5,44343a3a-3580-4499-b6be-b777833b1981,plastic pollution - marine environment,
+6,8b9f4791-410d-4561-9be9-9a4790a43cbb,plastic pollution - total,
+7,a64f4a8a-8e0f-4c01-be52-50ddae627493,plastic pollution - terrestrial environment,

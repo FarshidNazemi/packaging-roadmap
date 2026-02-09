@@ -3241,6 +3241,4 @@ index,is input,flow ID,flow name,flow category,flow unit,flow type,location ID,l
 3239,false,fdcc66ca-dfec-4bdb-a56f-cd5aef252b6a,"PVC, Primary Microplastic to Marine Environment",,kg,elementary,,,
 3240,false,bf72dd7f-1d44-462e-8eca-6a2c8566417e,CO2-biogenic-land,,kg,elementary,,,
 3241,false,8e106a99-8daa-4ed2-ae38-ff796f33bf77,Terrestrial Macro Multilayer-rigid-large,,kg,elementary,,,
-3242,false,523e9de2-4db5-41d9-9640-69b1b4d0880b,Fragmented PET-rigid-large,,kg,elementary,,,
-3243,false,0d2008c0-2b02-4eae-b0cb-79d1ac2de037,Fragmented Multilayer-rigid-large,,kg,elementary,,,
-3244,false,4df916dd-d289-4ca4-97dd-99568c42132b,Terrestrial Macro PP-flexible-small,,kg,elementary,,,
+3242,false,4df916dd-d289-4ca4-97dd-99568c42132b,Terrestrial Macro PP-flexible-small,,kg,elementary,,,
